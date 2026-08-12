@@ -81,6 +81,9 @@ Depois abra `reports/dashboard.html` no navegador.
 
 O dashboard `Agroscope` e uma aplicacao HTML/CSS/JavaScript estatica gerada pelo pipeline Python. Ele apresenta uma leitura executiva da safra atual, com filtros por visao, produto, regiao e busca textual.
 
+Versao para GitHub Pages: `docs/index.html`.
+URL esperada apos ativar o Pages: `https://wwerneck.github.io/Analise-do-Agro/`.
+
 Principais recursos:
 
 - KPIs de producao, area, produtividade e variacao.
@@ -124,16 +127,13 @@ A pasta `sql` contem:
 
 ## Preparacao para GitHub
 
-Esta pasta ainda precisa ser inicializada como repositorio Git antes do primeiro push. Fluxo sugerido:
+Repositorio Git local preparado na branch `main`. Para publicar no GitHub:
 
 ```powershell
-git init
-git add .
-git commit -m "Initial Agroscope analytics project"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/agroscope.git
 git push -u origin main
 ```
+
+Depois, no GitHub, ative o Pages em `Settings > Pages > Build and deployment > Deploy from a branch`, escolhendo `main` e a pasta `/docs`.
 
 Antes do push, rode:
 
