@@ -536,6 +536,16 @@ def make_figures(products: pd.DataFrame, states: pd.DataFrame) -> None:
 
     product_rows = analytical_rows(products, "produto")
     state_ufs = analytical_rows(states, "uf")
+    figure_titles = {
+        "top_10_produtos_producao": "Top 10 Produtos por Producao",
+        "top_10_ufs_producao": "Top 10 UFs por Producao",
+        "top_10_produtos_variacao_producao_pct": "Top 10 Produtos por Variacao da Producao",
+        "top_10_produtos_area": "Top 10 Produtos por Area",
+        "pareto_produtos_producao": "Pareto da Producao por Produto",
+        "pareto_ufs_producao": "Pareto da Producao por UF",
+        "area_x_producao_produtos": "Area x Producao por Produto",
+        "produtividade_x_producao_produtos": "Produtividade x Producao por Produto",
+    }
     for df, label, col in [
         (
             product_rows.sort_values("producao_atual_mil_t", ascending=False).head(10),
@@ -564,8 +574,8 @@ def make_figures(products: pd.DataFrame, states: pd.DataFrame) -> None:
         )
         ax.barh(df[col], df[value_col], color="#2f6f73")
         ax.invert_yaxis()
-        ax.set_title(label.replace("_", " ").title())
-        ax.set_xlabel(f"{value_col} - Fonte: CONAB")
+        ax.set_title(figure_titles[label])
+        ax.set_xlabel(value_col)
         fig.tight_layout()
         fig.savefig(FIGURES_DIR / f"{label}.png", dpi=160)
         plt.close(fig)
@@ -583,7 +593,7 @@ def make_figures(products: pd.DataFrame, states: pd.DataFrame) -> None:
         ax2.plot(pareto[entity_col].head(15), pareto["participacao_acumulada_pct"].head(15), color="#9b4d2e", marker="o")
         ax2.axhline(80, color="#444444", linestyle="--", linewidth=1)
         ax2.set_ylabel("Participacao acumulada (%)")
-        ax1.set_title(label.replace("_", " ").title())
+        ax1.set_title(figure_titles[label])
         fig.tight_layout()
         fig.savefig(FIGURES_DIR / f"{label}.png", dpi=160)
         plt.close(fig)
@@ -594,8 +604,8 @@ def make_figures(products: pd.DataFrame, states: pd.DataFrame) -> None:
     ]:
         fig, ax = plt.subplots(figsize=(9, 6))
         ax.scatter(product_rows[x_col], product_rows["producao_atual_mil_t"], color="#2f6f73", alpha=0.8)
-        ax.set_title(label.replace("_", " ").title())
-        ax.set_xlabel(f"{x_col} - Fonte: CONAB")
+        ax.set_title(figure_titles[label])
+        ax.set_xlabel(x_col)
         ax.set_ylabel("producao_atual_mil_t")
         fig.tight_layout()
         fig.savefig(FIGURES_DIR / f"{label}.png", dpi=160)
@@ -833,7 +843,7 @@ def write_dashboard(products: pd.DataFrame, states: pd.DataFrame, product_locati
   </style>
 </head>
 <body>
-  <header><div class="wrap hero"><div><p class="eyebrow">Fonte dos dados: CONAB</p><h1>Agroscope</h1><p class="subtitle">InteligÃªncia de dados sobre a produÃ§Ã£o agrÃ­cola brasileira, com rankings, variaÃ§Ãµes, produtividade e concentraÃ§Ã£o da safra analisada.</p></div><div class="meta"><span class="pill">Safra {CURRENT_PERIOD}</span><span class="pill">Comparativo {PREVIOUS_PERIOD}</span><span class="pill">{REFERENCE}</span></div></div></header>
+  <header><div class="wrap hero"><div><p class="eyebrow">Dados oficiais de safra</p><h1>Agroscope</h1><p class="subtitle">InteligÃªncia de dados sobre a produÃ§Ã£o agrÃ­cola brasileira, com rankings, variaÃ§Ãµes, produtividade e concentraÃ§Ã£o da safra analisada.</p></div><div class="meta"><span class="pill">Safra {CURRENT_PERIOD}</span><span class="pill">Comparativo {PREVIOUS_PERIOD}</span><span class="pill">{REFERENCE}</span></div></div></header>
   <div class="toolbar"><div class="wrap filters"><label>VisÃ£o<select id="view"><option value="states">Estados</option><option value="products">Culturas</option></select></label><label>Produto<select id="productFilter"></select></label><label>RegiÃ£o<select id="regionFilter"></select></label><label><span id="searchLabel">Estado</span><input id="search" type="search" placeholder="Buscar UF"></label></div></div>
   <main class="wrap">
     <div id="contextStrip" class="context-strip"></div>
@@ -968,7 +978,7 @@ def write_dashboard(products: pd.DataFrame, states: pd.DataFrame, product_locati
         ? `Top culturas por produÃ§Ã£o Â· ${{regionText}}`
         : `Estados com maior produÃ§Ã£o${{productText}}`;
       document.getElementById("scopeNote").textContent = view === "products"
-        ? `Culturas calculadas para ${{regionText}} a partir das abas oficiais por produto da CONAB.`
+        ? `Culturas calculadas para ${{regionText}} a partir das abas oficiais por produto da planilha-base.`
         : `Rankings estaduais consideram somente as 27 UFs vÃ¡lidas${{productText}}.`;
       renderBars("rankingBars", rows, view);
       renderKpis(rows, view);
@@ -984,7 +994,7 @@ def write_dashboard(products: pd.DataFrame, states: pd.DataFrame, product_locati
       const headers = ["item","producao_mil_t","area_mil_ha","produtividade_kg_ha","variacao_producao_pct","participacao_pct"];
       const csv = [headers.map(csvCell).join(","), ...rows.map(r => [nameOf(r, view), r.producao_atual_mil_t, r.area_atual_mil_ha, r.produtividade_atual_kg_ha, r.variacao_producao_pct_calc, shareOf(r)].map(csvCell).join(","))].join("\\n");
       const blob = new Blob([csv], {{type:"text/csv;charset=utf-8"}});
-      const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "conab_dados_filtrados.csv"; a.click(); URL.revokeObjectURL(a.href);
+      const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "agroscope_dados_filtrados.csv"; a.click(); URL.revokeObjectURL(a.href);
     }});
     setupFilters();
     ["view","productFilter","regionFilter","search"].forEach(id => document.getElementById(id).addEventListener("input", render));

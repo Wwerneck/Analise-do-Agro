@@ -23,7 +23,5 @@ ggplot(produtos, aes(producao_atual_mil_t)) +
   labs(
     title = "Distribuicao da producao por produto",
     x = "Producao atual (mil t)",
-    y = "Frequencia",
-    caption = "Fonte: CONAB"
+    y = "Frequencia"
   )
-

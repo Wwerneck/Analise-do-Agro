@@ -9,6 +9,5 @@ ggplot(subset(ufs, tipo_linha == "uf"), aes(reorder(regiao_uf, producao_atual_mi
   labs(
     title = "Producao por UF",
     x = "UF",
-    y = "Producao atual (mil t)",
-    caption = "Fonte: CONAB"
+    y = "Producao atual (mil t)"
   )

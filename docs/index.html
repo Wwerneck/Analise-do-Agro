@@ -72,7 +72,7 @@
   </style>
 </head>
 <body>
-  <header><div class="wrap hero"><div><p class="eyebrow">Fonte dos dados: CONAB</p><h1>Agroscope</h1><p class="subtitle">Inteligência de dados sobre a produção agrícola brasileira, com rankings, variações, produtividade e concentração da safra analisada.</p></div><div class="meta"><span class="pill">Safra 2025/26</span><span class="pill">Comparativo 2024/25</span><span class="pill">Estimativa em fevereiro/2026</span></div></div></header>
+  <header><div class="wrap hero"><div><p class="eyebrow">Dados oficiais de safra</p><h1>Agroscope</h1><p class="subtitle">Inteligência de dados sobre a produção agrícola brasileira, com rankings, variações, produtividade e concentração da safra analisada.</p></div><div class="meta"><span class="pill">Safra 2025/26</span><span class="pill">Comparativo 2024/25</span><span class="pill">Estimativa em fevereiro/2026</span></div></div></header>
   <div class="toolbar"><div class="wrap filters"><label>Visão<select id="view"><option value="states">Estados</option><option value="products">Culturas</option></select></label><label>Produto<select id="productFilter"></select></label><label>Região<select id="regionFilter"></select></label><label><span id="searchLabel">Estado</span><input id="search" type="search" placeholder="Buscar UF"></label></div></div>
   <main class="wrap">
     <div id="contextStrip" class="context-strip"></div>
@@ -207,7 +207,7 @@
         ? `Top culturas por produção · ${regionText}`
         : `Estados com maior produção${productText}`;
       document.getElementById("scopeNote").textContent = view === "products"
-        ? `Culturas calculadas para ${regionText} a partir das abas oficiais por produto da CONAB.`
+        ? `Culturas calculadas para ${regionText} a partir das abas oficiais por produto da planilha-base.`
         : `Rankings estaduais consideram somente as 27 UFs válidas${productText}.`;
       renderBars("rankingBars", rows, view);
       renderKpis(rows, view);
@@ -223,7 +223,7 @@
       const headers = ["item","producao_mil_t","area_mil_ha","produtividade_kg_ha","variacao_producao_pct","participacao_pct"];
       const csv = [headers.map(csvCell).join(","), ...rows.map(r => [nameOf(r, view), r.producao_atual_mil_t, r.area_atual_mil_ha, r.produtividade_atual_kg_ha, r.variacao_producao_pct_calc, shareOf(r)].map(csvCell).join(","))].join("\n");
       const blob = new Blob([csv], {type:"text/csv;charset=utf-8"});
-      const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "conab_dados_filtrados.csv"; a.click(); URL.revokeObjectURL(a.href);
+      const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "agroscope_dados_filtrados.csv"; a.click(); URL.revokeObjectURL(a.href);
     });
     setupFilters();
     ["view","productFilter","regionFilter","search"].forEach(id => document.getElementById(id).addEventListener("input", render));

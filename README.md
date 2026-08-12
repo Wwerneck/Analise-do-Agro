@@ -1,7 +1,5 @@
 # Agroscope
 
-![Dashboard Agroscope](docs/images/dashboard-desktop.png)
-
 Projeto de analytics com dados oficiais da CONAB para a estimativa da safra 2025/26, comparada a 2024/25. O objetivo e transformar arquivos brutos em bases auditaveis, metricas, visualizacoes, consultas SQL e um dashboard executivo estatico sobre a producao agricola brasileira.
 
 ## Destaques
@@ -81,8 +79,7 @@ Depois abra `reports/dashboard.html` no navegador.
 
 O dashboard `Agroscope` e uma aplicacao HTML/CSS/JavaScript estatica gerada pelo pipeline Python. Ele apresenta uma leitura executiva da safra atual, com filtros por visao, produto, regiao e busca textual.
 
-Versao para GitHub Pages: `docs/index.html`.
-URL esperada apos ativar o Pages: `https://wwerneck.github.io/Analise-do-Agro/`.
+Versao para GitHub Pages: `https://wwerneck.github.io/Analise-do-Agro/`.
 
 Principais recursos:
 
