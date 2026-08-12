@@ -1,0 +1,3 @@
+-- Exemplo de carga PostgreSQL. Ajuste os caminhos absolutos conforme o ambiente.
+-- \copy staging_produtos FROM 'data/processed/conab_produtos_clean.csv' WITH CSV HEADER ENCODING 'UTF8';
+-- \copy staging_ufs FROM 'data/processed/conab_ufs_clean.csv' WITH CSV HEADER ENCODING 'UTF8';

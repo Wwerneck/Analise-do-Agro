@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+pyarrow
+matplotlib
+plotly
+pytest
+scipy
+statsmodels
+sqlalchemy

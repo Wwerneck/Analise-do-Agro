@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.matplotlib/
+.ipynb_checkpoints/
+*.pyc
+.Rhistory
+.RData
+renv/library/
+/conab_brasil_por_uf_fev_2026.csv
+/conab_safra_graos_fev_2026.xlsx

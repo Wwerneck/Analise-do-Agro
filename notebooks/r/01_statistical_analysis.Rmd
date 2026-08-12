@@ -1,0 +1,9 @@
+---
+title: "CONAB Agro Analytics - Statistical Analysis"
+output: html_document
+---
+
+```{r}
+source("../../src/r/statistical_analysis.R")
+source("../../src/r/correlation_analysis.R")
+```
