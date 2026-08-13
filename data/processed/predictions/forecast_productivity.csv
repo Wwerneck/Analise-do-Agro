@@ -1,0 +1,615 @@
+safra_prevista,cultura,uf,tipo_linha,alvo,valor_anterior,valor_previsto,variacao_prevista_pct,limite_inferior,limite_superior,modelo_utilizado,MAE,RMSE,MAPE,confianca,observacoes,status
+2026/27,ALGODÃO - CAROÇO (1),BRASIL,PRODUTO,produtividade_kg_ha,2673.0141672860614,2673.0141672860614,0.0,,,baseline_ingenuo,99.64731545271889,99.64731545271889,3.727900759833676,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,BRASIL,PRODUTO,produtividade_kg_ha,1884.4851637679003,1884.4851637679003,0.0,,,baseline_ingenuo,69.96051689953333,69.96051689953333,3.712447210762436,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM 1ª SAFRA,BRASIL,PRODUTO,produtividade_kg_ha,4347.806569343065,4347.806569343065,0.0,,,baseline_ingenuo,145.73809625628473,145.73809625628473,3.3519912611545903,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM 2ª SAFRA,BRASIL,PRODUTO,produtividade_kg_ha,1667.7397260273974,1667.7397260273974,0.0,,,baseline_ingenuo,5.452054794520791,5.452054794520791,0.3269128095609821,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,BRASIL,PRODUTO,produtividade_kg_ha,4278.256309989335,4278.256309989335,0.0,,,baseline_ingenuo,142.30909172970678,142.30909172970678,3.326333941176646,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,BRASIL,PRODUTO,produtividade_kg_ha,6996.99743573306,6996.99743573306,0.0,,,baseline_ingenuo,235.5567906970091,235.5567906970091,3.366541046507191,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ IRRIGADO,BRASIL,PRODUTO,produtividade_kg_ha,7987.767782261255,7987.767782261255,0.0,,,baseline_ingenuo,483.3399370113657,483.3399370113657,6.051001358411262,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ SEQUEIRO,BRASIL,PRODUTO,produtividade_kg_ha,2766.475,2766.475,0.0,,,baseline_ingenuo,168.17933350228031,168.17933350228031,6.079192239303819,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,BRASIL,PRODUTO,produtividade_kg_ha,2253.0,2253.0,0.0,,,baseline_ingenuo,115.0,115.0,5.104305370616955,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,BRASIL,PRODUTO,produtividade_kg_ha,1620.0,1620.0,0.0,,,baseline_ingenuo,7.0,7.0,0.43209876543209874,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CAUPI,BRASIL,PRODUTO,produtividade_kg_ha,694.6872586872588,694.6872586872588,0.0,,,baseline_ingenuo,26.538768710001477,26.538768710001477,3.8202469353117876,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,BRASIL,PRODUTO,produtividade_kg_ha,2238.0,2238.0,0.0,,,baseline_ingenuo,143.0,143.0,6.389633601429848,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,BRASIL,PRODUTO,produtividade_kg_ha,3898.0,3898.0,0.0,,,baseline_ingenuo,460.0,460.0,11.800923550538737,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CORES,BRASIL,PRODUTO,produtividade_kg_ha,1801.9163434903048,1801.9163434903048,0.0,,,baseline_ingenuo,79.18534104261994,79.18534104261994,4.39450706625138,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO 1ª SAFRA,BRASIL,PRODUTO,produtividade_kg_ha,1202.040785385858,1202.040785385858,0.0,,,baseline_ingenuo,32.449701181124965,32.449701181124965,2.699550761974231,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO 2ª SAFRA,BRASIL,PRODUTO,produtividade_kg_ha,946.8739956172388,946.8739956172388,0.0,,,baseline_ingenuo,5.706820038785736,5.706820038785736,0.6027011054481046,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO 3ª SAFRA,BRASIL,PRODUTO,produtividade_kg_ha,1645.8824080580932,1645.8824080580932,0.0,,,baseline_ingenuo,80.57388746740116,80.57388746740116,4.895482634295051,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,BRASIL,PRODUTO,produtividade_kg_ha,1140.5752211028223,1140.5752211028223,0.0,,,baseline_ingenuo,4.3213406720758485,4.3213406720758485,0.3788737991254574,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,BRASIL,PRODUTO,produtividade_kg_ha,656.7940789473683,656.7940789473683,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,BRASIL,PRODUTO,produtividade_kg_ha,1606.7570532915358,1606.7570532915358,0.0,,,baseline_ingenuo,15.425499212502473,15.425499212502473,0.9600393028244336,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,BRASIL,PRODUTO,produtividade_kg_ha,1935.672798948752,1935.672798948752,0.0,,,baseline_ingenuo,498.5003851556485,498.5003851556485,25.75333937772851,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO 1ª SAFRA,BRASIL,PRODUTO,produtividade_kg_ha,6602.901352721517,6602.901352721517,0.0,,,baseline_ingenuo,6.75360672289662,6.75360672289662,0.10228241135410857,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO 2ª SAFRA,BRASIL,PRODUTO,produtividade_kg_ha,6106.075102966898,6106.075102966898,0.0,,,baseline_ingenuo,389.99198710039855,389.99198710039855,6.3869503817747715,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO 3ª SAFRA,BRASIL,PRODUTO,produtividade_kg_ha,4228.086423953727,4228.086423953727,0.0,,,baseline_ingenuo,485.5263929255043,485.5263929255043,11.483360183339952,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,BRASIL,PRODUTO,produtividade_kg_ha,6146.257586923323,6146.257586923323,0.0,,,baseline_ingenuo,317.594322592201,317.594322592201,5.167279732432782,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,PRETO,BRASIL,PRODUTO,produtividade_kg_ha,1145.4326241134752,1145.4326241134752,0.0,,,baseline_ingenuo,122.68085106383,122.68085106383,10.71043800230334,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,BRASIL,PRODUTO,produtividade_kg_ha,3674.764064383992,3674.764064383992,0.0,,,baseline_ingenuo,52.918176338303965,52.918176338303965,1.440042827543399,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,BRASIL,PRODUTO,produtividade_kg_ha,3670.833799418764,3670.833799418764,0.0,,,baseline_ingenuo,68.30210744398164,68.30210744398164,1.8606701140976887,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,BRASIL,PRODUTO,produtividade_kg_ha,2978.0,2978.0,0.0,,,baseline_ingenuo,241.0,241.0,8.09267965077233,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,BRASIL,PRODUTO,produtividade_kg_ha,2947.0,2947.0,0.0,,,baseline_ingenuo,264.0,264.0,8.958262639972855,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),CENTRO-OESTE,REGIAO,produtividade_kg_ha,2661.8885867970657,2661.8885867970657,0.0,,,baseline_ingenuo,127.5793397121206,127.5793397121206,4.792812905277574,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),NORDESTE,REGIAO,produtividade_kg_ha,2717.5752126754574,2717.5752126754574,0.0,,,baseline_ingenuo,49.24195616107909,49.24195616107909,1.8119813549741757,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),NORTE,REGIAO,produtividade_kg_ha,2647.2822479338847,2647.2822479338847,0.0,,,baseline_ingenuo,31.012662704413287,31.012662704413287,1.1714906005439214,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),SUDESTE,REGIAO,produtividade_kg_ha,2622.6366277665998,2622.6366277665998,0.0,,,baseline_ingenuo,210.4900498198317,210.4900498198317,8.025894536487202,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),SUL,REGIAO,produtividade_kg_ha,1770.0,1770.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,CENTRO-OESTE,REGIAO,produtividade_kg_ha,1864.733390926379,1864.733390926379,0.0,,,baseline_ingenuo,89.44789516285982,89.44789516285982,4.796819513079192,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,NORDESTE,REGIAO,produtividade_kg_ha,1955.589185452999,1955.589185452999,0.0,,,baseline_ingenuo,35.34028757861961,35.34028757861961,1.807142719007892,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,NORTE,REGIAO,produtividade_kg_ha,1713.378909090909,1713.378909090909,0.0,,,baseline_ingenuo,15.334690909091023,15.334690909091023,0.8949970626886822,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,SUDESTE,REGIAO,produtividade_kg_ha,1901.3331911468813,1901.3331911468813,0.0,,,baseline_ingenuo,151.97786795296497,151.97786795296497,7.993226471857473,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,SUL,REGIAO,produtividade_kg_ha,1230.0,1230.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,CENTRO-OESTE,REGIAO,produtividade_kg_ha,3969.0,3969.0,0.0,,,baseline_ingenuo,23.0,23.0,0.5794910556815319,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,NORDESTE,REGIAO,produtividade_kg_ha,981.4102564102564,981.4102564102564,0.0,,,baseline_ingenuo,13.333333333333258,13.333333333333258,1.3585891574134474,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,NORTE,REGIAO,produtividade_kg_ha,4000.0,4000.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,SUDESTE,REGIAO,produtividade_kg_ha,4405.941586748038,4405.941586748038,0.0,,,baseline_ingenuo,178.5015867480388,178.5015867480388,4.051383415634165,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,SUL,REGIAO,produtividade_kg_ha,2889.0,2889.0,0.0,,,baseline_ingenuo,100.0,100.0,3.4614053305642094,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,CENTRO-OESTE,REGIAO,produtividade_kg_ha,4230.666666666667,4230.666666666667,0.0,,,baseline_ingenuo,73.00597119775193,73.00597119775193,1.725637516492718,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,NORDESTE,REGIAO,produtividade_kg_ha,2820.965346534653,2820.965346534653,0.0,,,baseline_ingenuo,32.86065339385823,32.86065339385823,1.1648726360366357,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,NORTE,REGIAO,produtividade_kg_ha,4879.980661577609,4879.980661577609,0.0,,,baseline_ingenuo,197.93962222873597,197.93962222873597,4.056155873469091,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,SUDESTE,REGIAO,produtividade_kg_ha,4872.61943319838,4872.61943319838,0.0,,,baseline_ingenuo,163.0227118869043,163.0227118869043,3.345689400165127,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,SUL,REGIAO,produtividade_kg_ha,8305.130406413125,8305.130406413125,0.0,,,baseline_ingenuo,610.9207449315745,610.9207449315745,7.355944037432917,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,CENTRO-OESTE,REGIAO,produtividade_kg_ha,1427.0,1427.0,0.0,,,baseline_ingenuo,162.0,162.0,11.352487736510161,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,NORDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,NORTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,SUDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,SUL,REGIAO,produtividade_kg_ha,2320.0,2320.0,0.0,,,baseline_ingenuo,110.0,110.0,4.741379310344827,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,CENTRO-OESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,NORDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,NORTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,SUDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,SUL,REGIAO,produtividade_kg_ha,1620.0,1620.0,0.0,,,baseline_ingenuo,7.0,7.0,0.43209876543209874,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,CENTRO-OESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,NORDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,NORTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,SUDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,SUL,REGIAO,produtividade_kg_ha,2238.0,2238.0,0.0,,,baseline_ingenuo,143.0,143.0,6.389633601429848,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,CENTRO-OESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,NORDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,NORTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,SUDESTE,REGIAO,produtividade_kg_ha,3195.0,3195.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,SUL,REGIAO,produtividade_kg_ha,3918.0,3918.0,0.0,,,baseline_ingenuo,475.0,475.0,12.123532414497193,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,CENTRO-OESTE,REGIAO,produtividade_kg_ha,2089.5115268960903,2089.5115268960903,0.0,,,baseline_ingenuo,21.59538099864676,21.59538099864676,1.0335133700231882,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,NORDESTE,REGIAO,produtividade_kg_ha,527.8137399923751,527.8137399923751,0.0,,,baseline_ingenuo,67.59071347606897,67.59071347606897,12.805788927936094,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,NORTE,REGIAO,produtividade_kg_ha,1022.6400679117148,1022.6400679117148,0.0,,,baseline_ingenuo,64.98783906502968,64.98783906502968,6.3549083498887615,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,SUDESTE,REGIAO,produtividade_kg_ha,1847.0583844308185,1847.0583844308185,0.0,,,baseline_ingenuo,109.36399940408091,109.36399940408091,5.920982267043066,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,SUL,REGIAO,produtividade_kg_ha,1680.947474340914,1680.947474340914,0.0,,,baseline_ingenuo,78.9933759363505,78.9933759363505,4.699336364886903,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,CENTRO-OESTE,REGIAO,produtividade_kg_ha,717.8282329713721,717.8282329713721,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,NORDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,NORTE,REGIAO,produtividade_kg_ha,534.8461538461538,534.8461538461538,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,SUDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,SUL,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,CENTRO-OESTE,REGIAO,produtividade_kg_ha,1553.5965583173993,1553.5965583173993,0.0,,,baseline_ingenuo,35.9464627151051,35.9464627151051,2.313757875084147,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,NORDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,NORTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,SUDESTE,REGIAO,produtividade_kg_ha,1800.0,1800.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,SUL,REGIAO,produtividade_kg_ha,1893.0,1893.0,0.0,,,baseline_ingenuo,93.0,93.0,4.91283676703645,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,CENTRO-OESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,NORDESTE,REGIAO,produtividade_kg_ha,1935.672798948752,1935.672798948752,0.0,,,baseline_ingenuo,498.5003851556485,498.5003851556485,25.75333937772851,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,NORTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,SUDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,SUL,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,CENTRO-OESTE,REGIAO,produtividade_kg_ha,6869.889293001733,6869.889293001733,0.0,,,baseline_ingenuo,460.08034971436246,460.08034971436246,6.697056241983991,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,NORDESTE,REGIAO,produtividade_kg_ha,3311.220815606516,3311.220815606516,0.0,,,baseline_ingenuo,84.5865235355759,84.5865235355759,2.554541912061585,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,NORTE,REGIAO,produtividade_kg_ha,4680.142033293698,4680.142033293698,0.0,,,baseline_ingenuo,291.7498237201107,291.7498237201107,6.233781403313284,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,SUDESTE,REGIAO,produtividade_kg_ha,6016.680832341218,6016.680832341218,0.0,,,baseline_ingenuo,27.404594931925203,27.404594931925203,0.45547695973199054,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,SUL,REGIAO,produtividade_kg_ha,6711.961951853657,6711.961951853657,0.0,,,baseline_ingenuo,360.9591467607688,360.9591467607688,5.377848524023321,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,CENTRO-OESTE,REGIAO,produtividade_kg_ha,3794.234451284228,3794.234451284228,0.0,,,baseline_ingenuo,134.8556908519904,134.8556908519904,3.554226618925618,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,NORDESTE,REGIAO,produtividade_kg_ha,3704.423658570603,3704.423658570603,0.0,,,baseline_ingenuo,39.06154157472338,39.06154157472338,1.054456648994509,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,NORTE,REGIAO,produtividade_kg_ha,3592.618509988484,3592.618509988484,0.0,,,baseline_ingenuo,51.31706306488741,51.31706306488741,1.4284027909507124,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,SUDESTE,REGIAO,produtividade_kg_ha,3813.832508625993,3813.832508625993,0.0,,,baseline_ingenuo,124.59071805882695,124.59071805882695,3.266811475780125,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,SUL,REGIAO,produtividade_kg_ha,3441.990175524508,3441.990175524508,0.0,,,baseline_ingenuo,438.775868266066,438.775868266066,12.747737381301594,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,CENTRO-OESTE,REGIAO,produtividade_kg_ha,3853.7674894313377,3853.7674894313377,0.0,,,baseline_ingenuo,153.49495260884714,153.49495260884714,3.982984262278285,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,NORDESTE,REGIAO,produtividade_kg_ha,3537.7651736019084,3537.7651736019084,0.0,,,baseline_ingenuo,83.61260417586936,83.61260417586936,2.3634300207308776,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,NORTE,REGIAO,produtividade_kg_ha,2610.984466019417,2610.984466019417,0.0,,,baseline_ingenuo,8.502009879066009,8.502009879066009,0.3256246825561459,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,SUDESTE,REGIAO,produtividade_kg_ha,3829.0695652173913,3829.0695652173913,0.0,,,baseline_ingenuo,46.595726299107355,46.595726299107355,1.2168942220944459,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,SUL,REGIAO,produtividade_kg_ha,2528.7272727272725,2528.7272727272725,0.0,,,baseline_ingenuo,321.2727272727275,321.2727272727275,12.704918032786894,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,CENTRO-OESTE,REGIAO,produtividade_kg_ha,3416.0,3416.0,0.0,,,baseline_ingenuo,5.0,5.0,0.14637002341920377,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,NORDESTE,REGIAO,produtividade_kg_ha,6000.0,6000.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,NORTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,SUDESTE,REGIAO,produtividade_kg_ha,2844.0,2844.0,0.0,,,baseline_ingenuo,82.0,82.0,2.8832630098452885,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,SUL,REGIAO,produtividade_kg_ha,2969.0,2969.0,0.0,,,baseline_ingenuo,272.0,272.0,9.161333782418323,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,CENTRO-OESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,NORDESTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,NORTE,REGIAO,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,SUDESTE,REGIAO,produtividade_kg_ha,2722.0,2722.0,0.0,,,baseline_ingenuo,56.0,56.0,2.0573108008817047,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,SUL,REGIAO,produtividade_kg_ha,2990.0,2990.0,0.0,,,baseline_ingenuo,302.0,302.0,10.100334448160535,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),BRASIL,TOTAL_BRASIL,produtividade_kg_ha,2673.0141672860614,2673.0141672860614,0.0,,,baseline_ingenuo,99.64731545271889,99.64731545271889,3.727900759833676,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,1884.4851637679003,1884.4851637679003,0.0,,,baseline_ingenuo,69.96051689953333,69.96051689953333,3.712447210762436,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,4278.256309989335,4278.256309989335,0.0,,,baseline_ingenuo,142.30909172970678,142.30909172970678,3.326333941176646,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,6996.99743573306,6996.99743573306,0.0,,,baseline_ingenuo,235.5567906970091,235.5567906970091,3.366541046507191,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,2253.0,2253.0,0.0,,,baseline_ingenuo,115.0,115.0,5.104305370616955,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,1620.0,1620.0,0.0,,,baseline_ingenuo,7.0,7.0,0.43209876543209874,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,2238.0,2238.0,0.0,,,baseline_ingenuo,143.0,143.0,6.389633601429848,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,3898.0,3898.0,0.0,,,baseline_ingenuo,460.0,460.0,11.800923550538737,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,1140.5752211028223,1140.5752211028223,0.0,,,baseline_ingenuo,4.3213406720758485,4.3213406720758485,0.3788737991254574,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,656.7940789473683,656.7940789473683,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,1606.7570532915358,1606.7570532915358,0.0,,,baseline_ingenuo,15.425499212502473,15.425499212502473,0.9600393028244336,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,1935.672798948752,1935.672798948752,0.0,,,baseline_ingenuo,498.5003851556485,498.5003851556485,25.75333937772851,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,6146.257586923323,6146.257586923323,0.0,,,baseline_ingenuo,317.594322592201,317.594322592201,5.167279732432782,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,3674.764064383992,3674.764064383992,0.0,,,baseline_ingenuo,52.918176338303965,52.918176338303965,1.440042827543399,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,3670.833799418764,3670.833799418764,0.0,,,baseline_ingenuo,68.30210744398164,68.30210744398164,1.8606701140976887,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,2978.0,2978.0,0.0,,,baseline_ingenuo,241.0,241.0,8.09267965077233,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,2947.0,2947.0,0.0,,,baseline_ingenuo,264.0,264.0,8.958262639972855,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),BA,UF,produtividade_kg_ha,2756.74,2756.74,0.0,,,baseline_ingenuo,45.820000000000164,45.820000000000164,1.6621081422259685,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),CE,UF,produtividade_kg_ha,1683.5000000000002,1683.5000000000002,0.0,,,baseline_ingenuo,520.0000000000002,520.0000000000002,30.888030888030897,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),DF,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),GO,UF,produtividade_kg_ha,2748.6,2748.6,0.0,,,baseline_ingenuo,13.799999999999727,13.799999999999727,0.5020737830167986,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),MA,UF,produtividade_kg_ha,2570.85,2570.85,0.0,,,baseline_ingenuo,26.595000000000255,26.595000000000255,1.0344827586206995,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),MG,UF,produtividade_kg_ha,2698.707,2698.707,0.0,,,baseline_ingenuo,250.10700000000043,250.10700000000043,9.267660401814663,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),MS,UF,produtividade_kg_ha,2946.4,2946.4,0.0,,,baseline_ingenuo,139.20000000000027,139.20000000000027,4.724409448818907,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),MT,UF,produtividade_kg_ha,2653.644,2653.644,0.0,,,baseline_ingenuo,130.5360000000005,130.5360000000005,4.9191225348992,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),PA,UF,produtividade_kg_ha,2323.152,2323.152,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),PB,UF,produtividade_kg_ha,655.36,655.36,0.0,,,baseline_ingenuo,291.2,291.2,44.43359375,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),PI,UF,produtividade_kg_ha,2525.2,2525.2,0.0,,,baseline_ingenuo,177.5900000000006,177.5900000000006,7.032710280373856,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),PR,UF,produtividade_kg_ha,1770.0,1770.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),RN,UF,produtividade_kg_ha,1126.5400000000002,1126.5400000000002,0.0,,,baseline_ingenuo,0.6200000000003456,0.6200000000003456,0.055035773252644866,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),RO,UF,produtividade_kg_ha,2600.9,2600.9,0.0,,,baseline_ingenuo,189.0999999999999,189.0999999999999,7.270560190703214,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),RS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),SP,UF,produtividade_kg_ha,2194.614,2194.614,0.0,,,baseline_ingenuo,1.6739999999999782,1.6739999999999782,0.07627765064835904,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),TO,UF,produtividade_kg_ha,2678.4000000000005,2678.4000000000005,0.0,,,baseline_ingenuo,63.000000000000455,63.000000000000455,2.3521505376344254,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,BA,UF,produtividade_kg_ha,1996.26,1996.26,0.0,,,baseline_ingenuo,32.74000000000001,32.74000000000001,1.640066925150031,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,CE,UF,produtividade_kg_ha,906.5,906.5,0.0,,,baseline_ingenuo,280.0,280.0,30.888030888030887,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,DF,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,GO,UF,produtividade_kg_ha,1832.4000000000003,1832.4000000000003,0.0,,,baseline_ingenuo,9.200000000000273,9.200000000000273,0.5020737830168234,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,MA,UF,produtividade_kg_ha,1779.15,1779.15,0.0,,,baseline_ingenuo,18.404999999999973,18.404999999999973,1.0344827586206882,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,MG,UF,produtividade_kg_ha,1930.293,1930.293,0.0,,,baseline_ingenuo,178.89299999999957,178.89299999999957,9.267660401814625,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,MS,UF,produtividade_kg_ha,2133.6,2133.6,0.0,,,baseline_ingenuo,100.80000000000018,100.80000000000018,4.724409448818907,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,MT,UF,produtividade_kg_ha,1859.356,1859.356,0.0,,,baseline_ingenuo,91.46399999999994,91.46399999999994,4.919122534899177,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,PA,UF,produtividade_kg_ha,1472.8479999999995,1472.8479999999995,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,PB,UF,produtividade_kg_ha,368.64,368.64,0.0,,,baseline_ingenuo,163.79999999999998,163.79999999999998,44.43359374999999,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,PI,UF,produtividade_kg_ha,1754.8,1754.8,0.0,,,baseline_ingenuo,123.41000000000008,123.41000000000008,7.032710280373837,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,PR,UF,produtividade_kg_ha,1230.0,1230.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,RN,UF,produtividade_kg_ha,690.46,690.46,0.0,,,baseline_ingenuo,0.38000000000010914,0.38000000000010914,0.05503577325263,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,RO,UF,produtividade_kg_ha,1594.1,1594.1,0.0,,,baseline_ingenuo,115.89999999999986,115.89999999999986,7.270560190703209,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,RS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,SP,UF,produtividade_kg_ha,1738.386,1738.386,0.0,,,baseline_ingenuo,1.3259999999997945,1.3259999999997945,0.07627765064834821,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,TO,UF,produtividade_kg_ha,1785.6,1785.6,0.0,,,baseline_ingenuo,42.0,42.0,2.3521505376344085,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,BA,UF,produtividade_kg_ha,1057.0,1057.0,0.0,,,baseline_ingenuo,20.0,20.0,1.8921475875118259,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,CE,UF,produtividade_kg_ha,911.0,911.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,DF,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,GO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,MA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,MG,UF,produtividade_kg_ha,3586.0,3586.0,0.0,,,baseline_ingenuo,2.0,2.0,0.055772448410485224,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,MS,UF,produtividade_kg_ha,3969.0,3969.0,0.0,,,baseline_ingenuo,23.0,23.0,0.5794910556815319,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,MT,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,PA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,PB,UF,produtividade_kg_ha,761.0,761.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,PI,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,PR,UF,produtividade_kg_ha,2889.0,2889.0,0.0,,,baseline_ingenuo,100.0,100.0,3.4614053305642094,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,RO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,RS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,SP,UF,produtividade_kg_ha,4467.417994376757,4467.417994376757,0.0,,,baseline_ingenuo,196.95302917954086,196.95302917954086,4.40865460602635,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,TO,UF,produtividade_kg_ha,4000.0,4000.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,AC,UF,produtividade_kg_ha,1259.0,1259.0,0.0,,,baseline_ingenuo,32.0,32.0,2.5416997617156474,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,AL,UF,produtividade_kg_ha,8600.0,8600.0,0.0,,,baseline_ingenuo,1400.0,1400.0,16.27906976744186,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,AM,UF,produtividade_kg_ha,3356.0,3356.0,0.0,,,baseline_ingenuo,104.0,104.0,3.098927294398093,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,AP,UF,produtividade_kg_ha,1016.0,1016.0,0.0,,,baseline_ingenuo,14.0,14.0,1.3779527559055118,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,BA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,CE,UF,produtividade_kg_ha,2877.794871794872,2877.794871794872,0.0,,,baseline_ingenuo,537.0448717948725,537.0448717948725,18.66168006130052,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,DF,UF,produtividade_kg_ha,6397.999999999999,6397.999999999999,0.0,,,baseline_ingenuo,122.99999999999909,122.99999999999909,1.9224757736792608,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,ES,UF,produtividade_kg_ha,3596.0,3596.0,0.0,,,baseline_ingenuo,60.0,60.0,1.668520578420467,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,GO,UF,produtividade_kg_ha,5419.86974789916,5419.86974789916,0.0,,,baseline_ingenuo,69.31802376122869,69.31802376122869,1.2789610633742188,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,MA,UF,produtividade_kg_ha,2981.5134048257373,2981.5134048257373,0.0,,,baseline_ingenuo,10.496231148566494,10.496231148566494,0.35204373495613966,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,MG,UF,produtividade_kg_ha,3952.829268292684,3952.829268292684,0.0,,,baseline_ingenuo,18.847286310702202,18.847286310702202,0.47680496756802176,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,MS,UF,produtividade_kg_ha,7041.0,7041.0,0.0,,,baseline_ingenuo,152.0000000000009,152.0000000000009,2.158784263598933,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,MT,UF,produtividade_kg_ha,3649.0,3649.0,0.0,,,baseline_ingenuo,12.0,12.0,0.3288572211564812,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,PA,UF,produtividade_kg_ha,2849.4177215189875,2849.4177215189875,0.0,,,baseline_ingenuo,35.29113924050671,35.29113924050671,1.2385386310327804,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,PB,UF,produtividade_kg_ha,1745.1851851851854,1745.1851851851854,0.0,,,baseline_ingenuo,433.7037037037039,433.7037037037039,24.85144312393889,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,PI,UF,produtividade_kg_ha,1738.706796116505,1738.706796116505,0.0,,,baseline_ingenuo,17.70382335252134,17.70382335252134,1.0182178727352869,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,PR,UF,produtividade_kg_ha,7365.55497382199,7365.55497382199,0.0,,,baseline_ingenuo,439.01182661386883,439.01182661386883,5.960336025922911,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,RJ,UF,produtividade_kg_ha,2843.0,2843.0,0.0,,,baseline_ingenuo,34.0,34.0,1.1959198030249736,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,RN,UF,produtividade_kg_ha,3212.0000000000005,3212.0000000000005,0.0,,,baseline_ingenuo,401.00000000000045,401.00000000000045,12.484433374844347,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,RO,UF,produtividade_kg_ha,3597.0,3597.0,0.0,,,baseline_ingenuo,93.0,93.0,2.585487906588824,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,RR,UF,produtividade_kg_ha,7444.000000000001,7444.000000000001,0.0,,,baseline_ingenuo,85.99999999999909,85.99999999999909,1.1552928533046625,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,RS,UF,produtividade_kg_ha,8334.0,8334.0,0.0,,,baseline_ingenuo,687.0,687.0,8.24334053275738,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,SC,UF,produtividade_kg_ha,8250.0,8250.0,0.0,,,baseline_ingenuo,250.0,250.0,3.0303030303030303,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,SE,UF,produtividade_kg_ha,8320.0,8320.0,0.0,,,baseline_ingenuo,93.0,93.0,1.1177884615384615,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,SP,UF,produtividade_kg_ha,6875.291139240507,6875.291139240507,0.0,,,baseline_ingenuo,99.39240506329043,99.39240506329043,1.4456464904593118,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,TO,UF,produtividade_kg_ha,5838.853432282003,5838.853432282003,0.0,,,baseline_ingenuo,321.8499385045143,321.8499385045143,5.512211296914255,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,BA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,CE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,DF,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,GO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,MA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,MG,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,MS,UF,produtividade_kg_ha,1427.0,1427.0,0.0,,,baseline_ingenuo,162.0,162.0,11.352487736510161,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,MT,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,PA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,PI,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,PR,UF,produtividade_kg_ha,2259.0,2259.0,0.0,,,baseline_ingenuo,86.0,86.0,3.8069942452412575,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,RO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,RS,UF,produtividade_kg_ha,2336.0,2336.0,0.0,,,baseline_ingenuo,116.0,116.0,4.965753424657534,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,SP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,TO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,BA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,CE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,DF,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,GO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,MA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,MG,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,MS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,MT,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,PA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,PI,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,PR,UF,produtividade_kg_ha,1724.41,1724.41,0.0,,,baseline_ingenuo,566.5899999999999,566.5899999999999,32.85703515985177,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,RO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,RS,UF,produtividade_kg_ha,1619.0,1619.0,0.0,,,baseline_ingenuo,2.0,2.0,0.12353304508956146,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,SP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,TO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,BA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,CE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,DF,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,GO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,MA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,MG,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,MS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,MT,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,PA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,PI,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,PR,UF,produtividade_kg_ha,2251.0,2251.0,0.0,,,baseline_ingenuo,150.0,150.0,6.663705019991115,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,RO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,RS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,SP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,TO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,BA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,CE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,DF,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,GO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,MA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,MG,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,MS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,MT,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,PA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,PI,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,PR,UF,produtividade_kg_ha,4218.0,4218.0,0.0,,,baseline_ingenuo,443.0,443.0,10.502607871028925,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,RO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,RS,UF,produtividade_kg_ha,2947.0,2947.0,0.0,,,baseline_ingenuo,562.0,562.0,19.070240922972516,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,SP,UF,produtividade_kg_ha,3200.0,3200.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,TO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,AC,UF,produtividade_kg_ha,563.0,563.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,AL,UF,produtividade_kg_ha,701.7011494252874,701.7011494252874,0.0,,,baseline_ingenuo,83.73027563887956,83.73027563887956,11.932469500364503,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,AM,UF,produtividade_kg_ha,731.0,731.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,AP,UF,produtividade_kg_ha,910.0,910.0,0.0,,,baseline_ingenuo,1.0,1.0,0.10989010989010989,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,BA,UF,produtividade_kg_ha,921.475141242938,921.475141242938,0.0,,,baseline_ingenuo,150.56101455330088,150.56101455330088,16.339129273765934,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,CE,UF,produtividade_kg_ha,157.6710763680096,157.6710763680096,0.0,,,baseline_ingenuo,0.31643903150543906,0.31643903150543906,0.20069567532275842,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,DF,UF,produtividade_kg_ha,2599.551020408164,2599.551020408164,0.0,,,baseline_ingenuo,17.965758115326025,17.965758115326025,0.6911100407063818,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,ES,UF,produtividade_kg_ha,1080.1333333333334,1080.1333333333334,0.0,,,baseline_ingenuo,23.73333333333335,23.73333333333335,2.1972595975805467,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,GO,UF,produtividade_kg_ha,2537.63668430335,2537.63668430335,0.0,,,baseline_ingenuo,105.31118094764543,105.31118094764543,4.149970781832238,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,MA,UF,produtividade_kg_ha,673.3939393939394,673.3939393939394,0.0,,,baseline_ingenuo,2.9403528960491485,2.9403528960491485,0.4366467715310139,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,MG,UF,produtividade_kg_ha,1738.698677800974,1738.698677800974,0.0,,,baseline_ingenuo,124.49602694642272,124.49602694642272,7.16029916718402,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,MS,UF,produtividade_kg_ha,1649.0,1649.0,0.0,,,baseline_ingenuo,126.0,126.0,7.640994542146756,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,MT,UF,produtividade_kg_ha,1753.271951219512,1753.271951219512,0.0,,,baseline_ingenuo,90.36264074151154,90.36264074151154,5.153943213353672,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,PA,UF,produtividade_kg_ha,731.3686635944701,731.3686635944701,0.0,,,baseline_ingenuo,16.745794236855204,16.745794236855204,2.2896515902874977,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,PB,UF,produtividade_kg_ha,370.5314285714285,370.5314285714285,0.0,,,baseline_ingenuo,77.80785922128302,77.80785922128302,20.998990428765683,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,PE,UF,produtividade_kg_ha,670.2152336987882,670.2152336987882,0.0,,,baseline_ingenuo,37.640839991482494,37.640839991482494,5.616231637074255,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,PI,UF,produtividade_kg_ha,365.4439461883408,365.4439461883408,0.0,,,baseline_ingenuo,103.60027251955722,103.60027251955722,28.349155486123223,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,PR,UF,produtividade_kg_ha,1652.617321248741,1652.617321248741,0.0,,,baseline_ingenuo,97.84495249541192,97.84495249541192,5.920605529021013,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,RJ,UF,produtividade_kg_ha,1528.0000000000002,1528.0000000000002,0.0,,,baseline_ingenuo,173.60000000000014,173.60000000000014,11.361256544502625,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,RN,UF,produtividade_kg_ha,168.0,168.0,0.0,,,baseline_ingenuo,3.0,3.0,1.7857142857142856,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,RO,UF,produtividade_kg_ha,1007.0,1007.0,0.0,,,baseline_ingenuo,53.0,53.0,5.263157894736842,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,RR,UF,produtividade_kg_ha,1208.0,1208.0,0.0,,,baseline_ingenuo,4.0,4.0,0.33112582781456956,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,RS,UF,produtividade_kg_ha,1675.4715261958995,1675.4715261958995,0.0,,,baseline_ingenuo,57.936492672025,57.936492672025,3.45792165167783,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,SC,UF,produtividade_kg_ha,1886.9175627240145,1886.9175627240145,0.0,,,baseline_ingenuo,32.13067747811283,32.13067747811283,1.7028129958008318,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,SE,UF,produtividade_kg_ha,737.0,737.0,0.0,,,baseline_ingenuo,224.0,224.0,30.39348710990502,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,SP,UF,produtividade_kg_ha,2339.758354755784,2339.758354755784,0.0,,,baseline_ingenuo,67.62467866323868,67.62467866323868,2.8902419998110074,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,TO,UF,produtividade_kg_ha,1132.278450363196,1132.278450363196,0.0,,,baseline_ingenuo,72.83624035845355,72.83624035845355,6.432714526633461,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,BA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,CE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,DF,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,GO,UF,produtividade_kg_ha,500.0,500.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,MA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,MG,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,MS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,MT,UF,produtividade_kg_ha,720.0,720.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,PA,UF,produtividade_kg_ha,506.0,506.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,PI,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,PR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,RO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,RS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,SP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,TO,UF,produtividade_kg_ha,571.0,571.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,BA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,CE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,DF,UF,produtividade_kg_ha,2112.0,2112.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,GO,UF,produtividade_kg_ha,1539.0,1539.0,0.0,,,baseline_ingenuo,40.0,40.0,2.599090318388564,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,MA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,MG,UF,produtividade_kg_ha,1800.0,1800.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,MS,UF,produtividade_kg_ha,1810.0,1810.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,MT,UF,produtividade_kg_ha,1591.0,1591.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,PA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,PI,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,PR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,RO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,RS,UF,produtividade_kg_ha,1893.0,1893.0,0.0,,,baseline_ingenuo,93.0,93.0,4.91283676703645,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,SP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,TO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,BA,UF,produtividade_kg_ha,1938.0,1938.0,0.0,,,baseline_ingenuo,499.0,499.0,25.748194014447883,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,CE,UF,produtividade_kg_ha,167.0,167.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,DF,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,GO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,MG,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,MS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,MT,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,PA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,PR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,RO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,SP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,TO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,AC,UF,produtividade_kg_ha,3468.6084905660373,3468.6084905660373,0.0,,,baseline_ingenuo,61.9719052001833,61.9719052001833,1.7866503345285358,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,AL,UF,produtividade_kg_ha,3120.0,3120.0,0.0,,,baseline_ingenuo,2110.0,2110.0,67.62820512820514,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,AM,UF,produtividade_kg_ha,3041.0,3041.0,0.0,,,baseline_ingenuo,36.0,36.0,1.183821111476488,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,AP,UF,produtividade_kg_ha,977.0,977.0,0.0,,,baseline_ingenuo,8.0,8.0,0.8188331627430911,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,BA,UF,produtividade_kg_ha,3945.937871969807,3945.937871969807,0.0,,,baseline_ingenuo,117.37360479319113,117.37360479319113,2.9745426461719324,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,CE,UF,produtividade_kg_ha,842.0,842.0,0.0,,,baseline_ingenuo,376.0,376.0,44.655581947743464,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,DF,UF,produtividade_kg_ha,7184.536231884058,7184.536231884058,0.0,,,baseline_ingenuo,210.04561864974858,210.04561864974858,2.9235793636559704,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,ES,UF,produtividade_kg_ha,3512.5454545454545,3512.5454545454545,0.0,,,baseline_ingenuo,218.18948521358152,218.18948521358152,6.211719906178883,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,GO,UF,produtividade_kg_ha,6949.627315171105,6949.627315171105,0.0,,,baseline_ingenuo,295.4042728640379,295.4042728640379,4.250649127891613,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,MA,UF,produtividade_kg_ha,5088.745706186427,5088.745706186427,0.0,,,baseline_ingenuo,626.1375629477207,626.1375629477207,12.304359445325012,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,MG,UF,produtividade_kg_ha,6258.752913344432,6258.752913344432,0.0,,,baseline_ingenuo,176.5412311445616,176.5412311445616,2.8207093903348373,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,MS,UF,produtividade_kg_ha,5746.566371681416,5746.566371681416,0.0,,,baseline_ingenuo,643.6694084876854,643.6694084876854,11.20093925408454,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,MT,UF,produtividade_kg_ha,7165.989116060093,7165.989116060093,0.0,,,baseline_ingenuo,454.86209287587917,454.86209287587917,6.347513030077908,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,PA,UF,produtividade_kg_ha,3588.333566678333,3588.333566678333,0.0,,,baseline_ingenuo,618.1146957191668,618.1146957191668,17.22567549068038,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,PB,UF,produtividade_kg_ha,645.0,645.0,0.0,,,baseline_ingenuo,196.0,196.0,30.387596899224807,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,PE,UF,produtividade_kg_ha,1153.8014403292182,1153.8014403292182,0.0,,,baseline_ingenuo,3.3009306452222518,3.3009306452222518,0.28609174246483743,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,PI,UF,produtividade_kg_ha,4210.498924217069,4210.498924217069,0.0,,,baseline_ingenuo,114.55458640516781,114.55458640516781,2.720689126561621,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,PR,UF,produtividade_kg_ha,6404.5622406639,6404.5622406639,0.0,,,baseline_ingenuo,196.50168717216184,196.50168717216184,3.0681517297861776,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,RJ,UF,produtividade_kg_ha,4740.0,4740.0,0.0,,,baseline_ingenuo,85.0,85.0,1.7932489451476792,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,RN,UF,produtividade_kg_ha,523.0,523.0,0.0,,,baseline_ingenuo,202.0,202.0,38.623326959847034,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,RO,UF,produtividade_kg_ha,5270.311688311687,5270.311688311687,0.0,,,baseline_ingenuo,3.1369230809741566,3.1369230809741566,0.05952063685210716,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,RR,UF,produtividade_kg_ha,6000.0,6000.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,RS,UF,produtividade_kg_ha,6641.000000000001,6641.000000000001,0.0,,,baseline_ingenuo,948.9999999999991,948.9999999999991,14.2900165637705,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,SC,UF,produtividade_kg_ha,10060.0,10060.0,0.0,,,baseline_ingenuo,740.0,740.0,7.3558648111332,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,SE,UF,produtividade_kg_ha,5958.0,5958.0,0.0,,,baseline_ingenuo,811.0,811.0,13.61195031889896,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,SP,UF,produtividade_kg_ha,5714.919114792287,5714.919114792287,0.0,,,baseline_ingenuo,192.15929551920726,192.15929551920726,3.3624149644013195,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,TO,UF,produtividade_kg_ha,5381.735562901031,5381.735562901031,0.0,,,baseline_ingenuo,248.1828303336424,248.1828303336424,4.6115760879165,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,AC,UF,produtividade_kg_ha,3780.0,3780.0,0.0,,,baseline_ingenuo,321.0,321.0,8.492063492063492,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,AL,UF,produtividade_kg_ha,3420.0,3420.0,0.0,,,baseline_ingenuo,180.0,180.0,5.263157894736842,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,AM,UF,produtividade_kg_ha,3060.0,3060.0,0.0,,,baseline_ingenuo,270.0,270.0,8.823529411764707,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,AP,UF,produtividade_kg_ha,2650.0,2650.0,0.0,,,baseline_ingenuo,32.0,32.0,1.2075471698113207,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,BA,UF,produtividade_kg_ha,3957.0,3957.0,0.0,,,baseline_ingenuo,185.0,185.0,4.675259034622189,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,CE,UF,produtividade_kg_ha,3721.0,3721.0,0.0,,,baseline_ingenuo,28.0,28.0,0.7524858908895459,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,DF,UF,produtividade_kg_ha,3960.0,3960.0,0.0,,,baseline_ingenuo,123.0,123.0,3.106060606060606,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,,,,BAIXA CONFIANCA,1,estimativa_baseline_com_historico_curto
+2026/27,SOJA,GO,UF,produtividade_kg_ha,3858.0,3858.0,0.0,,,baseline_ingenuo,325.0,325.0,8.42405391394505,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,MA,UF,produtividade_kg_ha,3432.0,3432.0,0.0,,,baseline_ingenuo,49.0,49.0,1.4277389277389279,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,MG,UF,produtividade_kg_ha,3834.0,3834.0,0.0,,,baseline_ingenuo,131.0,131.0,3.41679707876891,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,MS,UF,produtividade_kg_ha,3600.0,3600.0,0.0,,,baseline_ingenuo,261.0,261.0,7.249999999999999,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,MT,UF,produtividade_kg_ha,3833.0,3833.0,0.0,,,baseline_ingenuo,195.0,195.0,5.087398904252543,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,PA,UF,produtividade_kg_ha,3571.0,3571.0,0.0,,,baseline_ingenuo,3.0,3.0,0.08401008120974517,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,,,,BAIXA CONFIANCA,1,estimativa_baseline_com_historico_curto
+2026/27,SOJA,PE,UF,produtividade_kg_ha,3000.0,3000.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,PI,UF,produtividade_kg_ha,3554.0,3554.0,0.0,,,baseline_ingenuo,113.0,113.0,3.1795160382667413,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,PR,UF,produtividade_kg_ha,3783.0,3783.0,0.0,,,baseline_ingenuo,44.0,44.0,1.1630980703145652,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,,,,BAIXA CONFIANCA,1,estimativa_baseline_com_historico_curto
+2026/27,SOJA,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,,,,BAIXA CONFIANCA,1,estimativa_baseline_com_historico_curto
+2026/27,SOJA,RO,UF,produtividade_kg_ha,3748.0,3748.0,0.0,,,baseline_ingenuo,51.0,51.0,1.360725720384205,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,RR,UF,produtividade_kg_ha,3295.0,3295.0,0.0,,,baseline_ingenuo,155.0,155.0,4.704097116843703,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,RS,UF,produtividade_kg_ha,3129.0,3129.0,0.0,,,baseline_ingenuo,787.0,787.0,25.151805688718444,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,SC,UF,produtividade_kg_ha,3800.0,3800.0,0.0,,,baseline_ingenuo,133.0,133.0,3.5000000000000004,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,,,,BAIXA CONFIANCA,1,estimativa_baseline_com_historico_curto
+2026/27,SOJA,SP,UF,produtividade_kg_ha,3780.0,3780.0,0.0,,,baseline_ingenuo,113.0,113.0,2.9894179894179893,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,TO,UF,produtividade_kg_ha,3580.0,3580.0,0.0,,,baseline_ingenuo,158.0,158.0,4.41340782122905,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,BA,UF,produtividade_kg_ha,3796.0,3796.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,DF,UF,produtividade_kg_ha,4686.0,4686.0,0.0,,,baseline_ingenuo,954.0,954.0,20.358514724711906,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,GO,UF,produtividade_kg_ha,3874.0,3874.0,0.0,,,baseline_ingenuo,132.0,132.0,3.4073309241094476,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,MA,UF,produtividade_kg_ha,2465.0,2465.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,MG,UF,produtividade_kg_ha,3897.0,3897.0,0.0,,,baseline_ingenuo,91.0,91.0,2.3351295868616884,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,MS,UF,produtividade_kg_ha,3894.0,3894.0,0.0,,,baseline_ingenuo,203.0,203.0,5.213148433487417,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,MT,UF,produtividade_kg_ha,3569.0,3569.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,PA,UF,produtividade_kg_ha,2561.0,2561.0,0.0,,,baseline_ingenuo,12.0,12.0,0.4685669660288949,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,PI,UF,produtividade_kg_ha,3900.0,3900.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,PR,UF,produtividade_kg_ha,2850.0,2850.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,RS,UF,produtividade_kg_ha,2508.0,2508.0,0.0,,,baseline_ingenuo,2508.0,2508.0,100.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,SP,UF,produtividade_kg_ha,3645.0,3645.0,0.0,,,baseline_ingenuo,417.0,417.0,11.440329218106996,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,TO,UF,produtividade_kg_ha,2683.0,2683.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,BA,UF,produtividade_kg_ha,6000.0,6000.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,CE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,DF,UF,produtividade_kg_ha,4001.0,4001.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,GO,UF,produtividade_kg_ha,4166.0,4166.0,0.0,,,baseline_ingenuo,12.0,12.0,0.28804608737397985,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,MA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,MG,UF,produtividade_kg_ha,2678.0,2678.0,0.0,,,baseline_ingenuo,126.0,126.0,4.7050037341299475,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,MS,UF,produtividade_kg_ha,2305.0,2305.0,0.0,,,baseline_ingenuo,62.0,62.0,2.689804772234273,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,MT,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,PA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,PI,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,PR,UF,produtividade_kg_ha,2967.0,2967.0,0.0,,,baseline_ingenuo,416.0,416.0,14.020896528479945,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,RO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,RS,UF,produtividade_kg_ha,2924.0,2924.0,0.0,,,baseline_ingenuo,173.0,173.0,5.916552667578659,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,SC,UF,produtividade_kg_ha,3406.0,3406.0,0.0,,,baseline_ingenuo,294.0,294.0,8.631826189078097,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,SP,UF,produtividade_kg_ha,3053.0,3053.0,0.0,,,baseline_ingenuo,33.0,33.0,1.0809040288241074,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,TO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,AC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,AL,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,AM,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,AP,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,BA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,CE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,DF,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,ES,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,GO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,MA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,MG,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,MS,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,MT,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,PA,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,PB,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,PE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,PI,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,PR,UF,produtividade_kg_ha,3113.0,3113.0,0.0,,,baseline_ingenuo,302.0,302.0,9.701252810793447,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,RJ,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,RN,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,RO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,RR,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,RS,UF,produtividade_kg_ha,2764.0,2764.0,0.0,,,baseline_ingenuo,312.0,312.0,11.287988422575976,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,SC,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,SE,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,SP,UF,produtividade_kg_ha,2745.0,2745.0,0.0,,,baseline_ingenuo,44.0,44.0,1.6029143897996356,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,TO,UF,produtividade_kg_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,CENTRO-OESTE,REGIAO,produtividade_kg_ha,4658.065,4658.065,0.0,,,baseline_ingenuo,223.9270000000006,223.9270000000006,4.80729659203984,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,NORDESTE,REGIAO,produtividade_kg_ha,3113.014,3113.014,0.0,,,baseline_ingenuo,15.125,15.125,0.48586353932234155,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,NORTE,REGIAO,produtividade_kg_ha,3747.231,3747.231,0.0,,,baseline_ingenuo,56.524999999999636,56.524999999999636,1.5084471707241862,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,SUDESTE,REGIAO,produtividade_kg_ha,4282.669,4282.669,0.0,,,baseline_ingenuo,28.64100000000053,28.64100000000053,0.6687652022605654,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,SUL,REGIAO,produtividade_kg_ha,4198.197,4198.197,0.0,,,baseline_ingenuo,167.4970000000003,167.4970000000003,3.989736546426961,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,BRASIL,TOTAL_BRASIL,produtividade_kg_ha,4244.353,4244.353,0.0,,,baseline_ingenuo,65.42600000000039,65.42600000000039,1.5414834722748174,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,AC,UF,produtividade_kg_ha,3247.268,3247.268,0.0,,,baseline_ingenuo,165.7539999999999,165.7539999999999,5.1044139257985455,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,AL,UF,produtividade_kg_ha,2666.11,2666.11,0.0,,,baseline_ingenuo,912.3049999999998,912.3049999999998,34.218580628706235,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,AM,UF,produtividade_kg_ha,2959.184,2959.184,0.0,,,baseline_ingenuo,65.29199999999992,65.29199999999992,2.2064190668778934,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,AP,UF,produtividade_kg_ha,2254.777,2254.777,0.0,,,baseline_ingenuo,111.92000000000007,111.92000000000007,4.9636837700579735,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,BA,UF,produtividade_kg_ha,3505.194,3505.194,0.0,,,baseline_ingenuo,50.06800000000021,50.06800000000021,1.428394548204756,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,CE,UF,produtividade_kg_ha,619.797,619.797,0.0,,,baseline_ingenuo,240.42100000000005,240.42100000000005,38.7902813340497,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,DF,UF,produtividade_kg_ha,4877.54,4877.54,0.0,,,baseline_ingenuo,119.77800000000025,119.77800000000025,2.455705130045069,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,ES,UF,produtividade_kg_ha,2660.156,2660.156,0.0,,,baseline_ingenuo,169.20899999999983,169.20899999999983,6.3608675581432,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,GO,UF,produtividade_kg_ha,4598.57,4598.57,0.0,,,baseline_ingenuo,322.4230000000007,322.4230000000007,7.011375275357355,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,MA,UF,produtividade_kg_ha,3742.104,3742.104,0.0,,,baseline_ingenuo,152.47400000000016,152.47400000000016,4.07455271152272,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,MG,UF,produtividade_kg_ha,4280.255,4280.255,0.0,,,baseline_ingenuo,2.806999999999789,2.806999999999789,0.06558020491769273,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,MS,UF,produtividade_kg_ha,4263.286,4263.286,0.0,,,baseline_ingenuo,40.159999999999854,40.159999999999854,0.9419963849481329,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,MT,UF,produtividade_kg_ha,4795.466,4795.466,0.0,,,baseline_ingenuo,244.67699999999968,244.67699999999968,5.102257006931123,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,PA,UF,produtividade_kg_ha,3339.383,3339.383,0.0,,,baseline_ingenuo,140.21000000000004,140.21000000000004,4.198679816001939,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,PB,UF,produtividade_kg_ha,530.739,530.739,0.0,,,baseline_ingenuo,142.69300000000004,142.69300000000004,26.885719722876978,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,PE,UF,produtividade_kg_ha,930.258,930.258,0.0,,,baseline_ingenuo,16.868999999999915,16.868999999999915,1.8133679043878057,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,PI,UF,produtividade_kg_ha,3314.713,3314.713,0.0,,,baseline_ingenuo,93.25700000000006,93.25700000000006,2.8134260794222623,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,PR,UF,produtividade_kg_ha,4456.963,4456.963,0.0,,,baseline_ingenuo,34.32300000000032,34.32300000000032,0.7700983831366857,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,RJ,UF,produtividade_kg_ha,3423.077,3423.077,0.0,,,baseline_ingenuo,137.36300000000028,137.36300000000028,4.012851595216826,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,RN,UF,produtividade_kg_ha,391.589,391.589,0.0,,,baseline_ingenuo,118.05399999999997,118.05399999999997,30.147424978740457,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,RO,UF,produtividade_kg_ha,4356.326,4356.326,0.0,,,baseline_ingenuo,12.59900000000016,12.59900000000016,0.2892115971118819,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,RR,UF,produtividade_kg_ha,3866.116,3866.116,0.0,,,baseline_ingenuo,161.2249999999999,161.2249999999999,4.170205963814844,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,RS,UF,produtividade_kg_ha,3765.364,3765.364,0.0,,,baseline_ingenuo,388.93899999999985,388.93899999999985,10.329386481625678,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,SC,UF,produtividade_kg_ha,5494.531,5494.531,0.0,,,baseline_ingenuo,195.67200000000048,195.67200000000048,3.5612138688452295,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,SE,UF,produtividade_kg_ha,5966.581,5966.581,0.0,,,baseline_ingenuo,771.4780000000001,771.4780000000001,12.929984525476149,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,SP,UF,produtividade_kg_ha,4302.481,4302.481,0.0,,,baseline_ingenuo,69.40800000000036,69.40800000000036,1.6132087509509132,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,TO,UF,produtividade_kg_ha,3825.484,3825.484,0.0,,,baseline_ingenuo,17.42099999999982,17.42099999999982,0.45539335676217235,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto

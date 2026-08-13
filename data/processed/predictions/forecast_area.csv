@@ -1,0 +1,625 @@
+safra_prevista,cultura,uf,tipo_linha,alvo,valor_anterior,valor_previsto,variacao_prevista_pct,limite_inferior,limite_superior,modelo_utilizado,MAE,RMSE,MAPE,confianca,observacoes,status
+2026/27,ALGODÃO - CAROÇO (1),BRASIL,PRODUTO,area_mil_ha,2018.1,2018.1,0.0,,,baseline_ingenuo,67.5,67.5,3.344730191764531,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,BRASIL,PRODUTO,area_mil_ha,2018.1,2018.1,0.0,,,baseline_ingenuo,67.5,67.5,3.344730191764531,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM 1ª SAFRA,BRASIL,PRODUTO,area_mil_ha,274.0,274.0,0.0,,,baseline_ingenuo,0.8999999999999773,0.8999999999999773,0.32846715328466325,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM 2ª SAFRA,BRASIL,PRODUTO,area_mil_ha,7.3,7.3,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,BRASIL,PRODUTO,area_mil_ha,281.3,281.3,0.0,,,baseline_ingenuo,0.8999999999999773,0.8999999999999773,0.3199431212228856,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,BRASIL,PRODUTO,area_mil_ha,1559.9,1559.9,0.0,,,baseline_ingenuo,204.0,204.0,13.077761394961215,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ IRRIGADO,BRASIL,PRODUTO,area_mil_ha,1263.9,1263.9,0.0,,,baseline_ingenuo,105.40000000000009,105.40000000000009,8.339267347100252,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ SEQUEIRO,BRASIL,PRODUTO,area_mil_ha,296.0,296.0,0.0,,,baseline_ingenuo,98.60000000000002,98.60000000000002,33.31081081081082,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,BRASIL,PRODUTO,area_mil_ha,509.0,509.0,0.0,,,baseline_ingenuo,36.799999999999955,36.799999999999955,7.229862475442034,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,BRASIL,PRODUTO,area_mil_ha,275.7,275.7,0.0,,,baseline_ingenuo,63.79999999999998,63.79999999999998,23.1410953935437,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CAUPI,BRASIL,PRODUTO,area_mil_ha,51.8,51.8,0.0,,,baseline_ingenuo,8.0,8.0,15.444015444015443,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,BRASIL,PRODUTO,area_mil_ha,2.1,2.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,BRASIL,PRODUTO,area_mil_ha,149.9,149.9,0.0,,,baseline_ingenuo,10.700000000000017,10.700000000000017,7.1380920613742616,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CORES,BRASIL,PRODUTO,area_mil_ha,361.0,361.0,0.0,,,baseline_ingenuo,34.5,34.5,9.556786703601109,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO 1ª SAFRA,BRASIL,PRODUTO,area_mil_ha,804.7,804.7,0.0,,,baseline_ingenuo,103.79999999999995,103.79999999999995,12.899217099540195,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO 2ª SAFRA,BRASIL,PRODUTO,area_mil_ha,1369.0,1369.0,0.0,,,baseline_ingenuo,31.09999999999991,31.09999999999991,2.271731190650103,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO 3ª SAFRA,BRASIL,PRODUTO,area_mil_ha,426.9,426.9,0.0,,,baseline_ingenuo,42.5,42.5,9.955493089716562,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,BRASIL,PRODUTO,area_mil_ha,2600.6,2600.6,0.0,,,baseline_ingenuo,92.40000000000009,92.40000000000009,3.5530262247173767,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,BRASIL,PRODUTO,area_mil_ha,608.0,608.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,BRASIL,PRODUTO,area_mil_ha,63.8,63.8,0.0,,,baseline_ingenuo,1.8999999999999915,1.8999999999999915,2.9780564263322753,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,BRASIL,PRODUTO,area_mil_ha,76.1,76.1,0.0,,,baseline_ingenuo,6.5,6.5,8.54139290407359,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO 1ª SAFRA,BRASIL,PRODUTO,area_mil_ha,4043.7,4043.7,0.0,,,baseline_ingenuo,271.0999999999999,271.0999999999999,6.7042560031654155,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO 2ª SAFRA,BRASIL,PRODUTO,area_mil_ha,17894.100000000002,17894.100000000002,0.0,,,baseline_ingenuo,463.8000000000029,463.8000000000029,2.5919157711201057,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO 3ª SAFRA,BRASIL,PRODUTO,area_mil_ha,587.8,587.8,0.0,,,baseline_ingenuo,47.30000000000007,47.30000000000007,8.046954746512432,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,BRASIL,PRODUTO,area_mil_ha,22525.6,22525.6,0.0,,,baseline_ingenuo,687.5999999999985,687.5999999999985,3.0525269027240056,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,PRETO,BRASIL,PRODUTO,area_mil_ha,14.1,14.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,BRASIL,PRODUTO,area_mil_ha,48434.4,48434.4,0.0,,,baseline_ingenuo,1088.300000000003,1088.300000000003,2.2469567084551536,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,BRASIL,PRODUTO,area_mil_ha,1823.7,1823.7,0.0,,,baseline_ingenuo,191.70000000000005,191.70000000000005,10.511597302187862,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,BRASIL,PRODUTO,area_mil_ha,2318.3,2318.3,0.0,,,baseline_ingenuo,127.59999999999991,127.59999999999991,5.504033127722896,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,BRASIL,PRODUTO,area_mil_ha,11.4,11.4,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),CENTRO-OESTE,REGIAO,area_mil_ha,1472.4,1472.4,0.0,,,baseline_ingenuo,51.59999999999991,51.59999999999991,3.5044824775876062,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),NORDESTE,REGIAO,area_mil_ha,470.2,470.2,0.0,,,baseline_ingenuo,13.699999999999989,13.699999999999989,2.913653764355591,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),NORTE,REGIAO,area_mil_ha,24.2,24.2,0.0,,,baseline_ingenuo,0.6999999999999993,0.6999999999999993,2.892561983471072,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),SUDESTE,REGIAO,area_mil_ha,49.7,49.7,0.0,,,baseline_ingenuo,2.8999999999999986,2.8999999999999986,5.83501006036217,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),SUL,REGIAO,area_mil_ha,1.6,1.6,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,CENTRO-OESTE,REGIAO,area_mil_ha,1472.4,1472.4,0.0,,,baseline_ingenuo,51.59999999999991,51.59999999999991,3.5044824775876062,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,NORDESTE,REGIAO,area_mil_ha,470.2,470.2,0.0,,,baseline_ingenuo,13.699999999999989,13.699999999999989,2.913653764355591,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,NORTE,REGIAO,area_mil_ha,24.2,24.2,0.0,,,baseline_ingenuo,0.6999999999999993,0.6999999999999993,2.892561983471072,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,SUDESTE,REGIAO,area_mil_ha,49.7,49.7,0.0,,,baseline_ingenuo,2.8999999999999986,2.8999999999999986,5.83501006036217,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,SUL,REGIAO,area_mil_ha,1.6,1.6,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,CENTRO-OESTE,REGIAO,area_mil_ha,45.5,45.5,0.0,,,baseline_ingenuo,2.0,2.0,4.395604395604396,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,NORDESTE,REGIAO,area_mil_ha,3.9,3.9,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,NORTE,REGIAO,area_mil_ha,1.0,1.0,0.0,,,baseline_ingenuo,0.09999999999999998,0.09999999999999998,9.999999999999998,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,SUDESTE,REGIAO,area_mil_ha,229.4,229.4,0.0,,,baseline_ingenuo,0.5999999999999943,0.5999999999999943,0.26155187445509775,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,SUL,REGIAO,area_mil_ha,1.5,1.5,0.0,,,baseline_ingenuo,0.6000000000000001,0.6000000000000001,40.00000000000001,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,CENTRO-OESTE,REGIAO,area_mil_ha,124.5,124.5,0.0,,,baseline_ingenuo,65.30000000000001,65.30000000000001,52.44979919678716,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,NORDESTE,REGIAO,area_mil_ha,141.4,141.4,0.0,,,baseline_ingenuo,24.799999999999983,24.799999999999983,17.538896746817525,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,NORTE,REGIAO,area_mil_ha,196.5,196.5,0.0,,,baseline_ingenuo,43.099999999999994,43.099999999999994,21.933842239185747,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,SUDESTE,REGIAO,area_mil_ha,24.700000000000003,24.700000000000003,0.0,,,baseline_ingenuo,5.799999999999997,5.799999999999997,23.481781376518203,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,SUL,REGIAO,area_mil_ha,1072.8,1072.8,0.0,,,baseline_ingenuo,65.0,65.0,6.058911260253542,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,CENTRO-OESTE,REGIAO,area_mil_ha,38.2,38.2,0.0,,,baseline_ingenuo,2.1999999999999957,2.1999999999999957,5.75916230366491,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,NORDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,NORTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,SUDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,SUL,REGIAO,area_mil_ha,470.8,470.8,0.0,,,baseline_ingenuo,34.599999999999966,34.599999999999966,7.349192863211547,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,CENTRO-OESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,NORDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,NORTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,SUDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,SUL,REGIAO,area_mil_ha,275.7,275.7,0.0,,,baseline_ingenuo,63.79999999999998,63.79999999999998,23.1410953935437,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,CENTRO-OESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,NORDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,NORTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,SUDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,SUL,REGIAO,area_mil_ha,2.1,2.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,CENTRO-OESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,NORDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,NORTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,SUDESTE,REGIAO,area_mil_ha,4.1,4.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,SUL,REGIAO,area_mil_ha,145.8,145.8,0.0,,,baseline_ingenuo,10.700000000000017,10.700000000000017,7.338820301783276,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,CENTRO-OESTE,REGIAO,area_mil_ha,299.3,299.3,0.0,,,baseline_ingenuo,4.699999999999932,4.699999999999932,1.5703307718008457,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,NORDESTE,REGIAO,area_mil_ha,1311.5,1311.5,0.0,,,baseline_ingenuo,0.900000000000091,0.900000000000091,0.06862371330538246,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,NORTE,REGIAO,area_mil_ha,117.8,117.8,0.0,,,baseline_ingenuo,10.299999999999997,10.299999999999997,8.743633276740235,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,SUDESTE,REGIAO,area_mil_ha,375.1,375.1,0.0,,,baseline_ingenuo,1.099999999999966,1.099999999999966,0.2932551319648003,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,SUL,REGIAO,area_mil_ha,496.9,496.9,0.0,,,baseline_ingenuo,98.20000000000005,98.20000000000005,19.762527671563703,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,CENTRO-OESTE,REGIAO,area_mil_ha,405.2,405.2,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,NORDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,NORTE,REGIAO,area_mil_ha,202.8,202.8,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,SUDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,SUL,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,CENTRO-OESTE,REGIAO,area_mil_ha,52.3,52.3,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,NORDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,NORTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,SUDESTE,REGIAO,area_mil_ha,5.5,5.5,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,SUL,REGIAO,area_mil_ha,6.0,6.0,0.0,,,baseline_ingenuo,1.9000000000000004,1.9000000000000004,31.66666666666667,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,CENTRO-OESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,NORDESTE,REGIAO,area_mil_ha,76.1,76.1,0.0,,,baseline_ingenuo,6.5,6.5,8.54139290407359,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,NORTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,SUDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,SUL,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,CENTRO-OESTE,REGIAO,area_mil_ha,11712.9,11712.9,0.0,,,baseline_ingenuo,318.60000000000036,318.60000000000036,2.7200778628691475,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,NORDESTE,REGIAO,area_mil_ha,2891.1000000000004,2891.1000000000004,0.0,,,baseline_ingenuo,92.89999999999964,92.89999999999964,3.2133098128739794,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,NORTE,REGIAO,area_mil_ha,1682.0,1682.0,0.0,,,baseline_ingenuo,132.20000000000005,132.20000000000005,7.859690844233058,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,SUDESTE,REGIAO,area_mil_ha,1931.9,1931.9,0.0,,,baseline_ingenuo,85.30000000000018,85.30000000000018,4.415342409027391,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,SUL,REGIAO,area_mil_ha,4307.700000000001,4307.700000000001,0.0,,,baseline_ingenuo,244.40000000000055,244.40000000000055,5.6735612972119815,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,CENTRO-OESTE,REGIAO,area_mil_ha,22612.8,22612.8,0.0,,,baseline_ingenuo,577.5999999999985,577.5999999999985,2.5543055260737217,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,NORDESTE,REGIAO,area_mil_ha,5018.9,5018.9,0.0,,,baseline_ingenuo,339.7999999999993,339.7999999999993,6.770407858295628,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,NORTE,REGIAO,area_mil_ha,3994.6,3994.6,0.0,,,baseline_ingenuo,297.0999999999999,297.0999999999999,7.437540679917887,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,SUDESTE,REGIAO,area_mil_ha,3738.7,3738.7,0.0,,,baseline_ingenuo,66.19999999999982,66.19999999999982,1.7706689490999499,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,SUL,REGIAO,area_mil_ha,13069.4,13069.4,0.0,,,baseline_ingenuo,192.39999999999964,192.39999999999964,1.472141031722953,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,CENTRO-OESTE,REGIAO,area_mil_ha,733.3000000000001,733.3000000000001,0.0,,,baseline_ingenuo,86.30000000000007,86.30000000000007,11.76871675985273,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,NORDESTE,REGIAO,area_mil_ha,377.3,377.3,0.0,,,baseline_ingenuo,39.80000000000001,39.80000000000001,10.548635038430959,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,NORTE,REGIAO,area_mil_ha,154.5,154.5,0.0,,,baseline_ingenuo,17.69999999999999,17.69999999999999,11.456310679611644,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,SUDESTE,REGIAO,area_mil_ha,552.0,552.0,0.0,,,baseline_ingenuo,41.69999999999999,41.69999999999999,7.554347826086954,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,SUL,REGIAO,area_mil_ha,6.6000000000000005,6.6000000000000005,0.0,,,baseline_ingenuo,6.2,6.2,93.93939393939394,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,CENTRO-OESTE,REGIAO,area_mil_ha,87.4,87.4,0.0,,,baseline_ingenuo,1.4000000000000057,1.4000000000000057,1.601830663615567,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,NORDESTE,REGIAO,area_mil_ha,5.0,5.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,NORTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,SUDESTE,REGIAO,area_mil_ha,259.1,259.1,0.0,,,baseline_ingenuo,7.0,7.0,2.7016595908915475,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,SUL,REGIAO,area_mil_ha,1966.8,1966.8,0.0,,,baseline_ingenuo,119.20000000000005,119.20000000000005,6.060606060606063,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,CENTRO-OESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,NORDESTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,NORTE,REGIAO,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,SUDESTE,REGIAO,area_mil_ha,1.8,1.8,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,SUL,REGIAO,area_mil_ha,9.6,9.6,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),BRASIL,TOTAL_BRASIL,area_mil_ha,2018.1,2018.1,0.0,,,baseline_ingenuo,67.5,67.5,3.344730191764531,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,BRASIL,TOTAL_BRASIL,area_mil_ha,2018.1,2018.1,0.0,,,baseline_ingenuo,67.5,67.5,3.344730191764531,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,BRASIL,TOTAL_BRASIL,area_mil_ha,281.3,281.3,0.0,,,baseline_ingenuo,0.8999999999999773,0.8999999999999773,0.3199431212228856,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,BRASIL,TOTAL_BRASIL,area_mil_ha,1559.9,1559.9,0.0,,,baseline_ingenuo,204.0,204.0,13.077761394961215,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,BRASIL,TOTAL_BRASIL,area_mil_ha,509.0,509.0,0.0,,,baseline_ingenuo,36.799999999999955,36.799999999999955,7.229862475442034,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,BRASIL,TOTAL_BRASIL,area_mil_ha,275.7,275.7,0.0,,,baseline_ingenuo,63.79999999999998,63.79999999999998,23.1410953935437,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,BRASIL,TOTAL_BRASIL,area_mil_ha,2.1,2.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,BRASIL,TOTAL_BRASIL,area_mil_ha,149.9,149.9,0.0,,,baseline_ingenuo,10.700000000000017,10.700000000000017,7.1380920613742616,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,BRASIL,TOTAL_BRASIL,area_mil_ha,2600.6,2600.6,0.0,,,baseline_ingenuo,92.40000000000009,92.40000000000009,3.5530262247173767,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,BRASIL,TOTAL_BRASIL,area_mil_ha,608.0,608.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,BRASIL,TOTAL_BRASIL,area_mil_ha,63.8,63.8,0.0,,,baseline_ingenuo,1.8999999999999915,1.8999999999999915,2.9780564263322753,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,BRASIL,TOTAL_BRASIL,area_mil_ha,76.1,76.1,0.0,,,baseline_ingenuo,6.5,6.5,8.54139290407359,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,BRASIL,TOTAL_BRASIL,area_mil_ha,22525.6,22525.6,0.0,,,baseline_ingenuo,687.5999999999985,687.5999999999985,3.0525269027240056,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,BRASIL,TOTAL_BRASIL,area_mil_ha,48434.4,48434.4,0.0,,,baseline_ingenuo,1088.300000000003,1088.300000000003,2.2469567084551536,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,BRASIL,TOTAL_BRASIL,area_mil_ha,1823.7,1823.7,0.0,,,baseline_ingenuo,191.70000000000005,191.70000000000005,10.511597302187862,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,BRASIL,TOTAL_BRASIL,area_mil_ha,2318.3,2318.3,0.0,,,baseline_ingenuo,127.59999999999991,127.59999999999991,5.504033127722896,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,BRASIL,TOTAL_BRASIL,area_mil_ha,11.4,11.4,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),BA,UF,area_mil_ha,402.4,402.4,0.0,,,baseline_ingenuo,10.700000000000045,10.700000000000045,2.6590457256461346,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),CE,UF,area_mil_ha,1.9,1.9,0.0,,,baseline_ingenuo,0.5,0.5,26.31578947368421,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),DF,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),GO,UF,area_mil_ha,29.8,29.8,0.0,,,baseline_ingenuo,0.5,0.5,1.6778523489932886,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),MA,UF,area_mil_ha,29.7,29.7,0.0,,,baseline_ingenuo,3.3000000000000007,3.3000000000000007,11.111111111111112,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),MG,UF,area_mil_ha,42.2,42.2,0.0,,,baseline_ingenuo,2.8999999999999986,2.8999999999999986,6.872037914691939,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),MS,UF,area_mil_ha,31.8,31.8,0.0,,,baseline_ingenuo,0.10000000000000142,0.10000000000000142,0.3144654088050359,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),MT,UF,area_mil_ha,1410.8,1410.8,0.0,,,baseline_ingenuo,51.200000000000045,51.200000000000045,3.6291465834987275,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),PA,UF,area_mil_ha,0.2,0.2,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),PB,UF,area_mil_ha,0.5,0.5,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),PI,UF,area_mil_ha,34.6,34.6,0.0,,,baseline_ingenuo,0.8999999999999986,0.8999999999999986,2.6011560693641576,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),PR,UF,area_mil_ha,1.6,1.6,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),RN,UF,area_mil_ha,1.1,1.1,0.0,,,baseline_ingenuo,0.09999999999999987,0.09999999999999987,9.09090909090908,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),RO,UF,area_mil_ha,8.8,8.8,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),RS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),SP,UF,area_mil_ha,7.5,7.5,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - CAROÇO (1),TO,UF,area_mil_ha,15.2,15.2,0.0,,,baseline_ingenuo,0.6999999999999993,0.6999999999999993,4.605263157894733,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,BA,UF,area_mil_ha,402.4,402.4,0.0,,,baseline_ingenuo,10.700000000000045,10.700000000000045,2.6590457256461346,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,CE,UF,area_mil_ha,1.9,1.9,0.0,,,baseline_ingenuo,0.5,0.5,26.31578947368421,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,DF,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,GO,UF,area_mil_ha,29.8,29.8,0.0,,,baseline_ingenuo,0.5,0.5,1.6778523489932886,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,MA,UF,area_mil_ha,29.7,29.7,0.0,,,baseline_ingenuo,3.3000000000000007,3.3000000000000007,11.111111111111112,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,MG,UF,area_mil_ha,42.2,42.2,0.0,,,baseline_ingenuo,2.8999999999999986,2.8999999999999986,6.872037914691939,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,MS,UF,area_mil_ha,31.8,31.8,0.0,,,baseline_ingenuo,0.10000000000000142,0.10000000000000142,0.3144654088050359,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,MT,UF,area_mil_ha,1410.8,1410.8,0.0,,,baseline_ingenuo,51.200000000000045,51.200000000000045,3.6291465834987275,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,PA,UF,area_mil_ha,0.2,0.2,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,PB,UF,area_mil_ha,0.5,0.5,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,PI,UF,area_mil_ha,34.6,34.6,0.0,,,baseline_ingenuo,0.8999999999999986,0.8999999999999986,2.6011560693641576,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,PR,UF,area_mil_ha,1.6,1.6,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,RN,UF,area_mil_ha,1.1,1.1,0.0,,,baseline_ingenuo,0.09999999999999987,0.09999999999999987,9.09090909090908,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,RO,UF,area_mil_ha,8.8,8.8,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,RS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,SP,UF,area_mil_ha,7.5,7.5,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ALGODÃO - PLUMA,TO,UF,area_mil_ha,15.2,15.2,0.0,,,baseline_ingenuo,0.6999999999999993,0.6999999999999993,4.605263157894733,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,BA,UF,area_mil_ha,2.6,2.6,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,CE,UF,area_mil_ha,0.6,0.6,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,DF,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,GO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,MA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,MG,UF,area_mil_ha,16.0,16.0,0.0,,,baseline_ingenuo,1.5,1.5,9.375,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,MS,UF,area_mil_ha,45.5,45.5,0.0,,,baseline_ingenuo,2.0,2.0,4.395604395604396,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,MT,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,PA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,PB,UF,area_mil_ha,0.7,0.7,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,PI,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,PR,UF,area_mil_ha,1.5,1.5,0.0,,,baseline_ingenuo,0.6000000000000001,0.6000000000000001,40.00000000000001,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,RS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,SP,UF,area_mil_ha,213.4,213.4,0.0,,,baseline_ingenuo,2.0999999999999943,2.0999999999999943,0.9840674789128371,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AMENDOIM TOTAL,TO,UF,area_mil_ha,1.0,1.0,0.0,,,baseline_ingenuo,0.09999999999999998,0.09999999999999998,9.999999999999998,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,AC,UF,area_mil_ha,3.5,3.5,0.0,,,baseline_ingenuo,0.2999999999999998,0.2999999999999998,8.571428571428566,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,AL,UF,area_mil_ha,2.3,2.3,0.0,,,baseline_ingenuo,0.30000000000000027,0.30000000000000027,13.043478260869579,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,AM,UF,area_mil_ha,6.1,6.1,0.0,,,baseline_ingenuo,1.5,1.5,24.590163934426233,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,AP,UF,area_mil_ha,0.6,0.6,0.0,,,baseline_ingenuo,0.30000000000000004,0.30000000000000004,50.000000000000014,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,BA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,CE,UF,area_mil_ha,3.9,3.9,0.0,,,baseline_ingenuo,0.5000000000000004,0.5000000000000004,12.820512820512834,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,DF,UF,area_mil_ha,0.4,0.4,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,ES,UF,area_mil_ha,0.1,0.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,GO,UF,area_mil_ha,23.8,23.8,0.0,,,baseline_ingenuo,5.199999999999999,5.199999999999999,21.848739495798316,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,MA,UF,area_mil_ha,74.6,74.6,0.0,,,baseline_ingenuo,18.80000000000001,18.80000000000001,25.201072386058996,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,MG,UF,area_mil_ha,16.4,16.4,0.0,,,baseline_ingenuo,5.800000000000001,5.800000000000001,35.365853658536594,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,MS,UF,area_mil_ha,8.6,8.6,0.0,,,baseline_ingenuo,5.1,5.1,59.302325581395344,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,MT,UF,area_mil_ha,91.7,91.7,0.0,,,baseline_ingenuo,54.999999999999986,54.999999999999986,59.9781897491821,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,PA,UF,area_mil_ha,39.5,39.5,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,PB,UF,area_mil_ha,2.7,2.7,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,PI,UF,area_mil_ha,51.5,51.5,0.0,,,baseline_ingenuo,5.0,5.0,9.70873786407767,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,PR,UF,area_mil_ha,19.1,19.1,0.0,,,baseline_ingenuo,0.6000000000000014,0.6000000000000014,3.14136125654451,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,RJ,UF,area_mil_ha,0.3,0.3,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,RN,UF,area_mil_ha,0.4,0.4,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,RO,UF,area_mil_ha,25.7,25.7,0.0,,,baseline_ingenuo,18.3,18.3,71.20622568093385,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,RR,UF,area_mil_ha,13.3,13.3,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,RS,UF,area_mil_ha,905.2,905.2,0.0,,,baseline_ingenuo,62.89999999999998,62.89999999999998,6.948740609809984,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,SC,UF,area_mil_ha,148.5,148.5,0.0,,,baseline_ingenuo,1.5,1.5,1.0101010101010102,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,SE,UF,area_mil_ha,6.0,6.0,0.0,,,baseline_ingenuo,0.20000000000000018,0.20000000000000018,3.333333333333336,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,SP,UF,area_mil_ha,7.9,7.9,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,ARROZ,TO,UF,area_mil_ha,107.8,107.8,0.0,,,baseline_ingenuo,25.700000000000003,25.700000000000003,23.8404452690167,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,BA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,CE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,DF,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,GO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,MA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,MG,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,MS,UF,area_mil_ha,38.2,38.2,0.0,,,baseline_ingenuo,2.1999999999999957,2.1999999999999957,5.75916230366491,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,MT,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,PA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,PI,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,PR,UF,area_mil_ha,98.7,98.7,0.0,,,baseline_ingenuo,4.8999999999999915,4.8999999999999915,4.96453900709219,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,RS,UF,area_mil_ha,372.1,372.1,0.0,,,baseline_ingenuo,29.69999999999999,29.69999999999999,7.981725342649821,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,SP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,AVEIA,TO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,BA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,CE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,DF,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,GO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,MA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,MG,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,MS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,MT,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,PA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,PI,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,PR,UF,area_mil_ha,2.0,2.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,RS,UF,area_mil_ha,273.7,273.7,0.0,,,baseline_ingenuo,63.79999999999998,63.79999999999998,23.310193642674456,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,SP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CANOLA,TO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,BA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,CE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,DF,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,GO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,MA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,MG,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,MS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,MT,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,PA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,PI,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,PR,UF,area_mil_ha,2.1,2.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,RS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,SP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CENTEIO,TO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,BA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,CE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,DF,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,GO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,MA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,MG,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,MS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,MT,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,PA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,PI,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,PR,UF,area_mil_ha,111.3,111.3,0.0,,,baseline_ingenuo,7.599999999999994,7.599999999999994,6.828391734052107,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,RS,UF,area_mil_ha,34.5,34.5,0.0,,,baseline_ingenuo,3.1000000000000014,3.1000000000000014,8.985507246376816,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,SP,UF,area_mil_ha,4.1,4.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,CEVADA,TO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,AC,UF,area_mil_ha,5.3,5.3,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,AL,UF,area_mil_ha,17.4,17.4,0.0,,,baseline_ingenuo,3.200000000000003,3.200000000000003,18.39080459770117,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,AM,UF,area_mil_ha,2.2,2.2,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,AP,UF,area_mil_ha,1.1,1.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,BA,UF,area_mil_ha,389.4,389.4,0.0,,,baseline_ingenuo,12.099999999999966,12.099999999999966,3.107344632768353,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,CE,UF,area_mil_ha,332.6,332.6,0.0,,,baseline_ingenuo,3.8000000000000114,3.8000000000000114,1.1425135297654874,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,DF,UF,area_mil_ha,14.7,14.7,0.0,,,baseline_ingenuo,0.20000000000000107,0.20000000000000107,1.3605442176870821,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,ES,UF,area_mil_ha,9.0,9.0,0.0,,,baseline_ingenuo,0.5,0.5,5.555555555555555,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,GO,UF,area_mil_ha,113.4,113.4,0.0,,,baseline_ingenuo,5.799999999999997,5.799999999999997,5.114638447971778,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,MA,UF,area_mil_ha,46.2,46.2,0.0,,,baseline_ingenuo,1.2000000000000028,1.2000000000000028,2.5974025974026036,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,MG,UF,area_mil_ha,287.4,287.4,0.0,,,baseline_ingenuo,0.6999999999999318,0.6999999999999318,0.24356297842725536,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,MS,UF,area_mil_ha,7.2,7.2,0.0,,,baseline_ingenuo,1.5,1.5,20.833333333333332,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,MT,UF,area_mil_ha,164.0,164.0,0.0,,,baseline_ingenuo,0.19999999999998863,0.19999999999998863,0.12195121951218818,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,PA,UF,area_mil_ha,21.7,21.7,0.0,,,baseline_ingenuo,5.100000000000001,5.100000000000001,23.502304147465445,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,PB,UF,area_mil_ha,105.0,105.0,0.0,,,baseline_ingenuo,1.9000000000000057,1.9000000000000057,1.809523809523815,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,PE,UF,area_mil_ha,173.3,173.3,0.0,,,baseline_ingenuo,0.39999999999997726,0.39999999999997726,0.23081361800344904,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,PI,UF,area_mil_ha,200.7,200.7,0.0,,,baseline_ingenuo,4.0,4.0,1.9930244145490783,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,PR,UF,area_mil_ha,397.2,397.2,0.0,,,baseline_ingenuo,94.5,94.5,23.79154078549849,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,RJ,UF,area_mil_ha,0.8999999999999999,0.8999999999999999,0.0,,,baseline_ingenuo,0.10000000000000009,0.10000000000000009,11.111111111111121,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,RN,UF,area_mil_ha,44.5,44.5,0.0,,,baseline_ingenuo,2.299999999999997,2.299999999999997,5.16853932584269,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,RO,UF,area_mil_ha,2.2,2.2,0.0,,,baseline_ingenuo,0.20000000000000018,0.20000000000000018,9.090909090909099,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,RR,UF,area_mil_ha,2.7,2.7,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,RS,UF,area_mil_ha,43.900000000000006,43.900000000000006,0.0,,,baseline_ingenuo,1.500000000000007,1.500000000000007,3.416856492027351,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,SC,UF,area_mil_ha,55.8,55.8,0.0,,,baseline_ingenuo,5.200000000000003,5.200000000000003,9.318996415770615,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,SE,UF,area_mil_ha,2.4,2.4,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,SP,UF,area_mil_ha,77.8,77.8,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,FEIJÃO TOTAL,TO,UF,area_mil_ha,82.60000000000001,82.60000000000001,0.0,,,baseline_ingenuo,5.000000000000014,5.000000000000014,6.053268765133189,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,BA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,CE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,DF,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,GO,UF,area_mil_ha,4.0,4.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,MA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,MG,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,MS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,MT,UF,area_mil_ha,401.2,401.2,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,PA,UF,area_mil_ha,112.8,112.8,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,PI,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,PR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,RS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,SP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GERGELIM,TO,UF,area_mil_ha,90.0,90.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,BA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,CE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,DF,UF,area_mil_ha,0.6,0.6,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,GO,UF,area_mil_ha,47.0,47.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,MA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,MG,UF,area_mil_ha,5.5,5.5,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,MS,UF,area_mil_ha,0.8,0.8,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,MT,UF,area_mil_ha,3.9,3.9,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,PA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,PI,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,PR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,RS,UF,area_mil_ha,6.0,6.0,0.0,,,baseline_ingenuo,1.9000000000000004,1.9000000000000004,31.66666666666667,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,SP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,GIRASSOL,TO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,BA,UF,area_mil_ha,76.0,76.0,0.0,,,baseline_ingenuo,6.5,6.5,8.552631578947368,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,CE,UF,area_mil_ha,0.1,0.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,DF,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,GO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,MA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,MG,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,MS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,MT,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,PA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,PI,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,PR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,RS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,SP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MAMONA,TO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,AC,UF,area_mil_ha,42.400000000000006,42.400000000000006,0.0,,,baseline_ingenuo,1.4000000000000057,1.4000000000000057,3.3018867924528434,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,AL,UF,area_mil_ha,32.7,32.7,0.0,,,baseline_ingenuo,1.5000000000000036,1.5000000000000036,4.587155963302763,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,AM,UF,area_mil_ha,8.3,8.3,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,AP,UF,area_mil_ha,2.0,2.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,BA,UF,area_mil_ha,688.9,688.9,0.0,,,baseline_ingenuo,43.200000000000045,43.200000000000045,6.270866598925831,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,CE,UF,area_mil_ha,592.8,592.8,0.0,,,baseline_ingenuo,1.7999999999999545,1.7999999999999545,0.30364372469634865,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,DF,UF,area_mil_ha,55.2,55.2,0.0,,,baseline_ingenuo,1.0,1.0,1.8115942028985508,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,ES,UF,area_mil_ha,16.5,16.5,0.0,,,baseline_ingenuo,0.10000000000000142,0.10000000000000142,0.6060606060606146,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,GO,UF,area_mil_ha,1949.1,1949.1,0.0,,,baseline_ingenuo,20.0,20.0,1.0261146170027193,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,MA,UF,area_mil_ha,599.7,599.7,0.0,,,baseline_ingenuo,2.6000000000000227,2.6000000000000227,0.4335501083875309,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,MG,UF,area_mil_ha,1141.3,1141.3,0.0,,,baseline_ingenuo,57.59999999999991,57.59999999999991,5.046876369052827,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,MS,UF,area_mil_ha,2147.0,2147.0,0.0,,,baseline_ingenuo,65.40000000000009,65.40000000000009,3.046110852352123,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,MT,UF,area_mil_ha,7561.599999999999,7561.599999999999,0.0,,,baseline_ingenuo,274.1999999999998,274.1999999999998,3.6262166737198456,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,PA,UF,area_mil_ha,571.4000000000001,571.4000000000001,0.0,,,baseline_ingenuo,59.200000000000045,59.200000000000045,10.360518025901301,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,PB,UF,area_mil_ha,117.2,117.2,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,PE,UF,area_mil_ha,194.4,194.4,0.0,,,baseline_ingenuo,1.799999999999983,1.799999999999983,0.9259259259259172,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,PI,UF,area_mil_ha,418.3,418.3,0.0,,,baseline_ingenuo,50.599999999999966,50.599999999999966,12.09658140090843,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,PR,UF,area_mil_ha,3181.2000000000003,3181.2000000000003,0.0,,,baseline_ingenuo,121.5,121.5,3.819313466616371,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,RJ,UF,area_mil_ha,1.4,1.4,0.0,,,baseline_ingenuo,0.10000000000000009,0.10000000000000009,7.1428571428571495,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,RN,UF,area_mil_ha,61.0,61.0,0.0,,,baseline_ingenuo,3.200000000000003,3.200000000000003,5.245901639344267,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,RO,UF,area_mil_ha,523.6,523.6,0.0,,,baseline_ingenuo,30.30000000000001,30.30000000000001,5.786860198624907,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,RR,UF,area_mil_ha,20.0,20.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,RS,UF,area_mil_ha,817.1,817.1,0.0,,,baseline_ingenuo,101.60000000000002,101.60000000000002,12.434218577897445,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,SC,UF,area_mil_ha,309.4,309.4,0.0,,,baseline_ingenuo,21.299999999999955,21.299999999999955,6.884292178409811,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,SE,UF,area_mil_ha,186.1,186.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,SP,UF,area_mil_ha,772.7,772.7,0.0,,,baseline_ingenuo,27.90000000000009,27.90000000000009,3.610715672317858,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,MILHO TOTAL,TO,UF,area_mil_ha,514.3,514.3,0.0,,,baseline_ingenuo,41.299999999999955,41.299999999999955,8.030332490764138,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,AC,UF,area_mil_ha,22.0,22.0,0.0,,,baseline_ingenuo,3.3999999999999986,3.3999999999999986,15.454545454545448,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,AL,UF,area_mil_ha,7.5,7.5,0.0,,,baseline_ingenuo,2.5999999999999996,2.5999999999999996,34.666666666666664,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,AM,UF,area_mil_ha,17.7,17.7,0.0,,,baseline_ingenuo,4.199999999999999,4.199999999999999,23.72881355932203,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,AP,UF,area_mil_ha,12.0,12.0,0.0,,,baseline_ingenuo,2.0,2.0,16.666666666666664,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,BA,UF,area_mil_ha,2336.3,2336.3,0.0,,,baseline_ingenuo,200.70000000000027,200.70000000000027,8.590506356204266,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,CE,UF,area_mil_ha,3.6,3.6,0.0,,,baseline_ingenuo,0.19999999999999973,0.19999999999999973,5.555555555555548,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,DF,UF,area_mil_ha,89.7,89.7,0.0,,,baseline_ingenuo,1.2999999999999972,1.2999999999999972,1.4492753623188372,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,GO,UF,area_mil_ha,5152.9,5152.9,0.0,,,baseline_ingenuo,198.19999999999982,198.19999999999982,3.8463777678588724,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,MA,UF,area_mil_ha,1522.3,1522.3,0.0,,,baseline_ingenuo,86.20000000000005,86.20000000000005,5.662484398607374,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,MG,UF,area_mil_ha,2342.4,2342.4,0.0,,,baseline_ingenuo,25.5,25.5,1.0886270491803278,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,MS,UF,area_mil_ha,4364.0,4364.0,0.0,,,baseline_ingenuo,110.60000000000036,110.60000000000036,2.5343721356553703,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,MT,UF,area_mil_ha,13006.2,13006.2,0.0,,,baseline_ingenuo,267.5,267.5,2.0567114145561347,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,PA,UF,area_mil_ha,1400.2,1400.2,0.0,,,baseline_ingenuo,139.9000000000001,139.9000000000001,9.991429795743471,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,PE,UF,area_mil_ha,0.8,0.8,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,PI,UF,area_mil_ha,1148.4,1148.4,0.0,,,baseline_ingenuo,50.5,50.5,4.397422500870777,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,PR,UF,area_mil_ha,5412.8,5412.8,0.0,,,baseline_ingenuo,69.5,69.5,1.2839934968962459,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,RO,UF,area_mil_ha,716.9,716.9,0.0,,,baseline_ingenuo,22.199999999999932,22.199999999999932,3.0966662017017623,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,RR,UF,area_mil_ha,145.5,145.5,0.0,,,baseline_ingenuo,9.599999999999994,9.599999999999994,6.597938144329893,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,RS,UF,area_mil_ha,6836.0,6836.0,0.0,,,baseline_ingenuo,262.6999999999998,262.6999999999998,3.84289057928613,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,SC,UF,area_mil_ha,820.6,820.6,0.0,,,baseline_ingenuo,0.8000000000000682,0.8000000000000682,0.09748964172557496,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,SP,UF,area_mil_ha,1396.3,1396.3,0.0,,,baseline_ingenuo,40.700000000000045,40.700000000000045,2.914846379717829,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SOJA,TO,UF,area_mil_ha,1680.3,1680.3,0.0,,,baseline_ingenuo,115.79999999999995,115.79999999999995,6.891626495268699,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,BA,UF,area_mil_ha,210.3,210.3,0.0,,,baseline_ingenuo,4.300000000000011,4.300000000000011,2.04469805040419,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,CE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,DF,UF,area_mil_ha,18.5,18.5,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,GO,UF,area_mil_ha,438.1,438.1,0.0,,,baseline_ingenuo,43.400000000000034,43.400000000000034,9.906414060716738,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,MA,UF,area_mil_ha,80.0,80.0,0.0,,,baseline_ingenuo,29.4,29.4,36.75,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,MG,UF,area_mil_ha,403.2,403.2,0.0,,,baseline_ingenuo,30.899999999999977,30.899999999999977,7.663690476190471,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,MS,UF,area_mil_ha,167.8,167.8,0.0,,,baseline_ingenuo,30.0,30.0,17.878426698450536,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,MT,UF,area_mil_ha,108.9,108.9,0.0,,,baseline_ingenuo,12.900000000000006,12.900000000000006,11.845730027548214,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,PA,UF,area_mil_ha,91.2,91.2,0.0,,,baseline_ingenuo,9.0,9.0,9.868421052631579,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,PI,UF,area_mil_ha,87.0,87.0,0.0,,,baseline_ingenuo,6.099999999999994,6.099999999999994,7.011494252873557,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,PR,UF,area_mil_ha,0.4,0.4,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,RS,UF,area_mil_ha,6.2,6.2,0.0,,,baseline_ingenuo,6.2,6.2,100.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,SP,UF,area_mil_ha,148.8,148.8,0.0,,,baseline_ingenuo,10.800000000000011,10.800000000000011,7.25806451612904,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,SORGO,TO,UF,area_mil_ha,63.3,63.3,0.0,,,baseline_ingenuo,8.699999999999996,8.699999999999996,13.744075829383881,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,BA,UF,area_mil_ha,5.0,5.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,CE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,DF,UF,area_mil_ha,7.9,7.9,0.0,,,baseline_ingenuo,0.5,0.5,6.329113924050632,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,GO,UF,area_mil_ha,45.0,45.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,MA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,MG,UF,area_mil_ha,144.1,144.1,0.0,,,baseline_ingenuo,7.0,7.0,4.857737682165164,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,MS,UF,area_mil_ha,34.5,34.5,0.0,,,baseline_ingenuo,1.8999999999999986,1.8999999999999986,5.50724637681159,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,MT,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,PA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,PI,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,PR,UF,area_mil_ha,819.0,819.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,RS,UF,area_mil_ha,1037.7,1037.7,0.0,,,baseline_ingenuo,119.20000000000005,119.20000000000005,11.486942276187726,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,SC,UF,area_mil_ha,110.1,110.1,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,SP,UF,area_mil_ha,115.0,115.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRIGO,TO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,AC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,AL,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,AM,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,AP,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,BA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,CE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,DF,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,ES,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,GO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,MA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,MG,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,MS,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,MT,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,PA,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,PB,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,PE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,PI,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,PR,UF,area_mil_ha,6.0,6.0,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,RJ,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,RN,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,RO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,RR,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,RS,UF,area_mil_ha,3.6,3.6,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,SC,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,SE,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,SP,UF,area_mil_ha,1.8,1.8,0.0,,,baseline_ingenuo,0.0,0.0,0.0,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TRITICALE,TO,UF,area_mil_ha,0.0,0.0,,,,baseline_ingenuo,0.0,0.0,,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,CENTRO-OESTE,REGIAO,area_mil_ha,37583.8,37583.8,0.0,,,baseline_ingenuo,859.3000000000029,859.3000000000029,2.2863574199522207,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,NORDESTE,REGIAO,area_mil_ha,10295.4,10295.4,0.0,,,baseline_ingenuo,253.79999999999927,253.79999999999927,2.465178623462899,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,NORTE,REGIAO,area_mil_ha,6373.4,6373.4,0.0,,,baseline_ingenuo,415.0,415.0,6.511438164872753,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,SUDESTE,REGIAO,area_mil_ha,7172.0,7172.0,0.0,,,baseline_ingenuo,178.0,178.0,2.481873954266592,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,SUL,REGIAO,area_mil_ha,21833.3,21833.3,0.0,,,baseline_ingenuo,183.0,183.0,0.8381692185789597,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,BRASIL,TOTAL_BRASIL,area_mil_ha,83257.9,83257.9,0.0,,,baseline_ingenuo,1523.0999999999913,1523.0999999999913,1.8293759511109353,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,AC,UF,area_mil_ha,73.2,73.2,0.0,,,baseline_ingenuo,4.5,4.5,6.147540983606557,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,AL,UF,area_mil_ha,59.9,59.9,0.0,,,baseline_ingenuo,0.6000000000000014,0.6000000000000014,1.0016694490818054,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,AM,UF,area_mil_ha,34.3,34.3,0.0,,,baseline_ingenuo,5.699999999999996,5.699999999999996,16.61807580174926,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,AP,UF,area_mil_ha,15.7,15.7,0.0,,,baseline_ingenuo,1.6999999999999993,1.6999999999999993,10.828025477707003,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,BA,UF,area_mil_ha,4110.9,4110.9,0.0,,,baseline_ingenuo,169.69999999999982,169.69999999999982,4.128049818774474,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,CE,UF,area_mil_ha,935.5,935.5,0.0,,,baseline_ingenuo,3.2000000000000455,3.2000000000000455,0.3420630678781449,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,DF,UF,area_mil_ha,187.0,187.0,0.0,,,baseline_ingenuo,0.5999999999999943,0.5999999999999943,0.320855614973259,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,ES,UF,area_mil_ha,25.6,25.6,0.0,,,baseline_ingenuo,0.40000000000000213,0.40000000000000213,1.5625000000000084,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,GO,UF,area_mil_ha,7803.1,7803.1,0.0,,,baseline_ingenuo,210.10000000000036,210.10000000000036,2.6925196396304076,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,MA,UF,area_mil_ha,2352.5,2352.5,0.0,,,baseline_ingenuo,94.90000000000009,94.90000000000009,4.03400637619554,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,MG,UF,area_mil_ha,4398.5,4398.5,0.0,,,baseline_ingenuo,100.5,100.5,2.284869841991588,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,MS,UF,area_mil_ha,6845.4,6845.4,0.0,,,baseline_ingenuo,200.39999999999964,200.39999999999964,2.9275133666403663,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,MT,UF,area_mil_ha,22748.3,22748.3,0.0,,,baseline_ingenuo,448.2000000000007,448.2000000000007,1.9702571181143238,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,PA,UF,area_mil_ha,2237.0,2237.0,0.0,,,baseline_ingenuo,213.20000000000005,213.20000000000005,9.530621367903445,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,PB,UF,area_mil_ha,226.1,226.1,0.0,,,baseline_ingenuo,1.9000000000000057,1.9000000000000057,0.8403361344537841,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,PE,UF,area_mil_ha,368.5,368.5,0.0,,,baseline_ingenuo,2.1999999999999886,2.1999999999999886,0.5970149253731312,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,PI,UF,area_mil_ha,1940.5,1940.5,0.0,,,baseline_ingenuo,2.099999999999909,2.099999999999909,0.10821953104869411,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,PR,UF,area_mil_ha,10052.9,10052.9,0.0,,,baseline_ingenuo,98.0,98.0,0.974843080106238,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,RJ,UF,area_mil_ha,2.6,2.6,0.0,,,baseline_ingenuo,0.19999999999999973,0.19999999999999973,7.692307692307682,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,RN,UF,area_mil_ha,107.0,107.0,0.0,,,baseline_ingenuo,5.599999999999994,5.599999999999994,5.2336448598130785,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,RO,UF,area_mil_ha,1277.2,1277.2,0.0,,,baseline_ingenuo,34.40000000000009,34.40000000000009,2.6933917945505863,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,RR,UF,area_mil_ha,181.5,181.5,0.0,,,baseline_ingenuo,9.599999999999994,9.599999999999994,5.289256198347105,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,RS,UF,area_mil_ha,10336.0,10336.0,0.0,,,baseline_ingenuo,296.39999999999964,296.39999999999964,2.867647058823526,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,SC,UF,area_mil_ha,1444.4,1444.4,0.0,,,baseline_ingenuo,15.400000000000091,15.400000000000091,1.0661866518969876,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,SE,UF,area_mil_ha,194.5,194.5,0.0,,,baseline_ingenuo,0.19999999999998863,0.19999999999998863,0.10282776349613812,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,SP,UF,area_mil_ha,2745.3,2745.3,0.0,,,baseline_ingenuo,77.30000000000018,77.30000000000018,2.8157214147816334,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto
+2026/27,TODAS,TO,UF,area_mil_ha,2554.5,2554.5,0.0,,,baseline_ingenuo,145.9000000000001,145.9000000000001,5.711489528283424,BAIXA CONFIANCA,2,estimativa_baseline_com_historico_curto

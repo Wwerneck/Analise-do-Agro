@@ -87,6 +87,31 @@
     <h2>Área x Produtividade x Produção</h2><section class="grid-even"><div class="chart"><h3>Quadrantes de variação</h3><p class="lead">X = variação da área, Y = variação da produtividade, tamanho visual aproximado pela produção.</p><div id="scatter" class="scatter"></div></div><div class="chart"><h3>Crescimentos e quedas</h3><p class="lead">Maiores movimentos absolutos de produção no recorte selecionado.</p><div id="movementBars" class="bars"></div></div></section>
     <h2>Principais Insights</h2><section id="insights" class="insights"></section>
     <h2>Dados</h2><section class="panel"><div class="actions"><button id="downloadCsv" type="button">Baixar dados filtrados CSV</button></div><div style="overflow:auto; margin-top:12px"><table><thead><tr><th>Item</th><th>Producao</th><th>Area</th><th>Produtividade</th><th>Variacao</th><th>Participacao</th></tr></thead><tbody id="dataTable"></tbody></table></div></section>
+<!-- predictive-section-start -->
+    <h2>ANALISE PREDITIVA</h2>
+    <p class="lead">As previsoes representam estimativas estatisticas baseadas no comportamento historico dos dados e nao constituem previsao oficial da CONAB. Como o recorte atual possui somente duas safras, modelos complexos foram bloqueados e os resultados abaixo usam baseline ingenuo com baixa confianca.</p>
+    <section class="kpis" id="predictiveKpis">
+      <div class="card"><span class="label">PRODUCAO PREVISTA</span><strong class="value">353,375.9 mil t</strong><small class="note">Cenario esperado do modelo</small></div>
+      <div class="card"><span class="label">PRODUTIVIDADE PREVISTA</span><strong class="value">baseline</strong><small class="note">Ultimo valor conhecido por serie</small></div>
+      <div class="card"><span class="label">VARIACAO ESPERADA</span><strong class="value">0.00%</strong><small class="note">Proxima safra estimada</small></div>
+      <div class="card"><span class="label">MODELO MAIS PRECISO</span><strong class="value">Baseline</strong><small class="note">MAE medio 91.34 | RMSE 91.34 | MAPE 7.90%</small></div>
+    </section>
+    <h2>QUALIDADE DAS PREVISOES</h2>
+    <section class="panel"><p class="lead">MAPE representa o erro percentual medio das previsoes. Quanto menor, melhor. A confianca foi classificada por quantidade de historico, erro medio, estabilidade da serie e diferenca entre modelos.</p></section>
+    <h2>TOP CULTURAS COM MAIOR CRESCIMENTO PREVISTO</h2>
+    <section class="panel"><div style="overflow:auto"><table><thead><tr><th>Cultura</th><th>UF</th><th>Producao atual</th><th>Producao prevista</th><th>Variacao</th><th>Confianca</th></tr></thead><tbody><tr><td>ALGODÃO - CAROÇO (1)</td><td>BRASIL</td><td>5,394.40</td><td>5,394.40</td><td>0.00%</td><td>BAIXA CONFIANCA</td></tr>
+<tr><td>ALGODÃO - PLUMA</td><td>BRASIL</td><td>3,803.00</td><td>3,803.00</td><td>0.00%</td><td>BAIXA CONFIANCA</td></tr>
+<tr><td>AMENDOIM 1ª SAFRA</td><td>BRASIL</td><td>1,191.30</td><td>1,191.30</td><td>0.00%</td><td>BAIXA CONFIANCA</td></tr>
+<tr><td>AMENDOIM 2ª SAFRA</td><td>BRASIL</td><td>12.00</td><td>12.00</td><td>0.00%</td><td>BAIXA CONFIANCA</td></tr>
+<tr><td>AMENDOIM TOTAL</td><td>BRASIL</td><td>1,203.30</td><td>1,203.30</td><td>0.00%</td><td>BAIXA CONFIANCA</td></tr>
+<tr><td>ARROZ</td><td>BRASIL</td><td>10,914.60</td><td>10,914.60</td><td>0.00%</td><td>BAIXA CONFIANCA</td></tr>
+<tr><td>ARROZ IRRIGADO</td><td>BRASIL</td><td>10,095.80</td><td>10,095.80</td><td>0.00%</td><td>BAIXA CONFIANCA</td></tr>
+<tr><td>ARROZ SEQUEIRO</td><td>BRASIL</td><td>818.80</td><td>818.80</td><td>0.00%</td><td>BAIXA CONFIANCA</td></tr>
+<tr><td>AVEIA</td><td>BRASIL</td><td>1,146.70</td><td>1,146.70</td><td>0.00%</td><td>BAIXA CONFIANCA</td></tr>
+<tr><td>CANOLA</td><td>BRASIL</td><td>446.50</td><td>446.50</td><td>0.00%</td><td>BAIXA CONFIANCA</td></tr></tbody></table></div></section>
+    <h2>Insights Preditivos</h2>
+    <section class="insights"><div class="panel"><p class="lead">TODAS em BRASIL apresenta maior producao prevista no recorte calculado: 353375.92 mil t, com baixa confianca.</p></div><div class="panel"><p class="lead">O maior crescimento percentual previsto aparece em ALGODÃO - CAROÇO (1) / BRASIL: 0.00% segundo a estimativa do modelo.</p></div><div class="panel"><p class="lead">A tendencia historica mais favoravel no recorte e ALTA para SORGO / SUL.</p></div></section>
+<!-- predictive-section-end -->
   </main>
   <footer class="wrap">Dados oficiais preservados em data/raw. Rankings estaduais usam somente tipo_linha == uf; regiões, agregados regionais e Brasil não entram nos rankings.</footer>
   <script>

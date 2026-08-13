@@ -1,0 +1,1987 @@
+grao,tipo_linha,cultura,uf,alvo,crescimento_medio_pct,volatilidade,tendencia
+produto,AGREGADO_PRODUTO,BRASIL (2),BRASIL,producao_mil_t,0.3170962995060478,1.0,ESTAVEL
+produto,AGREGADO_PRODUTO,SUBTOTAL,BRASIL,producao_mil_t,-10.218827212143289,1.0,QUEDA
+produto,PRODUTO,ALGODÃO - CAROÇO (1),BRASIL,producao_mil_t,-6.7164695303313255,1.0,QUEDA
+produto,PRODUTO,ALGODÃO - PLUMA,BRASIL,producao_mil_t,-6.700031893231273,1.0,QUEDA
+produto,PRODUTO,AMENDOIM 1ª SAFRA,BRASIL,producao_mil_t,3.8079470198675525,1.0,ALTA
+produto,PRODUTO,AMENDOIM 2ª SAFRA,BRASIL,producao_mil_t,-0.8264462809917328,1.0,ESTAVEL
+produto,PRODUTO,AMENDOIM TOTAL,BRASIL,producao_mil_t,3.7595929981891985,1.0,ALTA
+produto,PRODUTO,ARROZ,BRASIL,producao_mil_t,-14.446961442893313,1.0,QUEDA
+produto,PRODUTO,ARROZ IRRIGADO,BRASIL,producao_mil_t,-12.963489805595085,1.0,QUEDA
+produto,PRODUTO,ARROZ SEQUEIRO,BRASIL,producao_mil_t,-29.304092557416684,1.0,QUEDA
+produto,PRODUTO,AVEIA,BRASIL,producao_mil_t,-11.266733730557931,1.0,QUEDA
+produto,PRODUTO,CANOLA,BRASIL,producao_mil_t,29.495359628770302,1.0,ALTA
+produto,PRODUTO,CAUPI,BRASIL,producao_mil_t,13.924050632911378,1.0,ALTA
+produto,PRODUTO,CENTEIO,BRASIL,producao_mil_t,-5.999999999999995,1.0,QUEDA
+produto,PRODUTO,CEVADA,BRASIL,producao_mil_t,-3.67622815694032,1.0,QUEDA
+produto,PRODUTO,CORES,BRASIL,producao_mil_t,5.926408336046873,1.0,ALTA
+produto,PRODUTO,FEIJÃO 1ª SAFRA,BRASIL,producao_mil_t,-8.986543709419404,1.0,QUEDA
+produto,PRODUTO,FEIJÃO 2ª SAFRA,BRASIL,producao_mil_t,-2.789442111577667,1.0,ESTAVEL
+produto,PRODUTO,FEIJÃO 3ª SAFRA,BRASIL,producao_mil_t,5.861081814072611,1.0,ALTA
+produto,PRODUTO,FEIJÃO TOTAL,BRASIL,producao_mil_t,-3.0654596555443003,1.0,QUEDA
+produto,PRODUTO,GERGELIM,BRASIL,producao_mil_t,0.0,1.0,ESTAVEL
+produto,PRODUTO,GIRASSOL,BRASIL,producao_mil_t,2.0916334661354563,1.0,ESTAVEL
+produto,PRODUTO,MAMONA,BRASIL,producao_mil_t,47.29054189162169,1.0,ALTA
+produto,PRODUTO,MILHO 1ª SAFRA,BRASIL,producao_mil_t,7.07617160869114,1.0,ALTA
+produto,PRODUTO,MILHO 2ª SAFRA,BRASIL,producao_mil_t,-3.5023898597878245,1.0,QUEDA
+produto,PRODUTO,MILHO 3ª SAFRA,BRASIL,producao_mil_t,-16.979556386958837,1.0,QUEDA
+produto,PRODUTO,MILHO TOTAL,BRASIL,producao_mil_t,-1.9194148951243162,1.0,ESTAVEL
+produto,PRODUTO,PRETO,BRASIL,producao_mil_t,-9.497206703910631,1.0,QUEDA
+produto,PRODUTO,SOJA,BRASIL,producao_mil_t,3.793142660535742,1.0,ALTA
+produto,PRODUTO,SORGO,BRASIL,producao_mil_t,9.706335420012447,1.0,ALTA
+produto,PRODUTO,TRIGO,BRASIL,producao_mil_t,-12.3021820306348,1.0,QUEDA
+produto,PRODUTO,TRITICALE,BRASIL,producao_mil_t,-8.196721311475407,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),CENTRO-SUL,producao_mil_t,-7.498459220708065,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),NORTE/NORDESTE,producao_mil_t,-4.272772665668024,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,CENTRO-SUL,producao_mil_t,-7.486735457830152,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,NORTE/NORDESTE,producao_mil_t,-4.292828685258964,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,CENTRO-SUL,producao_mil_t,3.7577019873296758,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,NORTE/NORDESTE,producao_mil_t,4.054054054054057,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,ARROZ,CENTRO-SUL,producao_mil_t,-13.726923944933421,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ARROZ,NORTE/NORDESTE,producao_mil_t,-19.194143554338783,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,AVEIA,CENTRO-SUL,producao_mil_t,-11.266733730557931,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,AVEIA,NORTE/NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CANOLA,CENTRO-SUL,producao_mil_t,29.495359628770302,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,CANOLA,NORTE/NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CENTEIO,CENTRO-SUL,producao_mil_t,-5.999999999999995,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,CENTEIO,NORTE/NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CEVADA,CENTRO-SUL,producao_mil_t,-3.67622815694032,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,CEVADA,NORTE/NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,CENTRO-SUL,producao_mil_t,-7.9307396323215045,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,NORTE/NORDESTE,producao_mil_t,12.720210847551684,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,GERGELIM,CENTRO-SUL,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,GERGELIM,NORTE/NORDESTE,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,CENTRO-SUL,producao_mil_t,2.0916334661354563,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,NORTE/NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,MAMONA,CENTRO-SUL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,MAMONA,NORTE/NORDESTE,producao_mil_t,47.29054189162169,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,CENTRO-SUL,producao_mil_t,-1.8780545754874978,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,NORTE/NORDESTE,producao_mil_t,-2.2053423774420544,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,SOJA,CENTRO-SUL,producao_mil_t,2.961234554054326,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,SOJA,NORTE/NORDESTE,producao_mil_t,7.6216424590495935,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,SORGO,CENTRO-SUL,producao_mil_t,9.555702917771857,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,SORGO,NORTE/NORDESTE,producao_mil_t,10.138132049169934,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,TRIGO,CENTRO-SUL,producao_mil_t,-12.349236300583932,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,TRIGO,NORTE/NORDESTE,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,TRITICALE,CENTRO-SUL,producao_mil_t,-8.196721311475407,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,TRITICALE,NORTE/NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),CENTRO-OESTE,producao_mil_t,-7.807207376740677,1.0,QUEDA
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORDESTE,producao_mil_t,-4.563447606243942,1.0,QUEDA
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORTE,producao_mil_t,1.904761904761898,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUDESTE,producao_mil_t,2.6792750197005555,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUL,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - PLUMA,CENTRO-OESTE,producao_mil_t,-7.806991034552235,1.0,QUEDA
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORDESTE,producao_mil_t,-4.556778077641688,1.0,QUEDA
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORTE,producao_mil_t,1.9704433497537144,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUDESTE,producao_mil_t,2.717391304347827,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUL,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,AMENDOIM TOTAL,CENTRO-OESTE,producao_mil_t,3.9723661485319584,1.0,ALTA
+produto_uf,REGIAO,AMENDOIM TOTAL,NORDESTE,producao_mil_t,-2.631578947368407,1.0,ESTAVEL
+produto_uf,REGIAO,AMENDOIM TOTAL,NORTE,producao_mil_t,11.111111111111116,1.0,ALTA
+produto_uf,REGIAO,AMENDOIM TOTAL,SUDESTE,producao_mil_t,3.949398333847598,1.0,ALTA
+produto_uf,REGIAO,AMENDOIM TOTAL,SUL,producao_mil_t,-31.746031746031743,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,CENTRO-OESTE,producao_mil_t,-33.2615306639635,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,NORDESTE,producao_mil_t,-13.94044022442813,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,NORTE,producao_mil_t,-21.194937541091385,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,SUDESTE,producao_mil_t,-16.086350974930376,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,SUL,producao_mil_t,-12.173844470511707,1.0,QUEDA
+produto_uf,REGIAO,AVEIA,CENTRO-OESTE,producao_mil_t,-15.10903426791278,1.0,QUEDA
+produto_uf,REGIAO,AVEIA,NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,AVEIA,NORTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,AVEIA,SUDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,AVEIA,SUL,producao_mil_t,-11.065874114485785,1.0,QUEDA
+produto_uf,REGIAO,CANOLA,CENTRO-OESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,NORTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,SUDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,SUL,producao_mil_t,29.495359628770302,1.0,ALTA
+produto_uf,REGIAO,CENTEIO,CENTRO-OESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,NORTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,SUDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,SUL,producao_mil_t,-5.999999999999995,1.0,QUEDA
+produto_uf,REGIAO,CEVADA,CENTRO-OESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,NORTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,SUDESTE,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,SUL,producao_mil_t,-3.7573715248525597,1.0,QUEDA
+produto_uf,REGIAO,FEIJÃO TOTAL,CENTRO-OESTE,producao_mil_t,-2.540127785569568,1.0,ESTAVEL
+produto_uf,REGIAO,FEIJÃO TOTAL,NORDESTE,producao_mil_t,14.586092715231791,1.0,ALTA
+produto_uf,REGIAO,FEIJÃO TOTAL,NORTE,producao_mil_t,3.0795551753635575,1.0,ALTA
+produto_uf,REGIAO,FEIJÃO TOTAL,SUDESTE,producao_mil_t,6.5846153846153666,1.0,ALTA
+produto_uf,REGIAO,FEIJÃO TOTAL,SUL,producao_mil_t,-20.242528406378323,1.0,QUEDA
+produto_uf,REGIAO,GERGELIM,CENTRO-OESTE,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,NORTE,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,SUDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,SUL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,CENTRO-OESTE,producao_mil_t,-2.2864019253911017,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,NORTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,SUDESTE,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,SUL,producao_mil_t,54.054054054054056,1.0,ALTA
+produto_uf,REGIAO,MAMONA,CENTRO-OESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,MAMONA,NORDESTE,producao_mil_t,47.29054189162169,1.0,ALTA
+produto_uf,REGIAO,MAMONA,NORTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,MAMONA,SUDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,MAMONA,SUL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,MILHO TOTAL,CENTRO-OESTE,producao_mil_t,-3.6561346457550714,1.0,QUEDA
+produto_uf,REGIAO,MILHO TOTAL,NORDESTE,producao_mil_t,-5.526443043096386,1.0,QUEDA
+produto_uf,REGIAO,MILHO TOTAL,NORTE,producao_mil_t,2.162120071638074,1.0,ESTAVEL
+produto_uf,REGIAO,MILHO TOTAL,SUDESTE,producao_mil_t,5.097741369645026,1.0,ALTA
+produto_uf,REGIAO,MILHO TOTAL,SUL,producao_mil_t,0.6047447058741717,1.0,ESTAVEL
+produto_uf,REGIAO,SOJA,CENTRO-OESTE,producao_mil_t,-0.9009185904551131,1.0,ESTAVEL
+produto_uf,REGIAO,SOJA,NORDESTE,producao_mil_t,6.142919942224556,1.0,ALTA
+produto_uf,REGIAO,SOJA,NORTE,producao_mil_t,9.599743395880589,1.0,ALTA
+produto_uf,REGIAO,SOJA,SUDESTE,producao_mil_t,-1.4180131223252346,1.0,ESTAVEL
+produto_uf,REGIAO,SOJA,SUL,producao_mil_t,12.947140335592211,1.0,ALTA
+produto_uf,REGIAO,SORGO,CENTRO-OESTE,producao_mil_t,8.998341497280826,1.0,ALTA
+produto_uf,REGIAO,SORGO,NORDESTE,producao_mil_t,9.212894779905078,1.0,ALTA
+produto_uf,REGIAO,SORGO,NORTE,producao_mil_t,13.314606741573032,1.0,ALTA
+produto_uf,REGIAO,SORGO,SUDESTE,producao_mil_t,9.50678686146511,1.0,ALTA
+produto_uf,REGIAO,SORGO,SUL,producao_mil_t,1409.0909090909092,1.0,ALTA
+produto_uf,REGIAO,TRIGO,CENTRO-OESTE,producao_mil_t,-1.7116524028966351,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,NORDESTE,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,NORTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,SUDESTE,producao_mil_t,-5.342923195479054,1.0,QUEDA
+produto_uf,REGIAO,TRIGO,SUL,producao_mil_t,-13.63407779914214,1.0,QUEDA
+produto_uf,REGIAO,TRITICALE,CENTRO-OESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,NORDESTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,NORTE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,SUDESTE,producao_mil_t,-1.9999999999999907,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,SUL,producao_mil_t,-9.177215189873422,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,ALGODÃO - CAROÇO (1),BRASIL,producao_mil_t,-6.7164695303313255,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,ALGODÃO - PLUMA,BRASIL,producao_mil_t,-6.700031893231273,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,AMENDOIM TOTAL,BRASIL,producao_mil_t,3.7595929981891985,1.0,ALTA
+produto_uf,TOTAL_BRASIL,ARROZ,BRASIL,producao_mil_t,-14.446961442893313,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,AVEIA,BRASIL,producao_mil_t,-11.266733730557931,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,CANOLA,BRASIL,producao_mil_t,29.495359628770302,1.0,ALTA
+produto_uf,TOTAL_BRASIL,CENTEIO,BRASIL,producao_mil_t,-5.999999999999995,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,CEVADA,BRASIL,producao_mil_t,-3.67622815694032,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,FEIJÃO TOTAL,BRASIL,producao_mil_t,-3.0654596555443003,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,GERGELIM,BRASIL,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,GIRASSOL,BRASIL,producao_mil_t,2.0916334661354563,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,MAMONA,BRASIL,producao_mil_t,47.29054189162169,1.0,ALTA
+produto_uf,TOTAL_BRASIL,MILHO TOTAL,BRASIL,producao_mil_t,-1.9194148951243162,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,SOJA,BRASIL,producao_mil_t,3.793142660535742,1.0,ALTA
+produto_uf,TOTAL_BRASIL,SORGO,BRASIL,producao_mil_t,9.706335420012447,1.0,ALTA
+produto_uf,TOTAL_BRASIL,TRIGO,BRASIL,producao_mil_t,-12.3021820306348,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,TRITICALE,BRASIL,producao_mil_t,-8.196721311475407,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),BA,producao_mil_t,-4.180703118251694,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),CE,producao_mil_t,14.285714285714302,1.0,ALTA
+produto_uf,UF,ALGODÃO - CAROÇO (1),DF,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),GO,producao_mil_t,-1.206272617611559,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),MA,producao_mil_t,-10.851808634772475,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),MG,producao_mil_t,3.079710144927539,1.0,ALTA
+produto_uf,UF,ALGODÃO - CAROÇO (1),MS,producao_mil_t,-4.1922290388548,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),MT,producao_mil_t,-8.028497727551919,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),PA,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),PB,producao_mil_t,50.000000000000064,1.0,ALTA
+produto_uf,UF,ALGODÃO - CAROÇO (1),PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),PI,producao_mil_t,-4.061470911086717,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),PR,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RN,producao_mil_t,-14.28571428571428,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),RO,producao_mil_t,-6.910569105691067,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),SP,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),TO,producao_mil_t,7.651715039577822,1.0,ALTA
+produto_uf,UF,ALGODÃO - PLUMA,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,BA,producao_mil_t,-4.186545801526719,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,CE,producao_mil_t,13.33333333333333,1.0,ALTA
+produto_uf,UF,ALGODÃO - PLUMA,DF,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,GO,producao_mil_t,-1.0869565217391353,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,MA,producao_mil_t,-10.96121416526138,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,MG,producao_mil_t,3.164556962025311,1.0,ALTA
+produto_uf,UF,ALGODÃO - PLUMA,MS,producao_mil_t,-4.23728813559322,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,MT,producao_mil_t,-8.025665299253182,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,PA,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,PB,producao_mil_t,100.0,1.0,ALTA
+produto_uf,UF,ALGODÃO - PLUMA,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,PI,producao_mil_t,-4.107424960505524,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,PR,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RN,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RO,producao_mil_t,-6.666666666666665,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,SP,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,TO,producao_mil_t,7.114624505928857,1.0,ALTA
+produto_uf,UF,AMENDOIM TOTAL,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,BA,producao_mil_t,-3.5714285714285587,1.0,QUEDA
+produto_uf,UF,AMENDOIM TOTAL,CE,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,DF,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,GO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,MA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,MG,producao_mil_t,10.384615384615392,1.0,ALTA
+produto_uf,UF,AMENDOIM TOTAL,MS,producao_mil_t,3.9723661485319584,1.0,ALTA
+produto_uf,UF,AMENDOIM TOTAL,MT,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PB,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PI,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PR,producao_mil_t,-31.746031746031743,1.0,QUEDA
+produto_uf,UF,AMENDOIM TOTAL,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,SP,producao_mil_t,3.5857872432902393,1.0,ALTA
+produto_uf,UF,AMENDOIM TOTAL,TO,producao_mil_t,11.111111111111116,1.0,ALTA
+produto_uf,UF,ARROZ,AC,producao_mil_t,-6.382978723404253,1.0,QUEDA
+produto_uf,UF,ARROZ,AL,producao_mil_t,5.882352941176472,1.0,ALTA
+produto_uf,UF,ARROZ,AM,producao_mil_t,36.66666666666667,1.0,ALTA
+produto_uf,UF,ARROZ,AP,producao_mil_t,-33.333333333333336,1.0,QUEDA
+produto_uf,UF,ARROZ,BA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ARROZ,CE,producao_mil_t,8.737864077669899,1.0,ALTA
+produto_uf,UF,ARROZ,DF,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,ES,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,GO,producao_mil_t,-16.881443298969067,1.0,QUEDA
+produto_uf,UF,ARROZ,MA,producao_mil_t,-20.429338103756713,1.0,QUEDA
+produto_uf,UF,ARROZ,MG,producao_mil_t,-25.773195876288668,1.0,QUEDA
+produto_uf,UF,ARROZ,MS,producao_mil_t,-35.80508474576271,1.0,QUEDA
+produto_uf,UF,ARROZ,MT,producao_mil_t,-37.70247626140384,1.0,QUEDA
+produto_uf,UF,ARROZ,PA,producao_mil_t,1.2589928057553879,1.0,ESTAVEL
+produto_uf,UF,ARROZ,PB,producao_mil_t,34.2857142857143,1.0,ALTA
+produto_uf,UF,ARROZ,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,ARROZ,PI,producao_mil_t,-9.869083585095673,1.0,QUEDA
+produto_uf,UF,ARROZ,PR,producao_mil_t,3.076923076923066,1.0,ALTA
+produto_uf,UF,ARROZ,RJ,producao_mil_t,12.5,1.0,ALTA
+produto_uf,UF,ARROZ,RN,producao_mil_t,18.181818181818166,1.0,ALTA
+produto_uf,UF,ARROZ,RO,producao_mil_t,-43.103448275862064,1.0,QUEDA
+produto_uf,UF,ARROZ,RR,producao_mil_t,-1.098901098901095,1.0,ESTAVEL
+produto_uf,UF,ARROZ,RS,producao_mil_t,-13.618146841936529,1.0,QUEDA
+produto_uf,UF,ARROZ,SC,producao_mil_t,-3.913725490196085,1.0,QUEDA
+produto_uf,UF,ARROZ,SE,producao_mil_t,-2.1568627450980427,1.0,ESTAVEL
+produto_uf,UF,ARROZ,SP,producao_mil_t,-1.2704174228675202,1.0,ESTAVEL
+produto_uf,UF,ARROZ,TO,producao_mil_t,-23.47720364741641,1.0,QUEDA
+produto_uf,UF,AVEIA,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,BA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,CE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,DF,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,GO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,MA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,MG,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,MS,producao_mil_t,-15.10903426791278,1.0,QUEDA
+produto_uf,UF,AVEIA,MT,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PI,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PR,producao_mil_t,-8.19267188143269,1.0,QUEDA
+produto_uf,UF,AVEIA,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RS,producao_mil_t,-11.774259033698742,1.0,QUEDA
+produto_uf,UF,AVEIA,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,SP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,TO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,BA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,CE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,DF,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,GO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MG,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MT,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PI,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PR,producao_mil_t,-26.086956521739125,1.0,QUEDA
+produto_uf,UF,CANOLA,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RS,producao_mil_t,30.246913580246915,1.0,ALTA
+produto_uf,UF,CANOLA,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,SP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,TO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,BA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,CE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,DF,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,GO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MG,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MT,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PI,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PR,producao_mil_t,-5.999999999999995,1.0,QUEDA
+produto_uf,UF,CENTEIO,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,SP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,TO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,BA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,CE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,DF,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,GO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MG,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MT,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PI,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PR,producao_mil_t,-2.85536933581626,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RS,producao_mil_t,-7.713248638838477,1.0,QUEDA
+produto_uf,UF,CEVADA,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,SP,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,CEVADA,TO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,AC,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,AL,producao_mil_t,-3.937007874015752,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,AM,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,AP,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,BA,producao_mil_t,23.341354417325565,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,CE,producao_mil_t,-0.9451795841209809,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,DF,producao_mil_t,-2.051282051282044,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,ES,producao_mil_t,7.777777777777772,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,GO,producao_mil_t,-0.7243877199034077,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,MA,producao_mil_t,-2.2012578616352196,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,MG,producao_mil_t,7.973206568712188,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,MS,producao_mil_t,17.821782178217838,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,MT,producao_mil_t,-5.021473406012555,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,PA,producao_mil_t,28.2258064516129,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,PB,producao_mil_t,28.80794701986755,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,PE,producao_mil_t,-5.609756097560981,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,PI,producao_mil_t,36.75373134328357,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,PR,producao_mil_t,-23.73649355176021,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,RJ,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,RN,producao_mil_t,-2.5974025974025983,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,RO,producao_mil_t,4.761904761904767,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,RR,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,RS,producao_mil_t,0.1360544217686943,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,SC,producao_mil_t,-6.896551724137934,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,SE,producao_mil_t,50.0,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,SP,producao_mil_t,2.941176470588225,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,TO,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,BA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,CE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,DF,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,GO,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MG,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MT,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PA,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PI,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,SP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,TO,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,BA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,CE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,DF,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,GO,producao_mil_t,-2.5606469002695476,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MG,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MS,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MT,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PI,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RS,producao_mil_t,54.054054054054056,1.0,ALTA
+produto_uf,UF,GIRASSOL,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,SP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,TO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,BA,producao_mil_t,47.30000000000001,1.0,ALTA
+produto_uf,UF,MAMONA,CE,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,MAMONA,DF,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,GO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MG,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MT,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PI,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,SP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,TO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,AC,producao_mil_t,5.297065139584833,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,AL,producao_mil_t,-37.5,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,AM,producao_mil_t,1.2048192771084265,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,AP,producao_mil_t,5.263157894736836,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,BA,producao_mil_t,-3.014734739020297,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,CE,producao_mil_t,81.22730573710967,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,DF,producao_mil_t,-4.571703561116458,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,ES,producao_mil_t,-6.300484652665583,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,GO,producao_mil_t,-5.051800759837944,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,MA,producao_mil_t,-10.570273121556683,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,MG,producao_mil_t,8.37164140609592,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,MS,producao_mil_t,-7.247085002894327,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,MT,producao_mil_t,-2.430666844328555,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,PA,producao_mil_t,-4.831747505221628,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,PB,producao_mil_t,43.72623574144485,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,PE,producao_mil_t,-0.6202924235711005,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,PI,producao_mil_t,-8.294283036551075,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,PR,producao_mil_t,0.8758596446059697,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,RJ,producao_mil_t,-5.714285714285716,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,RN,producao_mil_t,54.85436893203881,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,RO,producao_mil_t,6.077496732528642,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,RR,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,RS,producao_mil_t,-0.07733952049499004,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,SC,producao_mil_t,0.035352723766668426,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,SE,producao_mil_t,-11.979042629197433,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,SP,producao_mil_t,0.370488226202359,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,TO,producao_mil_t,3.935411190386784,1.0,ALTA
+produto_uf,UF,SOJA,AC,producao_mil_t,29.393468118195965,1.0,ALTA
+produto_uf,UF,SOJA,AL,producao_mil_t,46.02272727272725,1.0,ALTA
+produto_uf,UF,SOJA,AM,producao_mil_t,20.444444444444443,1.0,ALTA
+produto_uf,UF,SOJA,AP,producao_mil_t,21.37404580152673,1.0,ALTA
+produto_uf,UF,SOJA,BA,producao_mil_t,4.510666199396307,1.0,ALTA
+produto_uf,UF,SOJA,CE,producao_mil_t,-5.633802816901401,1.0,QUEDA
+produto_uf,UF,SOJA,DF,producao_mil_t,4.716981132075482,1.0,ALTA
+produto_uf,UF,SOJA,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SOJA,GO,producao_mil_t,-4.079998070010371,1.0,QUEDA
+produto_uf,UF,SOJA,MA,producao_mil_t,7.537616038532002,1.0,ALTA
+produto_uf,UF,SOJA,MG,producao_mil_t,-2.2391552822075944,1.0,ESTAVEL
+produto_uf,UF,SOJA,MS,producao_mil_t,10.620260384027702,1.0,ALTA
+produto_uf,UF,SOJA,MT,producao_mil_t,-2.8428325034349,1.0,ESTAVEL
+produto_uf,UF,SOJA,PA,producao_mil_t,11.192403486924029,1.0,ALTA
+produto_uf,UF,SOJA,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SOJA,PE,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,SOJA,PI,producao_mil_t,8.033563620000539,1.0,ALTA
+produto_uf,UF,SOJA,PR,producao_mil_t,2.492667153854633,1.0,ESTAVEL
+produto_uf,UF,SOJA,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SOJA,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SOJA,RO,producao_mil_t,1.8073658684449878,1.0,ESTAVEL
+produto_uf,UF,SOJA,RR,producao_mil_t,2.2392834293026187,1.0,ESTAVEL
+produto_uf,UF,SOJA,RS,producao_mil_t,28.658903351538623,1.0,ALTA
+produto_uf,UF,SOJA,SC,producao_mil_t,-3.2875352789752843,1.0,QUEDA
+produto_uf,UF,SOJA,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SOJA,SP,producao_mil_t,0.01136923485050012,1.0,ESTAVEL
+produto_uf,UF,SOJA,TO,producao_mil_t,12.361544352503874,1.0,ALTA
+produto_uf,UF,SORGO,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,BA,producao_mil_t,2.0843989769820936,1.0,ESTAVEL
+produto_uf,UF,SORGO,CE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,DF,producao_mil_t,-16.874400767018216,1.0,QUEDA
+produto_uf,UF,SORGO,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,GO,producao_mil_t,7.336200354161404,1.0,ALTA
+produto_uf,UF,SORGO,MA,producao_mil_t,58.13953488372092,1.0,ALTA
+produto_uf,UF,SORGO,MG,producao_mil_t,5.832828180777261,1.0,ALTA
+produto_uf,UF,SORGO,MS,producao_mil_t,15.727948990435703,1.0,ALTA
+produto_uf,UF,SORGO,MT,producao_mil_t,13.455925277291293,1.0,ALTA
+produto_uf,UF,SORGO,PA,producao_mil_t,11.503579952267295,1.0,ALTA
+produto_uf,UF,SORGO,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,PI,producao_mil_t,7.543581616481787,1.0,ALTA
+produto_uf,UF,SORGO,PR,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,SORGO,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,SORGO,SP,producao_mil_t,21.750841750841744,1.0,ALTA
+produto_uf,UF,SORGO,TO,producao_mil_t,15.90443686006826,1.0,ALTA
+produto_uf,UF,TRIGO,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,BA,producao_mil_t,0.0,1.0,ESTAVEL
+produto_uf,UF,TRIGO,CE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,DF,producao_mil_t,6.756756756756754,1.0,ALTA
+produto_uf,UF,TRIGO,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,GO,producao_mil_t,-0.26595744680850686,1.0,ESTAVEL
+produto_uf,UF,TRIGO,MA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,MG,producao_mil_t,-8.921406655652586,1.0,QUEDA
+produto_uf,UF,TRIGO,MS,producao_mil_t,-7.772621809744784,1.0,QUEDA
+produto_uf,UF,TRIGO,MT,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PI,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PR,producao_mil_t,-12.296531562421043,1.0,QUEDA
+produto_uf,UF,TRIGO,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RS,producao_mil_t,-15.314410114711553,1.0,QUEDA
+produto_uf,UF,TRIGO,SC,producao_mil_t,-7.9528718703976375,1.0,QUEDA
+produto_uf,UF,TRIGO,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,SP,producao_mil_t,-1.0707241476472174,1.0,ESTAVEL
+produto_uf,UF,TRIGO,TO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AL,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AM,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AP,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,BA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,CE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,DF,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,ES,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,GO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MG,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MS,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MT,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PA,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PB,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PI,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PR,producao_mil_t,-8.780487804878057,1.0,QUEDA
+produto_uf,UF,TRITICALE,RJ,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RN,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RO,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RR,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RS,producao_mil_t,-9.909909909909908,1.0,QUEDA
+produto_uf,UF,TRITICALE,SC,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,SE,producao_mil_t,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,SP,producao_mil_t,-1.9999999999999907,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,TO,producao_mil_t,,1.0,ESTAVEL
+uf,AGREGADO_REGIONAL,TODAS,CENTRO-SUL,producao_mil_t,-0.2480019826744062,1.0,ESTAVEL
+uf,AGREGADO_REGIONAL,TODAS,NORTE/NORDESTE,producao_mil_t,3.4331425764787316,1.0,ALTA
+uf,REGIAO,TODAS,CENTRO-OESTE,producao_mil_t,-2.3542476463937922,1.0,ESTAVEL
+uf,REGIAO,TODAS,NORDESTE,producao_mil_t,2.031738674218886,1.0,ESTAVEL
+uf,REGIAO,TODAS,NORTE,producao_mil_t,5.375414197658879,1.0,ALTA
+uf,REGIAO,TODAS,SUDESTE,producao_mil_t,1.8638092679739815,1.0,ESTAVEL
+uf,REGIAO,TODAS,SUL,producao_mil_t,3.289794694904602,1.0,ALTA
+uf,TOTAL_BRASIL,TODAS,BRASIL,producao_mil_t,0.3170962995060478,1.0,ESTAVEL
+uf,UF,TODAS,AC,producao_mil_t,12.281530467642888,1.0,ALTA
+uf,UF,TODAS,AL,producao_mil_t,-24.740810556079175,1.0,QUEDA
+uf,UF,TODAS,AM,producao_mil_t,17.34104046242775,1.0,ALTA
+uf,UF,TODAS,AP,producao_mil_t,17.999999999999993,1.0,ALTA
+uf,UF,TODAS,BA,producao_mil_t,2.8368541250356927,1.0,ESTAVEL
+uf,UF,TODAS,CE,producao_mil_t,62.81590475120746,1.0,ALTA
+uf,UF,TODAS,DF,producao_mil_t,-2.082662372517441,1.0,ESTAVEL
+uf,UF,TODAS,ES,producao_mil_t,-4.488078541374474,1.0,QUEDA
+uf,UF,TODAS,GO,producao_mil_t,-3.9662679880423157,1.0,QUEDA
+uf,UF,TODAS,MA,producao_mil_t,0.1239707019698777,1.0,ESTAVEL
+uf,UF,TODAS,MG,producao_mil_t,2.271221059722106,1.0,ESTAVEL
+uf,UF,TODAS,MS,producao_mil_t,2.054454406848416,1.0,ESTAVEL
+uf,UF,TODAS,MT,producao_mil_t,-2.94228337916842,1.0,ESTAVEL
+uf,UF,TODAS,PA,producao_mil_t,6.080658903720537,1.0,ALTA
+uf,UF,TODAS,PB,producao_mil_t,37.93103448275863,1.0,ALTA
+uf,UF,TODAS,PE,producao_mil_t,-2.3639988607234486,1.0,ESTAVEL
+uf,UF,TODAS,PI,producao_mil_t,2.7836369447107767,1.0,ESTAVEL
+uf,UF,TODAS,PR,producao_mil_t,0.21270266582866793,1.0,ESTAVEL
+uf,UF,TODAS,RJ,producao_mil_t,-3.2608695652173836,1.0,QUEDA
+uf,UF,TODAS,RN,producao_mil_t,36.03896103896103,1.0,ALTA
+uf,UF,TODAS,RO,producao_mil_t,2.471591432307485,1.0,ESTAVEL
+uf,UF,TODAS,RR,producao_mil_t,1.3577928643651704,1.0,ESTAVEL
+uf,UF,TODAS,RS,producao_mil_t,8.41042354350341,1.0,ALTA
+uf,UF,TODAS,SC,producao_mil_t,-2.398140518736236,1.0,ESTAVEL
+uf,UF,TODAS,SE,producao_mil_t,-11.540513758670635,1.0,QUEDA
+uf,UF,TODAS,SP,producao_mil_t,1.2636957528163073,1.0,ESTAVEL
+uf,UF,TODAS,TO,producao_mil_t,6.542667437119087,1.0,ALTA
+produto,AGREGADO_PRODUTO,BRASIL (2),BRASIL,produtividade_kg_ha,-1.5313225058004587,1.0,ESTAVEL
+produto,AGREGADO_PRODUTO,SUBTOTAL,BRASIL,produtividade_kg_ha,-7.763462173769408,1.0,QUEDA
+produto,PRODUTO,ALGODÃO - CAROÇO (1),BRASIL,produtividade_kg_ha,-3.593922881429046,1.0,QUEDA
+produto,PRODUTO,ALGODÃO - PLUMA,BRASIL,produtividade_kg_ha,-3.5795580092889634,1.0,QUEDA
+produto,PRODUTO,AMENDOIM 1ª SAFRA,BRASIL,produtividade_kg_ha,3.468246583550494,1.0,ALTA
+produto,PRODUTO,AMENDOIM 2ª SAFRA,BRASIL,produtividade_kg_ha,0.32798503465270024,1.0,ESTAVEL
+produto,PRODUTO,AMENDOIM TOTAL,BRASIL,produtividade_kg_ha,3.4407859728342816,1.0,ALTA
+produto,PRODUTO,ARROZ,BRASIL,produtividade_kg_ha,-3.2568962958647307,1.0,QUEDA
+produto,PRODUTO,ARROZ IRRIGADO,BRASIL,produtividade_kg_ha,-5.7057465567545425,1.0,QUEDA
+produto,PRODUTO,ARROZ SEQUEIRO,BRASIL,produtividade_kg_ha,-5.730805552883345,1.0,QUEDA
+produto,PRODUTO,AVEIA,BRASIL,produtividade_kg_ha,-4.856418918918914,1.0,QUEDA
+produto,PRODUTO,CANOLA,BRASIL,produtividade_kg_ha,-0.4302397049784856,1.0,ESTAVEL
+produto,PRODUTO,CAUPI,BRASIL,produtividade_kg_ha,-3.6796742909811275,1.0,QUEDA
+produto,PRODUTO,CENTEIO,BRASIL,produtividade_kg_ha,-6.005879882402354,1.0,QUEDA
+produto,PRODUTO,CEVADA,BRASIL,produtividade_kg_ha,-10.555300596603946,1.0,QUEDA
+produto,PRODUTO,CORES,BRASIL,produtividade_kg_ha,-4.209519437131415,1.0,QUEDA
+produto,PRODUTO,FEIJÃO 1ª SAFRA,BRASIL,produtividade_kg_ha,2.77444840503287,1.0,ESTAVEL
+produto,PRODUTO,FEIJÃO 2ª SAFRA,BRASIL,produtividade_kg_ha,-0.5990903810985881,1.0,ESTAVEL
+produto,PRODUTO,FEIJÃO 3ª SAFRA,BRASIL,produtividade_kg_ha,-4.667009971594805,1.0,QUEDA
+produto,PRODUTO,FEIJÃO TOTAL,BRASIL,produtividade_kg_ha,0.3803147119231465,1.0,ESTAVEL
+produto,PRODUTO,GERGELIM,BRASIL,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto,PRODUTO,GIRASSOL,BRASIL,produtividade_kg_ha,-0.9509101912538287,1.0,ESTAVEL
+produto,PRODUTO,MAMONA,BRASIL,produtividade_kg_ha,34.68619216256492,1.0,ALTA
+produto,PRODUTO,MILHO 1ª SAFRA,BRASIL,produtividade_kg_ha,-0.10217790133275617,1.0,ESTAVEL
+produto,PRODUTO,MILHO 2ª SAFRA,BRASIL,produtividade_kg_ha,-6.003509226324177,1.0,QUEDA
+produto,PRODUTO,MILHO 3ª SAFRA,BRASIL,produtividade_kg_ha,-10.300514950800721,1.0,QUEDA
+produto,PRODUTO,MILHO TOTAL,BRASIL,produtividade_kg_ha,-4.913391071423934,1.0,QUEDA
+produto,PRODUTO,PRETO,BRASIL,produtividade_kg_ha,-9.674280217444819,1.0,QUEDA
+produto,PRODUTO,SOJA,BRASIL,produtividade_kg_ha,1.461083049197831,1.0,ESTAVEL
+produto,PRODUTO,SORGO,BRASIL,produtividade_kg_ha,-1.8266815955692128,1.0,ESTAVEL
+produto,PRODUTO,TRIGO,BRASIL,produtividade_kg_ha,-7.486797141969559,1.0,QUEDA
+produto,PRODUTO,TRITICALE,BRASIL,produtividade_kg_ha,-8.221737776393645,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),CENTRO-SUL,produtividade_kg_ha,-4.185619365906557,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),NORTE/NORDESTE,produtividade_kg_ha,-1.758515196884658,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,CENTRO-SUL,produtividade_kg_ha,-4.179538501656188,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,NORTE/NORDESTE,produtividade_kg_ha,-1.7713718047859373,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,CENTRO-SUL,produtividade_kg_ha,3.4667492321351245,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,NORTE/NORDESTE,produtividade_kg_ha,2.516947684214399,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,ARROZ,CENTRO-SUL,produtividade_kg_ha,-4.118689139330289,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ARROZ,NORTE/NORDESTE,produtividade_kg_ha,-2.9407403575762325,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,AVEIA,CENTRO-SUL,produtividade_kg_ha,-4.856418918918914,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,AVEIA,NORTE/NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CANOLA,CENTRO-SUL,produtividade_kg_ha,-0.4302397049784856,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CANOLA,NORTE/NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CENTEIO,CENTRO-SUL,produtividade_kg_ha,-6.005879882402354,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,CENTEIO,NORTE/NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CEVADA,CENTRO-SUL,produtividade_kg_ha,-10.555300596603946,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,CEVADA,NORTE/NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,CENTRO-SUL,produtividade_kg_ha,0.06985242231043465,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,NORTE/NORDESTE,produtividade_kg_ha,11.989348366206155,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,GERGELIM,CENTRO-SUL,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,GERGELIM,NORTE/NORDESTE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,CENTRO-SUL,produtividade_kg_ha,-0.9509101912538287,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,NORTE/NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,MAMONA,CENTRO-SUL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,MAMONA,NORTE/NORDESTE,produtividade_kg_ha,34.68619216256492,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,CENTRO-SUL,produtividade_kg_ha,-5.42143129183601,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,NORTE/NORDESTE,produtividade_kg_ha,-3.046080901666548,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,SOJA,CENTRO-SUL,produtividade_kg_ha,1.7823300952573007,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,SOJA,NORTE/NORDESTE,produtividade_kg_ha,0.017356752666009,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,SORGO,CENTRO-SUL,produtividade_kg_ha,-1.8254159697664418,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,SORGO,NORTE/NORDESTE,produtividade_kg_ha,-1.7727574682176672,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,TRIGO,CENTRO-SUL,produtividade_kg_ha,-7.500778089013382,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,TRIGO,NORTE/NORDESTE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,TRITICALE,CENTRO-SUL,produtividade_kg_ha,-8.221737776393645,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,TRITICALE,NORTE/NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),CENTRO-OESTE,produtividade_kg_ha,-4.573608411112895,1.0,QUEDA
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORDESTE,produtividade_kg_ha,-1.7797329261833972,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORTE,produtividade_kg_ha,-1.1579256108515068,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUDESTE,produtividade_kg_ha,8.726254521356736,1.0,ALTA
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUL,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - PLUMA,CENTRO-OESTE,produtividade_kg_ha,-4.577256767301529,1.0,QUEDA
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORDESTE,produtividade_kg_ha,-1.775064765343315,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORTE,produtividade_kg_ha,-0.8870579203571372,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUDESTE,produtividade_kg_ha,8.687650012433657,1.0,ALTA
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUL,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,AMENDOIM TOTAL,CENTRO-OESTE,produtividade_kg_ha,-0.5761523046092232,1.0,ESTAVEL
+produto_uf,REGIAO,AMENDOIM TOTAL,NORDESTE,produtividade_kg_ha,-1.3403789148086043,1.0,ESTAVEL
+produto_uf,REGIAO,AMENDOIM TOTAL,NORTE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,AMENDOIM TOTAL,SUDESTE,produtividade_kg_ha,4.2224510992004305,1.0,ALTA
+produto_uf,REGIAO,AMENDOIM TOTAL,SUL,produtividade_kg_ha,-3.3456005352960894,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,CENTRO-OESTE,produtividade_kg_ha,1.7559386526494247,1.0,ESTAVEL
+produto_uf,REGIAO,ARROZ,NORDESTE,produtividade_kg_ha,1.178601846433569,1.0,ESTAVEL
+produto_uf,REGIAO,ARROZ,NORTE,produtividade_kg_ha,-3.898045088655133,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,SUDESTE,produtividade_kg_ha,3.461500453939248,1.0,ALTA
+produto_uf,REGIAO,ARROZ,SUL,produtividade_kg_ha,-6.8519205931141025,1.0,QUEDA
+produto_uf,REGIAO,AVEIA,CENTRO-OESTE,produtividade_kg_ha,-10.195091252359978,1.0,QUEDA
+produto_uf,REGIAO,AVEIA,NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,AVEIA,NORTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,AVEIA,SUDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,AVEIA,SUL,produtividade_kg_ha,-4.526748971193417,1.0,QUEDA
+produto_uf,REGIAO,CANOLA,CENTRO-OESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,NORTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,SUDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,SUL,produtividade_kg_ha,-0.4302397049784856,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,CENTRO-OESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,NORTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,SUDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,SUL,produtividade_kg_ha,-6.005879882402354,1.0,QUEDA
+produto_uf,REGIAO,CEVADA,CENTRO-OESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,NORTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,SUDESTE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,SUL,produtividade_kg_ha,-10.812656498975649,1.0,QUEDA
+produto_uf,REGIAO,FEIJÃO TOTAL,CENTRO-OESTE,produtividade_kg_ha,-1.022941136608868,1.0,ESTAVEL
+produto_uf,REGIAO,FEIJÃO TOTAL,NORDESTE,produtividade_kg_ha,14.686512751806902,1.0,ALTA
+produto_uf,REGIAO,FEIJÃO TOTAL,NORTE,produtividade_kg_ha,-5.97519047168208,1.0,QUEDA
+produto_uf,REGIAO,FEIJÃO TOTAL,SUDESTE,produtividade_kg_ha,6.293626793436302,1.0,ALTA
+produto_uf,REGIAO,FEIJÃO TOTAL,SUL,produtividade_kg_ha,-4.488410841984026,1.0,QUEDA
+produto_uf,REGIAO,GERGELIM,CENTRO-OESTE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,NORTE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,SUDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,SUL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,CENTRO-OESTE,produtividade_kg_ha,-2.261433773069932,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,NORTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,SUDESTE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,SUL,produtividade_kg_ha,5.166666666666675,1.0,ALTA
+produto_uf,REGIAO,MAMONA,CENTRO-OESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,MAMONA,NORDESTE,produtividade_kg_ha,34.68619216256492,1.0,ALTA
+produto_uf,REGIAO,MAMONA,NORTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,MAMONA,SUDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,MAMONA,SUL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,MILHO TOTAL,CENTRO-OESTE,produtividade_kg_ha,-6.276701980226496,1.0,QUEDA
+produto_uf,REGIAO,MILHO TOTAL,NORDESTE,produtividade_kg_ha,-2.490910557868853,1.0,ESTAVEL
+produto_uf,REGIAO,MILHO TOTAL,NORTE,produtividade_kg_ha,-5.8679841016361145,1.0,QUEDA
+produto_uf,REGIAO,MILHO TOTAL,SUDESTE,produtividade_kg_ha,0.45756104486807114,1.0,ESTAVEL
+produto_uf,REGIAO,MILHO TOTAL,SUL,produtividade_kg_ha,-5.103395637079567,1.0,QUEDA
+produto_uf,REGIAO,SOJA,CENTRO-OESTE,produtividade_kg_ha,-3.4322371331157675,1.0,QUEDA
+produto_uf,REGIAO,SOJA,NORDESTE,produtividade_kg_ha,-1.0434538801758042,1.0,ESTAVEL
+produto_uf,REGIAO,SOJA,NORTE,produtividade_kg_ha,1.4491018015274415,1.0,ESTAVEL
+produto_uf,REGIAO,SOJA,SUDESTE,produtividade_kg_ha,-3.16346697365234,1.0,QUEDA
+produto_uf,REGIAO,SOJA,SUL,produtividade_kg_ha,14.610208375925504,1.0,ALTA
+produto_uf,REGIAO,SORGO,CENTRO-OESTE,produtividade_kg_ha,-3.8304192657444114,1.0,QUEDA
+produto_uf,REGIAO,SORGO,NORDESTE,produtividade_kg_ha,-2.3088616904027415,1.0,ESTAVEL
+produto_uf,REGIAO,SORGO,NORTE,produtividade_kg_ha,0.3266884608196463,1.0,ESTAVEL
+produto_uf,REGIAO,SORGO,SUDESTE,produtividade_kg_ha,1.2318849589831649,1.0,ESTAVEL
+produto_uf,REGIAO,SORGO,SUL,produtividade_kg_ha,-11.272727272727279,1.0,QUEDA
+produto_uf,REGIAO,TRIGO,CENTRO-OESTE,produtividade_kg_ha,-0.14615609470914892,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,NORDESTE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,NORTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,SUDESTE,produtividade_kg_ha,-2.8024606971975397,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,SUL,produtividade_kg_ha,-8.392471459426098,1.0,QUEDA
+produto_uf,REGIAO,TRITICALE,CENTRO-OESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,NORDESTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,NORTE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,SUDESTE,produtividade_kg_ha,-2.015838732901365,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,SUL,produtividade_kg_ha,-9.173754556500613,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,ALGODÃO - CAROÇO (1),BRASIL,produtividade_kg_ha,-3.593922881429046,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,ALGODÃO - PLUMA,BRASIL,produtividade_kg_ha,-3.5795580092889634,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,AMENDOIM TOTAL,BRASIL,produtividade_kg_ha,3.4407859728342816,1.0,ALTA
+produto_uf,TOTAL_BRASIL,ARROZ,BRASIL,produtividade_kg_ha,-3.2568962958647307,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,AVEIA,BRASIL,produtividade_kg_ha,-4.856418918918914,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,CANOLA,BRASIL,produtividade_kg_ha,-0.4302397049784856,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,CENTEIO,BRASIL,produtividade_kg_ha,-6.005879882402354,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,CEVADA,BRASIL,produtividade_kg_ha,-10.555300596603946,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,FEIJÃO TOTAL,BRASIL,produtividade_kg_ha,0.3803147119231465,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,GERGELIM,BRASIL,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,GIRASSOL,BRASIL,produtividade_kg_ha,-0.9509101912538287,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,MAMONA,BRASIL,produtividade_kg_ha,34.68619216256492,1.0,ALTA
+produto_uf,TOTAL_BRASIL,MILHO TOTAL,BRASIL,produtividade_kg_ha,-4.913391071423934,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,SOJA,BRASIL,produtividade_kg_ha,1.461083049197831,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,SORGO,BRASIL,produtividade_kg_ha,-1.8266815955692128,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,TRIGO,BRASIL,produtividade_kg_ha,-7.486797141969559,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,TRITICALE,BRASIL,produtividade_kg_ha,-8.221737776393645,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),BA,produtividade_kg_ha,-1.6349337748344461,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),CE,produtividade_kg_ha,44.69273743016762,1.0,ALTA
+produto_uf,UF,ALGODÃO - CAROÇO (1),DF,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),GO,produtividade_kg_ha,0.50460728389643,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),MA,produtividade_kg_ha,-1.0238907849829504,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),MG,produtividade_kg_ha,10.214285714285731,1.0,ALTA
+produto_uf,UF,ALGODÃO - CAROÇO (1),MS,produtividade_kg_ha,-4.511278195488733,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),MT,produtividade_kg_ha,-4.68848996832103,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),PA,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),PB,produtividade_kg_ha,79.96485061511423,1.0,ALTA
+produto_uf,UF,ALGODÃO - CAROÇO (1),PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),PI,produtividade_kg_ha,-6.570617769046083,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),PR,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RN,produtividade_kg_ha,0.05506607929517404,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RO,produtividade_kg_ha,-6.7777777777777715,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),SP,produtividade_kg_ha,0.07633587786259888,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),TO,produtividade_kg_ha,2.4088093599449634,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,BA,produtividade_kg_ha,-1.6136027599802816,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,CE,produtividade_kg_ha,44.6927374301676,1.0,ALTA
+produto_uf,UF,ALGODÃO - PLUMA,DF,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,GO,produtividade_kg_ha,0.5046072838964522,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,MA,produtividade_kg_ha,-1.0238907849829282,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,MG,produtividade_kg_ha,10.214285714285687,1.0,ALTA
+produto_uf,UF,ALGODÃO - PLUMA,MS,produtividade_kg_ha,-4.511278195488733,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,MT,produtividade_kg_ha,-4.688489968321008,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,PA,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,PB,produtividade_kg_ha,79.96485061511423,1.0,ALTA
+produto_uf,UF,ALGODÃO - PLUMA,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,PI,produtividade_kg_ha,-6.570617769046061,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,PR,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RN,produtividade_kg_ha,0.05506607929517404,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RO,produtividade_kg_ha,-6.7777777777777715,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,SP,produtividade_kg_ha,0.07633587786257667,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,TO,produtividade_kg_ha,2.408809359944941,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,BA,produtividade_kg_ha,-1.8570102135561761,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,CE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,DF,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,GO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,MA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,MG,produtividade_kg_ha,-0.05574136008918984,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,MS,produtividade_kg_ha,-0.5761523046092232,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,MT,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PB,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PI,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PR,produtividade_kg_ha,-3.3456005352960894,1.0,QUEDA
+produto_uf,UF,AMENDOIM TOTAL,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,SP,produtividade_kg_ha,4.611980915067537,1.0,ALTA
+produto_uf,UF,AMENDOIM TOTAL,TO,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,AC,produtividade_kg_ha,2.6079869600651895,1.0,ESTAVEL
+produto_uf,UF,ARROZ,AL,produtividade_kg_ha,19.444444444444443,1.0,ALTA
+produto_uf,UF,ARROZ,AM,produtividade_kg_ha,3.1980319803198043,1.0,ALTA
+produto_uf,UF,ARROZ,AP,produtividade_kg_ha,-1.3592233009708687,1.0,ESTAVEL
+produto_uf,UF,ARROZ,BA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ARROZ,CE,produtividade_kg_ha,22.943281930785965,1.0,ALTA
+produto_uf,UF,ARROZ,DF,produtividade_kg_ha,1.9601593625497848,1.0,ESTAVEL
+produto_uf,UF,ARROZ,ES,produtividade_kg_ha,-1.6411378555798661,1.0,ESTAVEL
+produto_uf,UF,ARROZ,GO,produtividade_kg_ha,1.2955303926605266,1.0,ESTAVEL
+produto_uf,UF,ARROZ,MA,produtividade_kg_ha,-0.3508087347836586,1.0,ESTAVEL
+produto_uf,UF,ARROZ,MG,produtividade_kg_ha,0.4790892890975229,1.0,ESTAVEL
+produto_uf,UF,ARROZ,MS,produtividade_kg_ha,2.206416025547986,1.0,ESTAVEL
+produto_uf,UF,ARROZ,MT,produtividade_kg_ha,-0.32777929527451066,1.0,ESTAVEL
+produto_uf,UF,ARROZ,PA,produtividade_kg_ha,1.2540707821299568,1.0,ESTAVEL
+produto_uf,UF,ARROZ,PB,produtividade_kg_ha,33.069754306693035,1.0,ALTA
+produto_uf,UF,ARROZ,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,ARROZ,PI,produtividade_kg_ha,-1.0079546978526754,1.0,ESTAVEL
+produto_uf,UF,ARROZ,PR,produtividade_kg_ha,6.338108595928138,1.0,ALTA
+produto_uf,UF,ARROZ,RJ,produtividade_kg_ha,1.210395158419364,1.0,ESTAVEL
+produto_uf,UF,ARROZ,RN,produtividade_kg_ha,14.265385983635737,1.0,ALTA
+produto_uf,UF,ARROZ,RO,produtividade_kg_ha,-2.5203252032520274,1.0,ESTAVEL
+produto_uf,UF,ARROZ,RR,produtividade_kg_ha,-1.1420982735723673,1.0,ESTAVEL
+produto_uf,UF,ARROZ,RS,produtividade_kg_ha,-7.615563684735616,1.0,QUEDA
+produto_uf,UF,ARROZ,SC,produtividade_kg_ha,-2.941176470588236,1.0,ESTAVEL
+produto_uf,UF,ARROZ,SE,produtividade_kg_ha,1.130424212957326,1.0,ESTAVEL
+produto_uf,UF,ARROZ,SP,produtividade_kg_ha,-1.4250453720508038,1.0,ESTAVEL
+produto_uf,UF,ARROZ,TO,produtividade_kg_ha,-5.224240141648384,1.0,QUEDA
+produto_uf,UF,AVEIA,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,BA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,CE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,DF,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,GO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,MA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,MG,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,MS,produtividade_kg_ha,-10.195091252359978,1.0,QUEDA
+produto_uf,UF,AVEIA,MT,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PI,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PR,produtividade_kg_ha,-3.6673773987206837,1.0,QUEDA
+produto_uf,UF,AVEIA,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RS,produtividade_kg_ha,-4.730831973898864,1.0,QUEDA
+produto_uf,UF,AVEIA,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,SP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,TO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,BA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,CE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,DF,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,GO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MG,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MT,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PI,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PR,produtividade_kg_ha,-24.731121780881704,1.0,QUEDA
+produto_uf,UF,CANOLA,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RS,produtividade_kg_ha,-0.12338062924120985,1.0,ESTAVEL
+produto_uf,UF,CANOLA,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,SP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,TO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,BA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,CE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,DF,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,GO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MG,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MT,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PI,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PR,produtividade_kg_ha,-6.247396917950853,1.0,QUEDA
+produto_uf,UF,CENTEIO,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,SP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,TO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,BA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,CE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,DF,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,GO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MG,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MT,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PI,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PR,produtividade_kg_ha,-9.504398197811625,1.0,QUEDA
+produto_uf,UF,CEVADA,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RS,produtividade_kg_ha,-16.015958962667433,1.0,QUEDA
+produto_uf,UF,CEVADA,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,SP,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,CEVADA,TO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,AC,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,AL,produtividade_kg_ha,13.5492268633715,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,AM,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,AP,produtividade_kg_ha,0.11001100110010764,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,BA,produtividade_kg_ha,19.530192707691207,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,CE,produtividade_kg_ha,0.20109927286651175,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,DF,produtividade_kg_ha,-0.6863664929575131,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,ES,produtividade_kg_ha,2.2466237536286737,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,GO,produtividade_kg_ha,4.329649991432283,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,MA,produtividade_kg_ha,0.43856173719765135,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,MG,produtividade_kg_ha,7.712540112637978,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,MS,produtividade_kg_ha,-7.098591549295774,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,MT,produtividade_kg_ha,-4.901331377461049,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,PA,produtividade_kg_ha,-2.2384000284393357,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,PB,produtividade_kg_ha,26.580660858303506,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,PE,produtividade_kg_ha,-5.317583812659721,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,PI,produtividade_kg_ha,39.565696229348404,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,PR,produtividade_kg_ha,-5.5896635970409285,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,RJ,produtividade_kg_ha,12.817483756645021,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,RN,produtividade_kg_ha,1.8181818181818077,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,RO,produtividade_kg_ha,-5.000000000000004,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,RR,produtividade_kg_ha,-0.330033003300334,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,RS,produtividade_kg_ha,-3.3423459474857475,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,SC,produtividade_kg_ha,1.7323110128554253,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,SE,produtividade_kg_ha,43.66471734892787,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,SP,produtividade_kg_ha,2.9762632091054897,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,TO,produtividade_kg_ha,-6.043926019592172,1.0,QUEDA
+produto_uf,UF,GERGELIM,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,BA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,CE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,DF,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,GO,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MG,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MT,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PA,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PI,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,SP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,TO,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,BA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,CE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,DF,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,GO,produtividade_kg_ha,-2.53324889170361,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MG,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MS,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MT,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PI,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RS,produtividade_kg_ha,5.166666666666675,1.0,ALTA
+produto_uf,UF,GIRASSOL,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,SP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,TO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,BA,produtividade_kg_ha,34.67685892981236,1.0,ALTA
+produto_uf,UF,MAMONA,CE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,MAMONA,DF,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,GO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MG,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MT,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PI,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,SP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,TO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,AC,produtividade_kg_ha,1.8191522238210078,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,AL,produtividade_kg_ha,-40.34416826003824,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,AM,produtividade_kg_ha,1.1980033277870117,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,AP,produtividade_kg_ha,0.8255933952528327,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,BA,produtividade_kg_ha,3.0657342179017055,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,CE,produtividade_kg_ha,80.68669527896996,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,DF,produtividade_kg_ha,-2.840534095035885,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,ES,produtividade_kg_ha,-5.848431709481727,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,GO,produtividade_kg_ha,-4.077335885627953,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,MA,produtividade_kg_ha,-10.956261632314767,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,MG,produtividade_kg_ha,2.9025828163992573,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,MS,produtividade_kg_ha,-10.07270201962176,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,MT,produtividade_kg_ha,-5.968652062679325,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,PA,produtividade_kg_ha,-14.694456157814884,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,PB,produtividade_kg_ha,43.652561247216035,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,PE,produtividade_kg_ha,0.28691257565187644,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,PI,produtividade_kg_ha,2.796780838734847,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,PR,produtividade_kg_ha,-2.9768184238230577,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,RJ,produtividade_kg_ha,1.8259935553168738,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,RN,produtividade_kg_ha,62.92834890965733,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,RO,produtividade_kg_ha,-0.059485230863864924,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,RR,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,RS,produtividade_kg_ha,-12.503293807641624,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,SC,produtividade_kg_ha,-6.851851851851853,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,SE,produtividade_kg_ha,-11.98109026444083,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,SP,produtividade_kg_ha,-3.2530344473466033,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,TO,produtividade_kg_ha,-4.4082846854738955,1.0,QUEDA
+produto_uf,UF,SOJA,AC,produtividade_kg_ha,9.280138768430191,1.0,ALTA
+produto_uf,UF,SOJA,AL,produtividade_kg_ha,-5.000000000000004,1.0,QUEDA
+produto_uf,UF,SOJA,AM,produtividade_kg_ha,-8.108108108108103,1.0,QUEDA
+produto_uf,UF,SOJA,AP,produtividade_kg_ha,1.2223071046600475,1.0,ESTAVEL
+produto_uf,UF,SOJA,BA,produtividade_kg_ha,-4.466441332689519,1.0,QUEDA
+produto_uf,UF,SOJA,CE,produtividade_kg_ha,-0.7468658308882326,1.0,ESTAVEL
+produto_uf,UF,SOJA,DF,produtividade_kg_ha,3.205629397967158,1.0,ALTA
+produto_uf,UF,SOJA,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SOJA,GO,produtividade_kg_ha,-7.769543389911549,1.0,QUEDA
+produto_uf,UF,SOJA,MA,produtividade_kg_ha,1.4484185634052515,1.0,ESTAVEL
+produto_uf,UF,SOJA,MG,produtividade_kg_ha,-3.3039092055485497,1.0,QUEDA
+produto_uf,UF,SOJA,MS,produtividade_kg_ha,7.816711590296488,1.0,ALTA
+produto_uf,UF,SOJA,MT,produtividade_kg_ha,-4.84111221449851,1.0,QUEDA
+produto_uf,UF,SOJA,PA,produtividade_kg_ha,0.0840807174887992,1.0,ESTAVEL
+produto_uf,UF,SOJA,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SOJA,PE,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,SOJA,PI,produtividade_kg_ha,3.2839290903807106,1.0,ALTA
+produto_uf,UF,SOJA,PR,produtividade_kg_ha,1.176785236694311,1.0,ESTAVEL
+produto_uf,UF,SOJA,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SOJA,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SOJA,RO,produtividade_kg_ha,-1.342458541721503,1.0,ESTAVEL
+produto_uf,UF,SOJA,RR,produtividade_kg_ha,-4.492753623188406,1.0,QUEDA
+produto_uf,UF,SOJA,RS,produtividade_kg_ha,33.60375747224595,1.0,ALTA
+produto_uf,UF,SOJA,SC,produtividade_kg_ha,-3.3816425120772986,1.0,QUEDA
+produto_uf,UF,SOJA,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SOJA,SP,produtividade_kg_ha,-2.9026457744669942,1.0,ESTAVEL
+produto_uf,UF,SOJA,TO,produtividade_kg_ha,4.617182933956743,1.0,ALTA
+produto_uf,UF,SORGO,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,BA,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,SORGO,CE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,DF,produtividade_kg_ha,-16.914893617021278,1.0,QUEDA
+produto_uf,UF,SORGO,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,GO,produtividade_kg_ha,-3.2950574138791766,1.0,QUEDA
+produto_uf,UF,SORGO,MA,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,SORGO,MG,produtividade_kg_ha,-2.281845536609828,1.0,ESTAVEL
+produto_uf,UF,SORGO,MS,produtividade_kg_ha,-4.954845008542841,1.0,QUEDA
+produto_uf,UF,SORGO,MT,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,SORGO,PA,produtividade_kg_ha,0.4707728520988663,1.0,ESTAVEL
+produto_uf,UF,SORGO,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,PI,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,SORGO,PR,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,SORGO,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,SP,produtividade_kg_ha,12.91821561338291,1.0,ALTA
+produto_uf,UF,SORGO,TO,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRIGO,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,BA,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRIGO,CE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,DF,produtividade_kg_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRIGO,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,GO,produtividade_kg_ha,-0.2872187649593072,1.0,ESTAVEL
+produto_uf,UF,TRIGO,MA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,MG,produtividade_kg_ha,-4.493580599144076,1.0,QUEDA
+produto_uf,UF,TRIGO,MS,produtividade_kg_ha,-2.619349387410219,1.0,ESTAVEL
+produto_uf,UF,TRIGO,MT,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PI,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PR,produtividade_kg_ha,-12.296778007685482,1.0,QUEDA
+produto_uf,UF,TRIGO,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RS,produtividade_kg_ha,-5.586051017113336,1.0,QUEDA
+produto_uf,UF,TRIGO,SC,produtividade_kg_ha,-7.945945945945942,1.0,QUEDA
+produto_uf,UF,TRIGO,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,SP,produtividade_kg_ha,-1.0693454309786077,1.0,ESTAVEL
+produto_uf,UF,TRIGO,TO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AL,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AM,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AP,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,BA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,CE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,DF,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,ES,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,GO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MG,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MS,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MT,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PA,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PB,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PI,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PR,produtividade_kg_ha,-8.843338213762808,1.0,QUEDA
+produto_uf,UF,TRITICALE,RJ,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RN,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RO,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RR,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RS,produtividade_kg_ha,-10.143042912873867,1.0,QUEDA
+produto_uf,UF,TRITICALE,SC,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,SE,produtividade_kg_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,SP,produtividade_kg_ha,-1.577626389386877,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,TO,produtividade_kg_ha,,1.0,ESTAVEL
+uf,AGREGADO_REGIONAL,TODAS,CENTRO-SUL,produtividade_kg_ha,-1.5277703375525586,1.0,ESTAVEL
+uf,AGREGADO_REGIONAL,TODAS,NORTE/NORDESTE,produtividade_kg_ha,-0.7168896769839228,1.0,ESTAVEL
+uf,REGIAO,TODAS,CENTRO-OESTE,produtividade_kg_ha,-4.586795717813564,1.0,QUEDA
+uf,REGIAO,TODAS,NORDESTE,produtividade_kg_ha,-0.48351431953631563,1.0,ESTAVEL
+uf,REGIAO,TODAS,NORTE,produtividade_kg_ha,-1.4860311755012567,1.0,ESTAVEL
+uf,REGIAO,TODAS,SUDESTE,produtividade_kg_ha,-0.6643224449181417,1.0,ESTAVEL
+uf,REGIAO,TODAS,SUL,produtividade_kg_ha,4.155531297293291,1.0,ALTA
+uf,TOTAL_BRASIL,TODAS,BRASIL,produtividade_kg_ha,-1.5180824817235483,1.0,ESTAVEL
+uf,UF,TODAS,AC,produtividade_kg_ha,5.378979293944464,1.0,ALTA
+uf,UF,TODAS,AL,produtividade_kg_ha,-25.494667331765598,1.0,QUEDA
+uf,UF,TODAS,AM,produtividade_kg_ha,-2.1587871750346155,1.0,ESTAVEL
+uf,UF,TODAS,AP,produtividade_kg_ha,5.222933681528907,1.0,ALTA
+uf,UF,TODAS,BA,produtividade_kg_ha,-1.408278771016036,1.0,ESTAVEL
+uf,UF,TODAS,CE,produtividade_kg_ha,63.37274893509344,1.0,ALTA
+uf,UF,TODAS,DF,produtividade_kg_ha,-2.396845668016334,1.0,ESTAVEL
+uf,UF,TODAS,ES,produtividade_kg_ha,-5.980458512775833,1.0,QUEDA
+uf,UF,TODAS,GO,produtividade_kg_ha,-6.551990624656456,1.0,QUEDA
+uf,UF,TODAS,MA,produtividade_kg_ha,-3.915032642817784,1.0,QUEDA
+uf,UF,TODAS,MG,produtividade_kg_ha,-0.06553722547093521,1.0,ESTAVEL
+uf,UF,TODAS,MS,produtividade_kg_ha,-0.9332056217273288,1.0,ESTAVEL
+uf,UF,TODAS,MT,produtividade_kg_ha,-4.85456464231272,1.0,QUEDA
+uf,UF,TODAS,PA,produtividade_kg_ha,-4.029494254069366,1.0,QUEDA
+uf,UF,TODAS,PB,produtividade_kg_ha,36.77218680259558,1.0,ALTA
+uf,UF,TODAS,PE,produtividade_kg_ha,-1.7810705428099816,1.0,ESTAVEL
+uf,UF,TODAS,PI,produtividade_kg_ha,2.8948711390129223,1.0,ESTAVEL
+uf,UF,TODAS,PR,produtividade_kg_ha,-0.764213189718943,1.0,ESTAVEL
+uf,UF,TODAS,RJ,produtividade_kg_ha,4.180613407009881,1.0,ALTA
+uf,UF,TODAS,RN,produtividade_kg_ha,43.158645145959376,1.0,ALTA
+uf,UF,TODAS,RO,produtividade_kg_ha,-0.288377575719434,1.0,ESTAVEL
+uf,UF,TODAS,RR,produtividade_kg_ha,-4.003261705427974,1.0,QUEDA
+uf,UF,TODAS,RS,produtividade_kg_ha,11.51925483314451,1.0,ALTA
+uf,UF,TODAS,SC,produtividade_kg_ha,-3.4387525365966787,1.0,QUEDA
+uf,UF,TODAS,SE,produtividade_kg_ha,-11.449558396564951,1.0,QUEDA
+uf,UF,TODAS,SP,produtividade_kg_ha,-1.587597489323278,1.0,ESTAVEL
+uf,UF,TODAS,TO,produtividade_kg_ha,0.4574766751495485,1.0,ESTAVEL
+produto,AGREGADO_PRODUTO,BRASIL (2),BRASIL,area_mil_ha,1.8634657453128867,1.0,ESTAVEL
+produto,AGREGADO_PRODUTO,SUBTOTAL,BRASIL,area_mil_ha,-2.678544826147844,1.0,ESTAVEL
+produto,PRODUTO,ALGODÃO - CAROÇO (1),BRASIL,area_mil_ha,-3.2364787111622606,1.0,QUEDA
+produto,PRODUTO,ALGODÃO - PLUMA,BRASIL,area_mil_ha,-3.2364787111622606,1.0,QUEDA
+produto,PRODUTO,AMENDOIM 1ª SAFRA,BRASIL,area_mil_ha,0.3295496155254485,1.0,ESTAVEL
+produto,PRODUTO,AMENDOIM 2ª SAFRA,BRASIL,area_mil_ha,0.0,1.0,ESTAVEL
+produto,PRODUTO,AMENDOIM TOTAL,BRASIL,area_mil_ha,0.3209700427959872,1.0,ESTAVEL
+produto,PRODUTO,ARROZ,BRASIL,area_mil_ha,-11.565281478541866,1.0,QUEDA
+produto,PRODUTO,ARROZ IRRIGADO,BRASIL,area_mil_ha,-7.697363616446362,1.0,QUEDA
+produto,PRODUTO,ARROZ SEQUEIRO,BRASIL,area_mil_ha,-24.98732894069945,1.0,QUEDA
+produto,PRODUTO,AVEIA,BRASIL,area_mil_ha,-6.742396482227919,1.0,QUEDA
+produto,PRODUTO,CANOLA,BRASIL,area_mil_ha,30.108541764983478,1.0,ALTA
+produto,PRODUTO,CAUPI,BRASIL,area_mil_ha,18.2648401826484,1.0,ALTA
+produto,PRODUTO,CENTEIO,BRASIL,area_mil_ha,0.0,1.0,ESTAVEL
+produto,PRODUTO,CEVADA,BRASIL,area_mil_ha,7.6867816091954255,1.0,ALTA
+produto,PRODUTO,CORES,BRASIL,area_mil_ha,10.566615620214392,1.0,ALTA
+produto,PRODUTO,FEIJÃO 1ª SAFRA,BRASIL,area_mil_ha,-11.4254265272427,1.0,QUEDA
+produto,PRODUTO,FEIJÃO 2ª SAFRA,BRASIL,area_mil_ha,-2.2212699092921895,1.0,ESTAVEL
+produto,PRODUTO,FEIJÃO 3ª SAFRA,BRASIL,area_mil_ha,11.056191467221655,1.0,ALTA
+produto,PRODUTO,FEIJÃO TOTAL,BRASIL,area_mil_ha,-3.431117712588194,1.0,QUEDA
+produto,PRODUTO,GERGELIM,BRASIL,area_mil_ha,0.0,1.0,ESTAVEL
+produto,PRODUTO,GIRASSOL,BRASIL,area_mil_ha,3.0694668820678395,1.0,ALTA
+produto,PRODUTO,MAMONA,BRASIL,area_mil_ha,9.339080459770122,1.0,ALTA
+produto,PRODUTO,MILHO 1ª SAFRA,BRASIL,area_mil_ha,7.186025552669251,1.0,ALTA
+produto,PRODUTO,MILHO 2ª SAFRA,BRASIL,area_mil_ha,2.660883633672406,1.0,ESTAVEL
+produto,PRODUTO,MILHO 3ª SAFRA,BRASIL,area_mil_ha,-7.447646039993716,1.0,QUEDA
+produto,PRODUTO,MILHO TOTAL,BRASIL,area_mil_ha,3.1486399853466462,1.0,ALTA
+produto,PRODUTO,PRETO,BRASIL,area_mil_ha,0.0,1.0,ESTAVEL
+produto,PRODUTO,SOJA,BRASIL,area_mil_ha,2.2986053761555825,1.0,ESTAVEL
+produto,PRODUTO,SORGO,BRASIL,area_mil_ha,11.746323529411761,1.0,ALTA
+produto,PRODUTO,TRIGO,BRASIL,area_mil_ha,-5.2168935770064095,1.0,QUEDA
+produto,PRODUTO,TRITICALE,BRASIL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),CENTRO-SUL,area_mil_ha,-3.4533012292485066,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),NORTE/NORDESTE,area_mil_ha,-2.5620811982656644,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,CENTRO-SUL,area_mil_ha,-3.4533012292485066,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,NORTE/NORDESTE,area_mil_ha,-2.5620811982656644,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,CENTRO-SUL,area_mil_ha,0.2902757619738683,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,NORTE/NORDESTE,area_mil_ha,2.083333333333348,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,ARROZ,CENTRO-SUL,area_mil_ha,-10.02135336131359,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,ARROZ,NORTE/NORDESTE,area_mil_ha,-16.732380482996557,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,AVEIA,CENTRO-SUL,area_mil_ha,-6.742396482227919,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,AVEIA,NORTE/NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CANOLA,CENTRO-SUL,area_mil_ha,30.108541764983478,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,CANOLA,NORTE/NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CENTEIO,CENTRO-SUL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CENTEIO,NORTE/NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,CEVADA,CENTRO-SUL,area_mil_ha,7.6867816091954255,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,CEVADA,NORTE/NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,CENTRO-SUL,area_mil_ha,-7.996229675595002,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,NORTE/NORDESTE,area_mil_ha,0.6620184520036432,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,GERGELIM,CENTRO-SUL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,GERGELIM,NORTE/NORDESTE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,CENTRO-SUL,area_mil_ha,3.0694668820678395,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,NORTE/NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,MAMONA,CENTRO-SUL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,MAMONA,NORTE/NORDESTE,area_mil_ha,9.339080459770122,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,CENTRO-SUL,area_mil_ha,3.74648929161705,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,NORTE/NORDESTE,area_mil_ha,0.8668225329745427,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,SOJA,CENTRO-SUL,area_mil_ha,1.1583417801100948,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,SOJA,NORTE/NORDESTE,area_mil_ha,7.603323544158713,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,SORGO,CENTRO-SUL,area_mil_ha,11.591949555152459,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,SORGO,NORTE/NORDESTE,area_mil_ha,12.123128821421037,1.0,ALTA
+produto_uf,AGREGADO_REGIONAL,TRIGO,CENTRO-SUL,area_mil_ha,-5.22757999098693,1.0,QUEDA
+produto_uf,AGREGADO_REGIONAL,TRIGO,NORTE/NORDESTE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,TRITICALE,CENTRO-SUL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,AGREGADO_REGIONAL,TRITICALE,NORTE/NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),CENTRO-OESTE,area_mil_ha,-3.385826771653533,1.0,QUEDA
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORDESTE,area_mil_ha,-2.831163463525521,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORTE,area_mil_ha,2.9787234042553123,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUDESTE,area_mil_ha,-5.513307984790872,1.0,QUEDA
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - PLUMA,CENTRO-OESTE,area_mil_ha,-3.385826771653533,1.0,QUEDA
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORDESTE,area_mil_ha,-2.831163463525521,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORTE,area_mil_ha,2.9787234042553123,1.0,ESTAVEL
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUDESTE,area_mil_ha,-5.513307984790872,1.0,QUEDA
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,AMENDOIM TOTAL,CENTRO-OESTE,area_mil_ha,4.597701149425282,1.0,ALTA
+produto_uf,REGIAO,AMENDOIM TOTAL,NORDESTE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,AMENDOIM TOTAL,NORTE,area_mil_ha,11.111111111111116,1.0,ALTA
+produto_uf,REGIAO,AMENDOIM TOTAL,SUDESTE,area_mil_ha,-0.260869565217392,1.0,ESTAVEL
+produto_uf,REGIAO,AMENDOIM TOTAL,SUL,area_mil_ha,-28.57142857142857,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,CENTRO-OESTE,area_mil_ha,-34.40463645943098,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,NORDESTE,area_mil_ha,-14.921780986762922,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,NORTE,area_mil_ha,-17.988313856427375,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,SUDESTE,area_mil_ha,-19.016393442622935,1.0,QUEDA
+produto_uf,REGIAO,ARROZ,SUL,area_mil_ha,-5.712779047284233,1.0,QUEDA
+produto_uf,REGIAO,AVEIA,CENTRO-OESTE,area_mil_ha,-5.44554455445544,1.0,QUEDA
+produto_uf,REGIAO,AVEIA,NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,AVEIA,NORTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,AVEIA,SUDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,AVEIA,SUL,area_mil_ha,-6.846062524732877,1.0,QUEDA
+produto_uf,REGIAO,CANOLA,CENTRO-OESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,NORTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,SUDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CANOLA,SUL,area_mil_ha,30.108541764983478,1.0,ALTA
+produto_uf,REGIAO,CENTEIO,CENTRO-OESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,NORTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,SUDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CENTEIO,SUL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,CENTRO-OESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,NORTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,SUDESTE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,CEVADA,SUL,area_mil_ha,7.920059215396025,1.0,ALTA
+produto_uf,REGIAO,FEIJÃO TOTAL,CENTRO-OESTE,area_mil_ha,-1.5460526315789203,1.0,ESTAVEL
+produto_uf,REGIAO,FEIJÃO TOTAL,NORDESTE,area_mil_ha,-0.06857665345931796,1.0,ESTAVEL
+produto_uf,REGIAO,FEIJÃO TOTAL,NORTE,area_mil_ha,9.581395348837196,1.0,ALTA
+produto_uf,REGIAO,FEIJÃO TOTAL,SUDESTE,area_mil_ha,0.2941176470588225,1.0,ESTAVEL
+produto_uf,REGIAO,FEIJÃO TOTAL,SUL,area_mil_ha,-16.501428331372882,1.0,QUEDA
+produto_uf,REGIAO,GERGELIM,CENTRO-OESTE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,NORTE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,SUDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,GERGELIM,SUL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,CENTRO-OESTE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,NORTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,SUDESTE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,GIRASSOL,SUL,area_mil_ha,46.34146341463416,1.0,ALTA
+produto_uf,REGIAO,MAMONA,CENTRO-OESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,MAMONA,NORDESTE,area_mil_ha,9.339080459770122,1.0,ALTA
+produto_uf,REGIAO,MAMONA,NORTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,MAMONA,SUDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,MAMONA,SUL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,MILHO TOTAL,CENTRO-OESTE,area_mil_ha,2.796134909560055,1.0,ESTAVEL
+produto_uf,REGIAO,MILHO TOTAL,NORDESTE,area_mil_ha,-3.113270777479882,1.0,QUEDA
+produto_uf,REGIAO,MILHO TOTAL,NORTE,area_mil_ha,8.530132920376833,1.0,ALTA
+produto_uf,REGIAO,MILHO TOTAL,SUDESTE,area_mil_ha,4.619300335752197,1.0,ALTA
+produto_uf,REGIAO,MILHO TOTAL,SUL,area_mil_ha,6.01481554401595,1.0,ALTA
+produto_uf,REGIAO,SOJA,CENTRO-OESTE,area_mil_ha,2.62126052860876,1.0,ESTAVEL
+produto_uf,REGIAO,SOJA,NORDESTE,area_mil_ha,7.262080314590391,1.0,ALTA
+produto_uf,REGIAO,SOJA,NORTE,area_mil_ha,8.035158891142657,1.0,ALTA
+produto_uf,REGIAO,SOJA,SUDESTE,area_mil_ha,1.8025867937372375,1.0,ESTAVEL
+produto_uf,REGIAO,SOJA,SUL,area_mil_ha,-1.4507834532265562,1.0,ESTAVEL
+produto_uf,REGIAO,SORGO,CENTRO-OESTE,area_mil_ha,13.338485316847004,1.0,ALTA
+produto_uf,REGIAO,SORGO,NORDESTE,area_mil_ha,11.792592592592598,1.0,ALTA
+produto_uf,REGIAO,SORGO,NORTE,area_mil_ha,12.938596491228061,1.0,ALTA
+produto_uf,REGIAO,SORGO,SUDESTE,area_mil_ha,8.171663727219268,1.0,ALTA
+produto_uf,REGIAO,SORGO,SUL,area_mil_ha,1550.0,1.0,ALTA
+produto_uf,REGIAO,TRIGO,CENTRO-OESTE,area_mil_ha,-1.5765765765765827,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,NORDESTE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,NORTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,SUDESTE,area_mil_ha,-2.630590003757982,1.0,ESTAVEL
+produto_uf,REGIAO,TRIGO,SUL,area_mil_ha,-5.714285714285716,1.0,QUEDA
+produto_uf,REGIAO,TRITICALE,CENTRO-OESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,NORDESTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,NORTE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,SUDESTE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,REGIAO,TRITICALE,SUL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,ALGODÃO - CAROÇO (1),BRASIL,area_mil_ha,-3.2364787111622606,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,ALGODÃO - PLUMA,BRASIL,area_mil_ha,-3.2364787111622606,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,AMENDOIM TOTAL,BRASIL,area_mil_ha,0.3209700427959872,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,ARROZ,BRASIL,area_mil_ha,-11.565281478541866,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,AVEIA,BRASIL,area_mil_ha,-6.742396482227919,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,CANOLA,BRASIL,area_mil_ha,30.108541764983478,1.0,ALTA
+produto_uf,TOTAL_BRASIL,CENTEIO,BRASIL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,CEVADA,BRASIL,area_mil_ha,7.6867816091954255,1.0,ALTA
+produto_uf,TOTAL_BRASIL,FEIJÃO TOTAL,BRASIL,area_mil_ha,-3.431117712588194,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,GERGELIM,BRASIL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,GIRASSOL,BRASIL,area_mil_ha,3.0694668820678395,1.0,ALTA
+produto_uf,TOTAL_BRASIL,MAMONA,BRASIL,area_mil_ha,9.339080459770122,1.0,ALTA
+produto_uf,TOTAL_BRASIL,MILHO TOTAL,BRASIL,area_mil_ha,3.1486399853466462,1.0,ALTA
+produto_uf,TOTAL_BRASIL,SOJA,BRASIL,area_mil_ha,2.2986053761555825,1.0,ESTAVEL
+produto_uf,TOTAL_BRASIL,SORGO,BRASIL,area_mil_ha,11.746323529411761,1.0,ALTA
+produto_uf,TOTAL_BRASIL,TRIGO,BRASIL,area_mil_ha,-5.2168935770064095,1.0,QUEDA
+produto_uf,TOTAL_BRASIL,TRITICALE,BRASIL,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),BA,area_mil_ha,-2.590171871217639,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),CE,area_mil_ha,-20.833333333333336,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),DF,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),GO,area_mil_ha,-1.650165016501648,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),MA,area_mil_ha,-9.999999999999998,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),MG,area_mil_ha,-6.430155210643007,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),MS,area_mil_ha,0.3154574132492094,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),MT,area_mil_ha,-3.5020519835841313,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),PA,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),PB,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),PI,area_mil_ha,2.6706231454005858,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),PR,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RN,area_mil_ha,-8.333333333333325,1.0,QUEDA
+produto_uf,UF,ALGODÃO - CAROÇO (1),RO,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),RS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),SP,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - CAROÇO (1),TO,area_mil_ha,4.827586206896539,1.0,ALTA
+produto_uf,UF,ALGODÃO - PLUMA,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,BA,area_mil_ha,-2.590171871217639,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,CE,area_mil_ha,-20.833333333333336,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,DF,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,GO,area_mil_ha,-1.650165016501648,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,MA,area_mil_ha,-9.999999999999998,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,MG,area_mil_ha,-6.430155210643007,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,MS,area_mil_ha,0.3154574132492094,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,MT,area_mil_ha,-3.5020519835841313,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,PA,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,PB,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,PI,area_mil_ha,2.6706231454005858,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,PR,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RN,area_mil_ha,-8.333333333333325,1.0,QUEDA
+produto_uf,UF,ALGODÃO - PLUMA,RO,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,RS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,SP,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ALGODÃO - PLUMA,TO,area_mil_ha,4.827586206896539,1.0,ALTA
+produto_uf,UF,AMENDOIM TOTAL,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,BA,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,CE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,DF,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,GO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,MA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,MG,area_mil_ha,10.344827586206895,1.0,ALTA
+produto_uf,UF,AMENDOIM TOTAL,MS,area_mil_ha,4.597701149425282,1.0,ALTA
+produto_uf,UF,AMENDOIM TOTAL,MT,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PB,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PI,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,PR,area_mil_ha,-28.57142857142857,1.0,QUEDA
+produto_uf,UF,AMENDOIM TOTAL,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,RS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,SP,area_mil_ha,-0.9744779582366525,1.0,ESTAVEL
+produto_uf,UF,AMENDOIM TOTAL,TO,area_mil_ha,11.111111111111116,1.0,ALTA
+produto_uf,UF,ARROZ,AC,area_mil_ha,-7.894736842105255,1.0,QUEDA
+produto_uf,UF,ARROZ,AL,area_mil_ha,-11.538461538461553,1.0,QUEDA
+produto_uf,UF,ARROZ,AM,area_mil_ha,32.60869565217392,1.0,ALTA
+produto_uf,UF,ARROZ,AP,area_mil_ha,-33.333333333333336,1.0,QUEDA
+produto_uf,UF,ARROZ,BA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ARROZ,CE,area_mil_ha,-11.363636363636376,1.0,QUEDA
+produto_uf,UF,ARROZ,DF,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,ES,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,GO,area_mil_ha,-17.931034482758623,1.0,QUEDA
+produto_uf,UF,ARROZ,MA,area_mil_ha,-20.128479657387587,1.0,QUEDA
+produto_uf,UF,ARROZ,MG,area_mil_ha,-26.126126126126124,1.0,QUEDA
+produto_uf,UF,ARROZ,MS,area_mil_ha,-37.22627737226277,1.0,QUEDA
+produto_uf,UF,ARROZ,MT,area_mil_ha,-37.491479209270615,1.0,QUEDA
+produto_uf,UF,ARROZ,PA,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,PB,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,ARROZ,PI,area_mil_ha,-8.849557522123897,1.0,QUEDA
+produto_uf,UF,ARROZ,PR,area_mil_ha,-3.0456852791878264,1.0,QUEDA
+produto_uf,UF,ARROZ,RJ,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,RN,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,RO,area_mil_ha,-41.590909090909086,1.0,QUEDA
+produto_uf,UF,ARROZ,RR,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,RS,area_mil_ha,-6.4972626794752575,1.0,QUEDA
+produto_uf,UF,ARROZ,SC,area_mil_ha,-1.0000000000000009,1.0,ESTAVEL
+produto_uf,UF,ARROZ,SE,area_mil_ha,-3.2258064516129115,1.0,QUEDA
+produto_uf,UF,ARROZ,SP,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,ARROZ,TO,area_mil_ha,-19.25093632958802,1.0,QUEDA
+produto_uf,UF,AVEIA,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,BA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,CE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,DF,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,GO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,MA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,MG,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,MS,area_mil_ha,-5.44554455445544,1.0,QUEDA
+produto_uf,UF,AVEIA,MT,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PI,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,PR,area_mil_ha,-4.729729729729726,1.0,QUEDA
+produto_uf,UF,AVEIA,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,RS,area_mil_ha,-7.391737182677948,1.0,QUEDA
+produto_uf,UF,AVEIA,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,SP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,AVEIA,TO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,BA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,CE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,DF,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,GO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MG,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,MT,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PI,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,PR,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,RS,area_mil_ha,30.395426393520708,1.0,ALTA
+produto_uf,UF,CANOLA,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,SP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CANOLA,TO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,BA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,CE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,DF,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,GO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MG,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,MT,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PI,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,PR,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,RS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,SP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CENTEIO,TO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,BA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,CE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,DF,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,GO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MG,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,MT,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PI,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,PR,area_mil_ha,7.328833172613303,1.0,ALTA
+produto_uf,UF,CEVADA,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,RS,area_mil_ha,9.872611464968163,1.0,ALTA
+produto_uf,UF,CEVADA,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,CEVADA,SP,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,CEVADA,TO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,AC,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,AL,area_mil_ha,-15.533980582524286,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,AM,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,AP,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,BA,area_mil_ha,3.206997084548102,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,CE,area_mil_ha,-1.1296076099881147,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,DF,area_mil_ha,-1.34228187919464,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,ES,area_mil_ha,5.882352941176472,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,GO,area_mil_ha,-4.865771812080533,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,MA,area_mil_ha,-2.5316455696202556,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,MG,area_mil_ha,0.24415765608647444,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,MS,area_mil_ha,26.315789473684205,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,MT,area_mil_ha,-0.12180267965894442,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,PA,area_mil_ha,30.722891566265066,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,PB,area_mil_ha,1.8428709990300662,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,PE,area_mil_ha,-0.23028209556705814,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,PI,area_mil_ha,-1.9540791402051783,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,PR,area_mil_ha,-19.219035997559487,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,RJ,area_mil_ha,-10.000000000000009,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,RN,area_mil_ha,-4.914529914529908,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,RO,area_mil_ha,10.000000000000009,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,RR,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,RS,area_mil_ha,3.5377358490566113,1.0,ALTA
+produto_uf,UF,FEIJÃO TOTAL,SC,area_mil_ha,-8.52459016393443,1.0,QUEDA
+produto_uf,UF,FEIJÃO TOTAL,SE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,SP,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,FEIJÃO TOTAL,TO,area_mil_ha,6.4432989690721865,1.0,ALTA
+produto_uf,UF,GERGELIM,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,BA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,CE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,DF,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,GO,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MG,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,MT,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PA,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PI,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,PR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,RS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,SP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GERGELIM,TO,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,BA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,CE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,DF,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,GO,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MG,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MS,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,MT,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PI,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,PR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,RS,area_mil_ha,46.34146341463416,1.0,ALTA
+produto_uf,UF,GIRASSOL,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,SP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,GIRASSOL,TO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,BA,area_mil_ha,9.35251798561152,1.0,ALTA
+produto_uf,UF,MAMONA,CE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,MAMONA,DF,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,GO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MG,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,MT,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PI,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,PR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,RS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,SP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MAMONA,TO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,AC,area_mil_ha,3.4146341463414664,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,AL,area_mil_ha,4.807692307692313,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,AM,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,AP,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,BA,area_mil_ha,-5.900833219505541,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,CE,area_mil_ha,0.3045685279187804,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,DF,area_mil_ha,-1.7793594306049876,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,ES,area_mil_ha,-0.6024096385542244,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,GO,area_mil_ha,-1.0156924483266438,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,MA,area_mil_ha,0.43543795009211017,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,MG,area_mil_ha,5.3151241118390535,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,MS,area_mil_ha,3.1418139892390506,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,MT,area_mil_ha,3.7626588357987822,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,PA,area_mil_ha,11.55798516204609,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,PB,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,PE,area_mil_ha,-0.917431192660545,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,PI,area_mil_ha,-10.79121347835359,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,PR,area_mil_ha,3.9709775468183217,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,RJ,area_mil_ha,-6.666666666666677,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,RN,area_mil_ha,-4.984423676012462,1.0,QUEDA
+produto_uf,UF,MILHO TOTAL,RO,area_mil_ha,6.142306912629225,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,RR,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,RS,area_mil_ha,14.199860237596095,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,SC,area_mil_ha,7.393266227004491,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,SE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,MILHO TOTAL,SP,area_mil_ha,3.7459720730397494,1.0,ALTA
+produto_uf,UF,MILHO TOTAL,TO,area_mil_ha,8.731501057082447,1.0,ALTA
+produto_uf,UF,SOJA,AC,area_mil_ha,18.279569892473102,1.0,ALTA
+produto_uf,UF,SOJA,AL,area_mil_ha,53.06122448979591,1.0,ALTA
+produto_uf,UF,SOJA,AM,area_mil_ha,31.11111111111111,1.0,ALTA
+produto_uf,UF,SOJA,AP,area_mil_ha,19.999999999999996,1.0,ALTA
+produto_uf,UF,SOJA,BA,area_mil_ha,9.397827308484752,1.0,ALTA
+produto_uf,UF,SOJA,CE,area_mil_ha,-5.263157894736836,1.0,QUEDA
+produto_uf,UF,SOJA,DF,area_mil_ha,1.4705882352941124,1.0,ESTAVEL
+produto_uf,UF,SOJA,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SOJA,GO,area_mil_ha,4.000242194280168,1.0,ALTA
+produto_uf,UF,SOJA,MA,area_mil_ha,6.002367523152996,1.0,ALTA
+produto_uf,UF,SOJA,MG,area_mil_ha,1.1006085717985226,1.0,ESTAVEL
+produto_uf,UF,SOJA,MS,area_mil_ha,2.600272722998076,1.0,ESTAVEL
+produto_uf,UF,SOJA,MT,area_mil_ha,2.099900303798652,1.0,ESTAVEL
+produto_uf,UF,SOJA,PA,area_mil_ha,11.100531619455701,1.0,ALTA
+produto_uf,UF,SOJA,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SOJA,PE,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,SOJA,PI,area_mil_ha,4.59969031787959,1.0,ALTA
+produto_uf,UF,SOJA,PR,area_mil_ha,1.3006943274755267,1.0,ESTAVEL
+produto_uf,UF,SOJA,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SOJA,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SOJA,RO,area_mil_ha,3.195624010364173,1.0,ALTA
+produto_uf,UF,SOJA,RR,area_mil_ha,7.064017660044142,1.0,ALTA
+produto_uf,UF,SOJA,RS,area_mil_ha,-3.7006775888542953,1.0,QUEDA
+produto_uf,UF,SOJA,SC,area_mil_ha,0.09758477677483945,1.0,ESTAVEL
+produto_uf,UF,SOJA,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SOJA,SP,area_mil_ha,3.0023605783416896,1.0,ALTA
+produto_uf,UF,SOJA,TO,area_mil_ha,7.401725790987523,1.0,ALTA
+produto_uf,UF,SORGO,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,BA,area_mil_ha,2.0873786407767048,1.0,ESTAVEL
+produto_uf,UF,SORGO,CE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,DF,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,SORGO,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,GO,area_mil_ha,10.995692931340262,1.0,ALTA
+produto_uf,UF,SORGO,MA,area_mil_ha,58.10276679841897,1.0,ALTA
+produto_uf,UF,SORGO,MG,area_mil_ha,8.29975825946816,1.0,ALTA
+produto_uf,UF,SORGO,MS,area_mil_ha,21.77068214804063,1.0,ALTA
+produto_uf,UF,SORGO,MT,area_mil_ha,13.437500000000014,1.0,ALTA
+produto_uf,UF,SORGO,PA,area_mil_ha,10.948905109489049,1.0,ALTA
+produto_uf,UF,SORGO,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,PI,area_mil_ha,7.540173053152022,1.0,ALTA
+produto_uf,UF,SORGO,PR,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,SORGO,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,RS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,SORGO,SP,area_mil_ha,7.826086956521738,1.0,ALTA
+produto_uf,UF,SORGO,TO,area_mil_ha,15.934065934065922,1.0,ALTA
+produto_uf,UF,TRIGO,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,BA,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRIGO,CE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,DF,area_mil_ha,6.756756756756754,1.0,ALTA
+produto_uf,UF,TRIGO,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,GO,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRIGO,MA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,MG,area_mil_ha,-4.632693580410329,1.0,QUEDA
+produto_uf,UF,TRIGO,MS,area_mil_ha,-5.219780219780212,1.0,QUEDA
+produto_uf,UF,TRIGO,MT,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PI,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,PR,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,RS,area_mil_ha,-10.30339700924886,1.0,QUEDA
+produto_uf,UF,TRIGO,SC,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRIGO,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRIGO,SP,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRIGO,TO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AL,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AM,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,AP,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,BA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,CE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,DF,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,ES,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,GO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MG,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MS,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,MT,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PA,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PB,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PI,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,PR,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RJ,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RN,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RO,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RR,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,RS,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,SC,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,SE,area_mil_ha,,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,SP,area_mil_ha,0.0,1.0,ESTAVEL
+produto_uf,UF,TRITICALE,TO,area_mil_ha,,1.0,ESTAVEL
+uf,AGREGADO_REGIONAL,TODAS,CENTRO-SUL,area_mil_ha,1.299616032908002,1.0,ESTAVEL
+uf,AGREGADO_REGIONAL,TODAS,NORTE/NORDESTE,area_mil_ha,4.180000000000006,1.0,ALTA
+uf,REGIAO,TODAS,CENTRO-OESTE,area_mil_ha,2.339854865280677,1.0,ESTAVEL
+uf,REGIAO,TODAS,NORDESTE,area_mil_ha,2.527485659655815,1.0,ESTAVEL
+uf,REGIAO,TODAS,NORTE,area_mil_ha,6.964957035445751,1.0,ALTA
+uf,REGIAO,TODAS,SUDESTE,area_mil_ha,2.545038604518157,1.0,ESTAVEL
+uf,REGIAO,TODAS,SUL,area_mil_ha,-0.8312023364507204,1.0,ESTAVEL
+uf,TOTAL_BRASIL,TODAS,BRASIL,area_mil_ha,1.8634657453128867,1.0,ESTAVEL
+uf,UF,TODAS,AC,area_mil_ha,6.550218340611358,1.0,ALTA
+uf,UF,TODAS,AL,area_mil_ha,1.0118043844856706,1.0,ESTAVEL
+uf,UF,TODAS,AM,area_mil_ha,19.930069930069916,1.0,ALTA
+uf,UF,TODAS,AP,area_mil_ha,12.142857142857144,1.0,ALTA
+uf,UF,TODAS,BA,area_mil_ha,4.305795189282446,1.0,ALTA
+uf,UF,TODAS,CE,area_mil_ha,-0.34089698519229605,1.0,ESTAVEL
+uf,UF,TODAS,DF,area_mil_ha,0.32188841201716833,1.0,ESTAVEL
+uf,UF,TODAS,ES,area_mil_ha,1.5873015873016039,1.0,ESTAVEL
+uf,UF,TODAS,GO,area_mil_ha,2.7670222573422887,1.0,ESTAVEL
+uf,UF,TODAS,MA,area_mil_ha,4.2035790219702385,1.0,ALTA
+uf,UF,TODAS,MG,area_mil_ha,2.3382968822708294,1.0,ESTAVEL
+uf,UF,TODAS,MS,area_mil_ha,3.0158013544018036,1.0,ALTA
+uf,UF,TODAS,MT,area_mil_ha,2.0098564580427913,1.0,ESTAVEL
+uf,UF,TODAS,PA,area_mil_ha,10.534637810060277,1.0,ALTA
+uf,UF,TODAS,PB,area_mil_ha,0.8474576271186418,1.0,ESTAVEL
+uf,UF,TODAS,PE,area_mil_ha,-0.5934718100890191,1.0,ESTAVEL
+uf,UF,TODAS,PI,area_mil_ha,-0.10810254298362354,1.0,ESTAVEL
+uf,UF,TODAS,PR,area_mil_ha,0.9844398236044549,1.0,ESTAVEL
+uf,UF,TODAS,RJ,area_mil_ha,-7.142857142857128,1.0,QUEDA
+uf,UF,TODAS,RN,area_mil_ha,-4.9733570159857905,1.0,QUEDA
+uf,UF,TODAS,RO,area_mil_ha,2.767943353717417,1.0,ESTAVEL
+uf,UF,TODAS,RR,area_mil_ha,5.584642233856885,1.0,ALTA
+uf,UF,TODAS,RS,area_mil_ha,-2.7877055039313814,1.0,ESTAVEL
+uf,UF,TODAS,SC,area_mil_ha,1.0776766969909035,1.0,ESTAVEL
+uf,UF,TODAS,SE,area_mil_ha,-0.10272213662043672,1.0,ESTAVEL
+uf,UF,TODAS,SP,area_mil_ha,2.897301349325354,1.0,ESTAVEL
+uf,UF,TODAS,TO,area_mil_ha,6.057460765589973,1.0,ALTA

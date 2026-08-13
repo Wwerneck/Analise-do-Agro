@@ -91,6 +91,67 @@ Principais recursos:
 - Insights deterministicos calculados no navegador.
 - Tabela detalhada e download CSV respeitando os filtros ativos.
 
+## Analise Preditiva
+
+A camada preditiva adiciona auditoria automatica, preparacao temporal, features sem vazamento, backtesting, comparacao de modelos, estimativas da proxima safra, tendencias, anomalias, insights e metadados de reproducibilidade.
+
+Dados utilizados: bases oficiais da CONAB ja processadas em `data/processed`, no formato atual de comparativo entre `2024/25` e `2025/26`. A auditoria encontrou somente duas safras historicas no projeto; por isso, o treinamento de modelos complexos e a validacao temporal robusta sao bloqueados e documentados.
+
+Modelos considerados:
+
+- Baseline ingenuo: previsao igual ao ultimo valor conhecido.
+- Regressao Linear, Random Forest, XGBoost e Exponential Smoothing ficam registrados na comparacao, mas sao marcados como `historico_insuficiente` quando a serie nao possui observacoes suficientes.
+
+Feature engineering:
+
+- `lag_1`, `lag_2`, `lag_3`.
+- medias moveis de 3 e 5 periodos.
+- crescimento percentual.
+- tendencia historica.
+- volatilidade historica.
+
+Todas as features usam `shift`/janelas calculadas somente com safras anteriores, evitando data leakage.
+
+Validacao temporal e backtesting: o pipeline usa walk-forward quando ha historico. No recorte atual, cada serie permite apenas uma comparacao historica basica: usar `2024/25` para estimar `2025/26` e comparar com o valor real.
+
+Metricas calculadas: MAE, RMSE, MAPE e R2. A selecao automatica prioriza MAE/RMSE; MAPE e interpretado com cautela quando valores reais sao proximos de zero.
+
+Score de confianca:
+
+- ALTA CONFIANCA: pelo menos 8 observacoes, MAPE baixo, serie estavel e baixa divergencia entre modelos.
+- MEDIA CONFIANCA: pelo menos 5 observacoes, erro moderado e volatilidade aceitavel.
+- BAIXA CONFIANCA: historico curto, erro alto, alta volatilidade ou modelos sem suporte suficiente.
+
+Como executar:
+
+```powershell
+python -m src.predictive.pipeline
+python -m pytest -q
+```
+
+Artefatos gerados:
+
+- `data/processed/predictions/forecast_production.csv`
+- `data/processed/predictions/forecast_productivity.csv`
+- `data/processed/predictions/forecast_area.csv`
+- `data/processed/predictions/model_metrics.csv`
+- `data/processed/predictions/model_comparison.csv`
+- `data/processed/predictions/trends.csv`
+- `data/processed/predictions/anomalies.csv`
+- `reports/predictive_backtest.md`
+- `reports/model_metadata.json`
+- `reports/predictive_r_diagnostics.md`, quando `r/predictive_analysis.R` e executado com Rscript.
+
+Camada R complementar:
+
+```powershell
+Rscript r/predictive_analysis.R
+```
+
+Se `Rscript` nao estiver no PATH no Windows, use o caminho absoluto instalado, por exemplo `C:\Program Files\R\R-4.6.1\bin\Rscript.exe`. O script R consome `data/processed/predictions/features.csv` e gera diagnosticos estatisticos complementares de tendencia, regressao, residuos e intervalos quando houver historico suficiente.
+
+Interpretacao: as previsoes representam estimativas estatisticas baseadas no comportamento historico dos dados e nao constituem previsao oficial da CONAB. Com apenas duas safras, os resultados atuais devem ser lidos como uma estrutura preditiva auditavel e conservadora, nao como uma previsao operacional robusta.
+
 ## Metodologia
 
 - Percentuais oficiais sao preservados e tambem recalculados em colunas separadas para auditoria.

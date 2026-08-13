@@ -1,0 +1,1967 @@
+grao,tipo_linha,cultura,uf,alvo,safra_teste,previsto,real,erro_pct,modelo
+produto,AGREGADO_PRODUTO,BRASIL (2),BRASIL,producao_mil_t,2025/26,352258.92000000004,353375.92,0.31609397720137294,baseline_ingenuo
+produto,AGREGADO_PRODUTO,SUBTOTAL,BRASIL,producao_mil_t,2025/26,10158.7,9120.6,11.38192662763415,baseline_ingenuo
+produto,PRODUTO,ALGODÃO - CAROÇO (1),BRASIL,producao_mil_t,2025/26,5782.799999999999,5394.4,7.200059320777095,baseline_ingenuo
+produto,PRODUTO,ALGODÃO - PLUMA,BRASIL,producao_mil_t,2025/26,4076.1,3803.0,7.181172758348669,baseline_ingenuo
+produto,PRODUTO,AMENDOIM 1ª SAFRA,BRASIL,producao_mil_t,2025/26,1147.6,1191.3,3.6682615629984086,baseline_ingenuo
+produto,PRODUTO,AMENDOIM 2ª SAFRA,BRASIL,producao_mil_t,2025/26,12.1,12.0,0.8333333333333304,baseline_ingenuo
+produto,PRODUTO,AMENDOIM TOTAL,BRASIL,producao_mil_t,2025/26,1159.6999999999998,1203.3,3.623369068395258,baseline_ingenuo
+produto,PRODUTO,ARROZ,BRASIL,producao_mil_t,2025/26,12757.7,10914.6,16.886555622743852,baseline_ingenuo
+produto,PRODUTO,ARROZ IRRIGADO,BRASIL,producao_mil_t,2025/26,11599.500000000002,10095.8,14.894312486380501,baseline_ingenuo
+produto,PRODUTO,ARROZ SEQUEIRO,BRASIL,producao_mil_t,2025/26,1158.2,818.8,41.45090376160236,baseline_ingenuo
+produto,PRODUTO,AVEIA,BRASIL,producao_mil_t,2025/26,1292.3000000000002,1146.7,12.697305310892137,baseline_ingenuo
+produto,PRODUTO,CANOLA,BRASIL,producao_mil_t,2025/26,344.8,446.5,22.777155655095182,baseline_ingenuo
+produto,PRODUTO,CAUPI,BRASIL,producao_mil_t,2025/26,31.6,36.0,12.222222222222218,baseline_ingenuo
+produto,PRODUTO,CENTEIO,BRASIL,producao_mil_t,2025/26,5.0,4.7,6.382978723404251,baseline_ingenuo
+produto,PRODUTO,CEVADA,BRASIL,producao_mil_t,2025/26,606.6,584.3000000000001,3.8165326031148297,baseline_ingenuo
+produto,PRODUTO,CORES,BRASIL,producao_mil_t,2025/26,614.2,650.5999999999999,5.594835536427892,baseline_ingenuo
+produto,PRODUTO,FEIJÃO 1ª SAFRA,BRASIL,producao_mil_t,2025/26,1062.7,967.2,9.873862696443341,baseline_ingenuo
+produto,PRODUTO,FEIJÃO 2ª SAFRA,BRASIL,producao_mil_t,2025/26,1333.6,1296.4,2.8694847269361166,baseline_ingenuo
+produto,PRODUTO,FEIJÃO 3ª SAFRA,BRASIL,producao_mil_t,2025/26,663.7,702.6,5.536578423000281,baseline_ingenuo
+produto,PRODUTO,FEIJÃO TOTAL,BRASIL,producao_mil_t,2025/26,3059.9,2966.1,3.162401807086753,baseline_ingenuo
+produto,PRODUTO,GERGELIM,BRASIL,producao_mil_t,2025/26,399.4,399.4,0.0,baseline_ingenuo
+produto,PRODUTO,GIRASSOL,BRASIL,producao_mil_t,2025/26,100.4,102.5,2.0487804878048728,baseline_ingenuo
+produto,PRODUTO,MAMONA,BRASIL,producao_mil_t,2025/26,100.02,147.32000000000002,32.106978007059475,baseline_ingenuo
+produto,PRODUTO,MILHO 1ª SAFRA,BRASIL,producao_mil_t,2025/26,24935.8,26700.300000000003,6.608539978951561,baseline_ingenuo
+produto,PRODUTO,MILHO 2ª SAFRA,BRASIL,producao_mil_t,2025/26,113228.4,109262.7,3.629509430025066,baseline_ingenuo
+produto,PRODUTO,MILHO 3ª SAFRA,BRASIL,producao_mil_t,2025/26,2993.6,2485.3,20.452259284593396,baseline_ingenuo
+produto,PRODUTO,MILHO TOTAL,BRASIL,producao_mil_t,2025/26,141157.6,138448.2,1.9569774110461484,baseline_ingenuo
+produto,PRODUTO,PRETO,BRASIL,producao_mil_t,2025/26,17.900000000000002,16.2,10.493827160493845,baseline_ingenuo
+produto,PRODUTO,SOJA,BRASIL,producao_mil_t,2025/26,171480.5,177985.0,3.654521448436666,baseline_ingenuo
+produto,PRODUTO,SORGO,BRASIL,producao_mil_t,2025/26,6102.200000000001,6694.5,8.847561431025458,baseline_ingenuo
+produto,PRODUTO,TRIGO,BRASIL,producao_mil_t,2025/26,7873.4,6904.799999999999,14.027922604564946,baseline_ingenuo
+produto,PRODUTO,TRITICALE,BRASIL,producao_mil_t,2025/26,36.6,33.6,8.928571428571429,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),CENTRO-SUL,producao_mil_t,2025/26,4380.9,4052.4,8.106307373408338,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),NORTE/NORDESTE,producao_mil_t,2025/26,1401.9,1342.0,4.463487332339798,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,CENTRO-SUL,producao_mil_t,2025/26,3072.1,2842.1,8.092607578902925,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,NORTE/NORDESTE,producao_mil_t,2025/26,1004.0,960.9,4.4853782911853495,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,CENTRO-SUL,producao_mil_t,2025/26,1152.3,1195.6,3.621612579458009,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,NORTE/NORDESTE,producao_mil_t,2025/26,7.4,7.7,3.896103896103894,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ARROZ,CENTRO-SUL,producao_mil_t,2025/26,11077.5,9556.9,15.911017170839923,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ARROZ,NORTE/NORDESTE,producao_mil_t,2025/26,1680.2,1357.6999999999998,23.753406496280494,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AVEIA,CENTRO-SUL,producao_mil_t,2025/26,1292.3000000000002,1146.7,12.697305310892137,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AVEIA,NORTE/NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CANOLA,CENTRO-SUL,producao_mil_t,2025/26,344.8,446.5,22.777155655095182,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CANOLA,NORTE/NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CENTEIO,CENTRO-SUL,producao_mil_t,2025/26,5.0,4.7,6.382978723404251,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CENTEIO,NORTE/NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CEVADA,CENTRO-SUL,producao_mil_t,2025/26,606.6,584.3000000000001,3.8165326031148297,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CEVADA,NORTE/NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,CENTRO-SUL,producao_mil_t,2025/26,2339.0,2153.5,8.613884374274438,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,NORTE/NORDESTE,producao_mil_t,2025/26,720.9,812.6,11.284764952005913,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GERGELIM,CENTRO-SUL,producao_mil_t,2025/26,290.9,290.9,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GERGELIM,NORTE/NORDESTE,producao_mil_t,2025/26,108.5,108.5,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,CENTRO-SUL,producao_mil_t,2025/26,100.4,102.5,2.0487804878048728,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,NORTE/NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MAMONA,CENTRO-SUL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MAMONA,NORTE/NORDESTE,producao_mil_t,2025/26,100.02,147.32000000000002,32.106978007059475,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,CENTRO-SUL,producao_mil_t,2025/26,123319.1,121003.1,1.9140005503991218,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,NORTE/NORDESTE,producao_mil_t,2025/26,17838.5,17445.1,2.2550744908312446,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SOJA,CENTRO-SUL,producao_mil_t,2025/26,140870.3,145041.8,2.8760674509003614,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SOJA,NORTE/NORDESTE,producao_mil_t,2025/26,30610.2,32943.2,7.081886398406945,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SORGO,CENTRO-SUL,producao_mil_t,2025/26,4524.000000000001,4956.3,8.722232310392819,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SORGO,NORTE/NORDESTE,producao_mil_t,2025/26,1578.2,1738.1999999999998,9.204924634679541,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRIGO,CENTRO-SUL,producao_mil_t,2025/26,7843.4,6874.799999999999,14.089137138534946,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRIGO,NORTE/NORDESTE,producao_mil_t,2025/26,30.0,30.0,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRITICALE,CENTRO-SUL,producao_mil_t,2025/26,36.6,33.6,8.928571428571429,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRITICALE,NORTE/NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),CENTRO-OESTE,producao_mil_t,2025/26,4251.2,3919.3,8.4683489398617,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORDESTE,producao_mil_t,2025/26,1338.9,1277.8,4.781655971200512,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORTE,producao_mil_t,2025/26,63.00000000000001,64.2,1.8691588785046662,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUDESTE,producao_mil_t,2025/26,126.9,130.3,2.609363008442061,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUL,producao_mil_t,2025/26,2.8,2.8,0.0,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,CENTRO-OESTE,producao_mil_t,2025/26,2978.1,2745.6,8.468094405594407,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORDESTE,producao_mil_t,2025/26,963.4,919.5,4.774333877107121,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORTE,producao_mil_t,2025/26,40.6,41.400000000000006,1.932367149758464,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUDESTE,producao_mil_t,2025/26,92.0,94.5,2.6455026455026456,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUL,producao_mil_t,2025/26,2.0,2.0,0.0,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,CENTRO-OESTE,producao_mil_t,2025/26,173.7,180.6,3.8205980066445218,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,NORDESTE,producao_mil_t,2025/26,3.8,3.7,2.7027027027026933,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,NORTE,producao_mil_t,2025/26,3.6,4.0,9.999999999999998,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,SUDESTE,producao_mil_t,2025/26,972.3,1010.7,3.7993469872365777,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,SUL,producao_mil_t,2025/26,6.3,4.3,46.51162790697674,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,CENTRO-OESTE,producao_mil_t,2025/26,789.2,526.7,49.83861780899942,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,NORDESTE,producao_mil_t,2025/26,463.4,398.8,16.198595787362077,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,NORTE,producao_mil_t,2025/26,1216.8,958.9,26.895400980289914,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,SUDESTE,producao_mil_t,2025/26,143.60000000000002,120.5,19.170124481327818,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,SUL,producao_mil_t,2025/26,10144.7,8909.699999999999,13.861297237841924,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,CENTRO-OESTE,producao_mil_t,2025/26,64.2,54.5,17.798165137614685,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,NORTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,SUDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,SUL,producao_mil_t,2025/26,1228.1,1092.2,12.44277604834278,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,CENTRO-OESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,NORTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,SUDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,SUL,producao_mil_t,2025/26,344.8,446.5,22.777155655095182,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,CENTRO-OESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,NORTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,SUDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,SUL,producao_mil_t,2025/26,5.0,4.7,6.382978723404251,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,CENTRO-OESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,NORTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,SUDESTE,producao_mil_t,2025/26,13.1,13.1,0.0,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,SUL,producao_mil_t,2025/26,593.5,571.2,3.9040616246498514,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,CENTRO-OESTE,producao_mil_t,2025/26,641.7,625.4000000000001,2.6063319475535582,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,NORDESTE,producao_mil_t,2025/26,604.0,692.1,12.729374367865917,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,NORTE,producao_mil_t,2025/26,116.9,120.5,2.987551867219912,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,SUDESTE,producao_mil_t,2025/26,650.0,692.8,6.177829099307154,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,SUL,producao_mil_t,2025/26,1047.3000000000002,835.3,25.380102957021457,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,CENTRO-OESTE,producao_mil_t,2025/26,290.9,290.9,0.0,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,NORTE,producao_mil_t,2025/26,108.5,108.5,0.0,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,SUDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,SUL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,CENTRO-OESTE,producao_mil_t,2025/26,83.1,81.19999999999999,2.3399014778325196,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,NORTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,SUDESTE,producao_mil_t,2025/26,9.9,9.9,0.0,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,SUL,producao_mil_t,2025/26,7.4,11.4,35.08771929824561,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,CENTRO-OESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,NORDESTE,producao_mil_t,2025/26,100.02,147.32000000000002,32.106978007059475,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,NORTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,SUDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,SUL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,CENTRO-OESTE,producao_mil_t,2025/26,83519.9,80466.3,3.7948805897624114,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,NORDESTE,producao_mil_t,2025/26,10133.1,9573.1,5.849724749558659,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,NORTE,producao_mil_t,2025/26,7705.4,7872.0,2.116361788617891,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,SUDESTE,producao_mil_t,2025/26,11059.8,11623.6,4.850476616538775,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,SUL,producao_mil_t,2025/26,28739.4,28913.2,0.6011095278281176,baseline_ingenuo
+produto_uf,REGIAO,SOJA,CENTRO-OESTE,producao_mil_t,2025/26,86578.3,85798.3,0.9091089217385426,baseline_ingenuo
+produto_uf,REGIAO,SOJA,NORDESTE,producao_mil_t,2025/26,17516.100000000002,18592.1,5.787404327644518,baseline_ingenuo
+produto_uf,REGIAO,SOJA,NORTE,producao_mil_t,2025/26,13094.1,14351.1,8.758910466793486,baseline_ingenuo
+produto_uf,REGIAO,SOJA,SUDESTE,producao_mil_t,2025/26,14463.9,14258.8,1.4384099643728812,baseline_ingenuo
+produto_uf,REGIAO,SOJA,SUL,producao_mil_t,2025/26,39828.1,44984.7,11.463008534012673,baseline_ingenuo
+produto_uf,REGIAO,SORGO,CENTRO-OESTE,producao_mil_t,2025/26,2592.7000000000003,2826.0,8.255484784147194,baseline_ingenuo
+produto_uf,REGIAO,SORGO,NORDESTE,producao_mil_t,2025/26,1222.2,1334.8,8.43572070722205,baseline_ingenuo
+produto_uf,REGIAO,SORGO,NORTE,producao_mil_t,2025/26,356.0,403.4,11.750123946455126,baseline_ingenuo
+produto_uf,REGIAO,SORGO,SUDESTE,producao_mil_t,2025/26,1930.2,2113.7,8.68145905284571,baseline_ingenuo
+produto_uf,REGIAO,SORGO,SUL,producao_mil_t,2025/26,1.1,16.6,93.37349397590361,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,CENTRO-OESTE,producao_mil_t,2025/26,303.8,298.6,1.741460147354316,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,NORDESTE,producao_mil_t,2025/26,30.0,30.0,0.0,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,NORTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,SUDESTE,producao_mil_t,2025/26,778.5999999999999,737.0,5.6445047489823486,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,SUL,producao_mil_t,2025/26,6761.0,5839.2,15.786409097136596,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,CENTRO-OESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,NORDESTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,NORTE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,SUDESTE,producao_mil_t,2025/26,5.0,4.9,2.0408163265306047,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,SUL,producao_mil_t,2025/26,31.6,28.7,10.104529616724745,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,ALGODÃO - CAROÇO (1),BRASIL,producao_mil_t,2025/26,5782.799999999999,5394.4,7.200059320777095,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,ALGODÃO - PLUMA,BRASIL,producao_mil_t,2025/26,4076.1,3803.0,7.181172758348669,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,AMENDOIM TOTAL,BRASIL,producao_mil_t,2025/26,1159.6999999999998,1203.3,3.623369068395258,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,ARROZ,BRASIL,producao_mil_t,2025/26,12757.7,10914.6,16.886555622743852,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,AVEIA,BRASIL,producao_mil_t,2025/26,1292.3000000000002,1146.7,12.697305310892137,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,CANOLA,BRASIL,producao_mil_t,2025/26,344.8,446.5,22.777155655095182,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,CENTEIO,BRASIL,producao_mil_t,2025/26,5.0,4.7,6.382978723404251,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,CEVADA,BRASIL,producao_mil_t,2025/26,606.6,584.3000000000001,3.8165326031148297,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,FEIJÃO TOTAL,BRASIL,producao_mil_t,2025/26,3059.9,2966.1,3.162401807086753,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,GERGELIM,BRASIL,producao_mil_t,2025/26,399.4,399.4,0.0,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,GIRASSOL,BRASIL,producao_mil_t,2025/26,100.4,102.5,2.0487804878048728,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,MAMONA,BRASIL,producao_mil_t,2025/26,100.02,147.32000000000002,32.106978007059475,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,MILHO TOTAL,BRASIL,producao_mil_t,2025/26,141157.6,138448.2,1.9569774110461484,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,SOJA,BRASIL,producao_mil_t,2025/26,171480.5,177985.0,3.654521448436666,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,SORGO,BRASIL,producao_mil_t,2025/26,6102.200000000001,6694.5,8.847561431025458,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,TRIGO,BRASIL,producao_mil_t,2025/26,7873.4,6904.799999999999,14.027922604564946,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,TRITICALE,BRASIL,producao_mil_t,2025/26,36.6,33.6,8.928571428571429,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),BA,producao_mil_t,2025/26,1157.6999999999998,1109.3,4.363111872351921,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),CE,producao_mil_t,2025/26,2.8,3.2,12.50000000000001,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),DF,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),GO,producao_mil_t,2025/26,82.89999999999999,81.9,1.2210012210012036,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MA,producao_mil_t,2025/26,85.7,76.39999999999999,12.172774869109963,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MG,producao_mil_t,2025/26,110.4,113.8,2.987697715289975,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MS,producao_mil_t,2025/26,97.8,93.7,4.375667022411947,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MT,producao_mil_t,2025/26,4070.500000000001,3743.7,8.729331944333175,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PA,producao_mil_t,2025/26,0.5,0.5,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PB,producao_mil_t,2025/26,0.1999999999999999,0.3,33.333333333333364,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PI,producao_mil_t,2025/26,91.1,87.39999999999999,4.233409610983985,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PR,producao_mil_t,2025/26,2.8,2.8,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RN,producao_mil_t,2025/26,1.4,1.2,16.666666666666664,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RO,producao_mil_t,2025/26,24.6,22.9,7.423580786026214,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),SP,producao_mil_t,2025/26,16.5,16.5,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),TO,producao_mil_t,2025/26,37.900000000000006,40.8,7.107843137254881,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,BA,producao_mil_t,2025/26,838.4,803.3,4.3694759118635655,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,CE,producao_mil_t,2025/26,1.5,1.7,11.764705882352938,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,DF,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,GO,producao_mil_t,2025/26,55.2,54.6,1.0989010989011014,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MA,producao_mil_t,2025/26,59.3,52.8,12.31060606060606,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MG,producao_mil_t,2025/26,79.0,81.5,3.067484662576687,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MS,producao_mil_t,2025/26,70.8,67.8,4.424778761061947,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MT,producao_mil_t,2025/26,2852.1,2623.2,8.725983531564506,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PA,producao_mil_t,2025/26,0.3,0.3,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PB,producao_mil_t,2025/26,0.1,0.2,50.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PI,producao_mil_t,2025/26,63.3,60.7,4.2833607907742905,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PR,producao_mil_t,2025/26,2.0,2.0,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RN,producao_mil_t,2025/26,0.8,0.8,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RO,producao_mil_t,2025/26,15.0,14.0,7.142857142857142,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,SP,producao_mil_t,2025/26,13.0,13.0,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,TO,producao_mil_t,2025/26,25.3,27.1,6.642066420664208,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,BA,producao_mil_t,2025/26,2.8,2.7,3.7037037037036904,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,CE,producao_mil_t,2025/26,0.5,0.5,0.0,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,DF,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,GO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MG,producao_mil_t,2025/26,52.0,57.4,9.407665505226479,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MS,producao_mil_t,2025/26,173.7,180.6,3.8205980066445218,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MT,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PB,producao_mil_t,2025/26,0.5,0.5,0.0,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PI,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PR,producao_mil_t,2025/26,6.3,4.3,46.51162790697674,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,SP,producao_mil_t,2025/26,920.3,953.3,3.4616594985838667,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,TO,producao_mil_t,2025/26,3.6,4.0,9.999999999999998,baseline_ingenuo
+produto_uf,UF,ARROZ,AC,producao_mil_t,2025/26,4.7,4.4,6.818181818181814,baseline_ingenuo
+produto_uf,UF,ARROZ,AL,producao_mil_t,2025/26,18.7,19.8,5.5555555555555625,baseline_ingenuo
+produto_uf,UF,ARROZ,AM,producao_mil_t,2025/26,15.0,20.5,26.82926829268293,baseline_ingenuo
+produto_uf,UF,ARROZ,AP,producao_mil_t,2025/26,0.9,0.6,50.000000000000014,baseline_ingenuo
+produto_uf,UF,ARROZ,BA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ARROZ,CE,producao_mil_t,2025/26,10.3,11.2,8.035714285714274,baseline_ingenuo
+produto_uf,UF,ARROZ,DF,producao_mil_t,2025/26,2.5,2.5,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,ES,producao_mil_t,2025/26,0.4,0.4,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,GO,producao_mil_t,2025/26,155.2,129.0,20.310077519379835,baseline_ingenuo
+produto_uf,UF,ARROZ,MA,producao_mil_t,2025/26,279.5,222.4,25.674460431654673,baseline_ingenuo
+produto_uf,UF,ARROZ,MG,producao_mil_t,2025/26,87.30000000000001,64.8,34.72222222222224,baseline_ingenuo
+produto_uf,UF,ARROZ,MS,producao_mil_t,2025/26,94.4,60.6,55.77557755775578,baseline_ingenuo
+produto_uf,UF,ARROZ,MT,producao_mil_t,2025/26,537.1,334.6,60.52002390914525,baseline_ingenuo
+produto_uf,UF,ARROZ,PA,producao_mil_t,2025/26,111.2,112.6,1.24333925399644,baseline_ingenuo
+produto_uf,UF,ARROZ,PB,producao_mil_t,2025/26,3.5,4.7,25.531914893617024,baseline_ingenuo
+produto_uf,UF,ARROZ,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ARROZ,PI,producao_mil_t,2025/26,99.3,89.5,10.949720670391057,baseline_ingenuo
+produto_uf,UF,ARROZ,PR,producao_mil_t,2025/26,136.5,140.7,2.985074626865664,baseline_ingenuo
+produto_uf,UF,ARROZ,RJ,producao_mil_t,2025/26,0.8,0.9,11.111111111111107,baseline_ingenuo
+produto_uf,UF,ARROZ,RN,producao_mil_t,2025/26,1.1,1.3,15.38461538461538,baseline_ingenuo
+produto_uf,UF,ARROZ,RO,producao_mil_t,2025/26,162.4,92.4,75.75757575757575,baseline_ingenuo
+produto_uf,UF,ARROZ,RR,producao_mil_t,2025/26,100.1,99.0,1.1111111111111054,baseline_ingenuo
+produto_uf,UF,ARROZ,RS,producao_mil_t,2025/26,8733.2,7543.9,15.76505521016982,baseline_ingenuo
+produto_uf,UF,ARROZ,SC,producao_mil_t,2025/26,1275.0,1225.1,4.07313688678476,baseline_ingenuo
+produto_uf,UF,ARROZ,SE,producao_mil_t,2025/26,51.0,49.9,2.2044088176352736,baseline_ingenuo
+produto_uf,UF,ARROZ,SP,producao_mil_t,2025/26,55.1,54.4,1.2867647058823584,baseline_ingenuo
+produto_uf,UF,ARROZ,TO,producao_mil_t,2025/26,822.5,629.4,30.680012710517957,baseline_ingenuo
+produto_uf,UF,AVEIA,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,BA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,CE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,DF,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,GO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,MA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,MG,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,MS,producao_mil_t,2025/26,64.2,54.5,17.798165137614685,baseline_ingenuo
+produto_uf,UF,AVEIA,MT,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PI,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PR,producao_mil_t,2025/26,242.9,223.0,8.9237668161435,baseline_ingenuo
+produto_uf,UF,AVEIA,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RS,producao_mil_t,2025/26,985.2,869.2,13.34560515416475,baseline_ingenuo
+produto_uf,UF,AVEIA,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,SP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,TO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,BA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,CE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,DF,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,GO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MG,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MT,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PI,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PR,producao_mil_t,2025/26,4.6,3.4,35.29411764705881,baseline_ingenuo
+produto_uf,UF,CANOLA,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RS,producao_mil_t,2025/26,340.2,443.1,23.222748815165883,baseline_ingenuo
+produto_uf,UF,CANOLA,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,SP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,TO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,BA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,CE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,DF,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,GO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MG,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MT,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PI,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PR,producao_mil_t,2025/26,5.0,4.7,6.382978723404251,baseline_ingenuo
+produto_uf,UF,CENTEIO,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,SP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,TO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,BA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,CE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,DF,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,GO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MG,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MT,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PI,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PR,producao_mil_t,2025/26,483.3,469.5,2.939297124600641,baseline_ingenuo
+produto_uf,UF,CEVADA,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RS,producao_mil_t,2025/26,110.2,101.7,8.357915437561456,baseline_ingenuo
+produto_uf,UF,CEVADA,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,SP,producao_mil_t,2025/26,13.1,13.1,0.0,baseline_ingenuo
+produto_uf,UF,CEVADA,TO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AC,producao_mil_t,2025/26,3.0,3.0,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AL,producao_mil_t,2025/26,12.7,12.2,4.0983606557377055,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AM,producao_mil_t,2025/26,1.6,1.6,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AP,producao_mil_t,2025/26,1.0,1.0,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,BA,producao_mil_t,2025/26,290.9,358.8,18.924191750278716,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,CE,producao_mil_t,2025/26,52.9,52.4,0.9541984732824428,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,DF,producao_mil_t,2025/26,39.0,38.2,2.0942408376963275,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,ES,producao_mil_t,2025/26,9.0,9.7,7.216494845360819,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,GO,producao_mil_t,2025/26,289.9,287.8,0.7296733842946372,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MA,producao_mil_t,2025/26,31.8,31.1,2.250803858520898,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MG,producao_mil_t,2025/26,462.8,499.7,7.384430658395033,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MS,producao_mil_t,2025/26,10.1,11.9,15.126050420168072,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MT,producao_mil_t,2025/26,302.7,287.5,5.286956521739127,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PA,producao_mil_t,2025/26,12.4,15.9,22.0125786163522,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PB,producao_mil_t,2025/26,30.2,38.9,22.36503856041131,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PE,producao_mil_t,2025/26,123.0,116.1,5.943152454780367,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PI,producao_mil_t,2025/26,53.6,73.3,26.875852660300133,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PR,producao_mil_t,2025/26,860.7,656.4,31.124314442413176,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RJ,producao_mil_t,2025/26,1.4,1.4,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RN,producao_mil_t,2025/26,7.7,7.5,2.6666666666666687,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RO,producao_mil_t,2025/26,2.1,2.2,4.545454545454549,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RR,producao_mil_t,2025/26,3.3,3.3,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RS,producao_mil_t,2025/26,73.5,73.6,0.13586956521738358,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,SC,producao_mil_t,2025/26,113.1,105.3,7.407407407407404,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,SE,producao_mil_t,2025/26,1.2,1.8,33.333333333333336,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,SP,producao_mil_t,2025/26,176.8,182.0,2.857142857142851,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,TO,producao_mil_t,2025/26,93.5,93.5,0.0,baseline_ingenuo
+produto_uf,UF,GERGELIM,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,BA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,CE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,DF,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,GO,producao_mil_t,2025/26,2.0,2.0,0.0,baseline_ingenuo
+produto_uf,UF,GERGELIM,MA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,MG,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,MS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,MT,producao_mil_t,2025/26,288.9,288.9,0.0,baseline_ingenuo
+produto_uf,UF,GERGELIM,PA,producao_mil_t,2025/26,57.1,57.1,0.0,baseline_ingenuo
+produto_uf,UF,GERGELIM,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,PI,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,PR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,SP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,TO,producao_mil_t,2025/26,51.4,51.4,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,BA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,CE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,DF,producao_mil_t,2025/26,1.3,1.3,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,GO,producao_mil_t,2025/26,74.2,72.3,2.627939142461972,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MG,producao_mil_t,2025/26,9.9,9.9,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MS,producao_mil_t,2025/26,1.4,1.4,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MT,producao_mil_t,2025/26,6.2,6.2,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PI,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RS,producao_mil_t,2025/26,7.4,11.4,35.08771929824561,baseline_ingenuo
+produto_uf,UF,GIRASSOL,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,SP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,TO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,BA,producao_mil_t,2025/26,100.0,147.3,32.11133740665309,baseline_ingenuo
+produto_uf,UF,MAMONA,CE,producao_mil_t,2025/26,0.02,0.02,0.0,baseline_ingenuo
+produto_uf,UF,MAMONA,DF,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,GO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MG,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MT,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PI,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,SP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,TO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AC,producao_mil_t,2025/26,139.7,147.1,5.030591434398373,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AL,producao_mil_t,2025/26,163.2,102.0,59.999999999999986,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AM,producao_mil_t,2025/26,24.9,25.2,1.1904761904761934,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AP,producao_mil_t,2025/26,1.9,2.0,5.000000000000004,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,BA,producao_mil_t,2025/26,2802.9,2718.4,3.1084461447910536,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,CE,producao_mil_t,2025/26,275.4,499.1,44.8206772189942,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,DF,producao_mil_t,2025/26,415.6,396.6,4.7907211296016134,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,ES,producao_mil_t,2025/26,61.9,58.0,6.724137931034481,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,GO,producao_mil_t,2025/26,14266.2,13545.5,5.3205861725296275,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MA,producao_mil_t,2025/26,3412.4,3051.7,11.819641511288799,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MG,producao_mil_t,2025/26,6591.3,7143.1,7.724937352130029,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MS,producao_mil_t,2025/26,13301.9,12337.9,7.813323174932525,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MT,producao_mil_t,2025/26,55536.2,54186.3,2.491220105450998,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PA,producao_mil_t,2025/26,2154.5,2050.4,5.077058134998044,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PB,producao_mil_t,2025/26,52.6,75.6,30.423280423280417,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PE,producao_mil_t,2025/26,225.7,224.3,0.6241640659830483,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PI,producao_mil_t,2025/26,1920.6,1761.3,9.044455799693406,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PR,producao_mil_t,2025/26,20197.3,20374.2,0.8682549498876101,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RJ,producao_mil_t,2025/26,7.0,6.6,6.060606060606066,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RN,producao_mil_t,2025/26,20.6,31.9,35.423197492163,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RO,producao_mil_t,2025/26,2601.4,2759.5,5.729298786011956,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RR,producao_mil_t,2025/26,120.0,120.0,0.0,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RS,producao_mil_t,2025/26,5430.6,5426.4,0.07739938080496697,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,SC,producao_mil_t,2025/26,3111.5,3112.6,0.03534023003276711,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,SE,producao_mil_t,2025/26,1259.7,1108.8,13.609307359307369,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,SP,producao_mil_t,2025/26,4399.6,4415.9,0.3691206775515586,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,TO,producao_mil_t,2025/26,2663.0,2767.8,3.786400751499392,baseline_ingenuo
+produto_uf,UF,SOJA,AC,producao_mil_t,2025/26,64.3,83.2,22.71634615384616,baseline_ingenuo
+produto_uf,UF,SOJA,AL,producao_mil_t,2025/26,17.6,25.7,31.517509727626454,baseline_ingenuo
+produto_uf,UF,SOJA,AM,producao_mil_t,2025/26,45.0,54.2,16.97416974169742,baseline_ingenuo
+produto_uf,UF,SOJA,AP,producao_mil_t,2025/26,26.2,31.8,17.610062893081764,baseline_ingenuo
+produto_uf,UF,SOJA,BA,producao_mil_t,2025/26,8845.7,9244.7,4.315986457105152,baseline_ingenuo
+produto_uf,UF,SOJA,CE,producao_mil_t,2025/26,14.2,13.4,5.970149253731335,baseline_ingenuo
+produto_uf,UF,SOJA,DF,producao_mil_t,2025/26,339.2,355.2,4.504504504504505,baseline_ingenuo
+produto_uf,UF,SOJA,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SOJA,GO,producao_mil_t,2025/26,20725.5,19879.9,4.253542522849705,baseline_ingenuo
+produto_uf,UF,SOJA,MA,producao_mil_t,2025/26,4858.3,5224.5,7.009283184993775,baseline_ingenuo
+produto_uf,UF,SOJA,MG,producao_mil_t,2025/26,9186.5,8980.8,2.290441831462684,baseline_ingenuo
+produto_uf,UF,SOJA,MS,producao_mil_t,2025/26,14202.1,15710.4,9.600646705367142,baseline_ingenuo
+produto_uf,UF,SOJA,MT,producao_mil_t,2025/26,51311.5,49852.8,2.9260141857628796,baseline_ingenuo
+produto_uf,UF,SOJA,PA,producao_mil_t,2025/26,4496.8,5000.1,10.065798684026323,baseline_ingenuo
+produto_uf,UF,SOJA,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SOJA,PE,producao_mil_t,2025/26,2.4,2.4,0.0,baseline_ingenuo
+produto_uf,UF,SOJA,PI,producao_mil_t,2025/26,3777.9,4081.4,7.436173861910128,baseline_ingenuo
+produto_uf,UF,SOJA,PR,producao_mil_t,2025/26,19978.6,20476.6,2.432044382368167,baseline_ingenuo
+produto_uf,UF,SOJA,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SOJA,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SOJA,RO,producao_mil_t,2025/26,2639.2,2686.9,1.7752800625255971,baseline_ingenuo
+produto_uf,UF,SOJA,RR,producao_mil_t,2025/26,468.9,479.4,2.1902377972465583,baseline_ingenuo
+produto_uf,UF,SOJA,RS,producao_mil_t,2025/26,16625.2,21389.8,22.275103086517866,baseline_ingenuo
+produto_uf,UF,SOJA,SC,producao_mil_t,2025/26,3224.3,3118.3,3.399288073629862,baseline_ingenuo
+produto_uf,UF,SOJA,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SOJA,SP,producao_mil_t,2025/26,5277.4,5278.0,0.011367942402432054,baseline_ingenuo
+produto_uf,UF,SOJA,TO,producao_mil_t,2025/26,5353.7,6015.5,11.001579253594883,baseline_ingenuo
+produto_uf,UF,SORGO,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,BA,producao_mil_t,2025/26,782.0,798.3,2.041838907678812,baseline_ingenuo
+produto_uf,UF,SORGO,CE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,DF,producao_mil_t,2025/26,104.3,86.7,20.299884659746244,baseline_ingenuo
+produto_uf,UF,SORGO,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,GO,producao_mil_t,2025/26,1581.2,1697.2,6.834786707518266,baseline_ingenuo
+produto_uf,UF,SORGO,MA,producao_mil_t,2025/26,124.7,197.2,36.764705882352935,baseline_ingenuo
+produto_uf,UF,SORGO,MG,producao_mil_t,2025/26,1484.7,1571.3,5.511360020365297,baseline_ingenuo
+produto_uf,UF,SORGO,MS,producao_mil_t,2025/26,564.6,653.4,13.590449954086312,baseline_ingenuo
+produto_uf,UF,SORGO,MT,producao_mil_t,2025/26,342.6,388.7,11.860046308206835,baseline_ingenuo
+produto_uf,UF,SORGO,PA,producao_mil_t,2025/26,209.5,233.6,10.316780821917806,baseline_ingenuo
+produto_uf,UF,SORGO,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,PI,producao_mil_t,2025/26,315.5,339.3,7.014441497200121,baseline_ingenuo
+produto_uf,UF,SORGO,PR,producao_mil_t,2025/26,1.1,1.1,0.0,baseline_ingenuo
+produto_uf,UF,SORGO,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,RS,producao_mil_t,2025/26,0.0,15.5,100.0,baseline_ingenuo
+produto_uf,UF,SORGO,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,SP,producao_mil_t,2025/26,445.5,542.4,17.865044247787605,baseline_ingenuo
+produto_uf,UF,SORGO,TO,producao_mil_t,2025/26,146.5,169.8,13.722025912838639,baseline_ingenuo
+produto_uf,UF,TRIGO,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,BA,producao_mil_t,2025/26,30.0,30.0,0.0,baseline_ingenuo
+produto_uf,UF,TRIGO,CE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,DF,producao_mil_t,2025/26,29.6,31.6,6.329113924050632,baseline_ingenuo
+produto_uf,UF,TRIGO,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,GO,producao_mil_t,2025/26,188.0,187.5,0.26666666666666666,baseline_ingenuo
+produto_uf,UF,TRIGO,MA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,MG,producao_mil_t,2025/26,423.7,385.9,9.79528375226743,baseline_ingenuo
+produto_uf,UF,TRIGO,MS,producao_mil_t,2025/26,86.2,79.5,8.427672955974847,baseline_ingenuo
+produto_uf,UF,TRIGO,MT,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PI,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PR,producao_mil_t,2025/26,2770.7,2430.0,14.020576131687235,baseline_ingenuo
+produto_uf,UF,TRIGO,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RS,producao_mil_t,2025/26,3582.9,3034.2,18.083844176389174,baseline_ingenuo
+produto_uf,UF,TRIGO,SC,producao_mil_t,2025/26,407.4,375.0,8.639999999999993,baseline_ingenuo
+produto_uf,UF,TRIGO,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,SP,producao_mil_t,2025/26,354.9,351.1,1.082312731415538,baseline_ingenuo
+produto_uf,UF,TRIGO,TO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AL,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AM,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AP,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,BA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,CE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,DF,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,ES,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,GO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MG,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MS,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MT,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PA,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PB,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PI,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PR,producao_mil_t,2025/26,20.5,18.7,9.625668449197864,baseline_ingenuo
+produto_uf,UF,TRITICALE,RJ,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RN,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RR,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RS,producao_mil_t,2025/26,11.1,10.0,10.999999999999996,baseline_ingenuo
+produto_uf,UF,TRITICALE,SC,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,SE,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,SP,producao_mil_t,2025/26,5.0,4.9,2.0408163265306047,baseline_ingenuo
+produto_uf,UF,TRITICALE,TO,producao_mil_t,2025/26,0.0,0.0,,baseline_ingenuo
+uf,AGREGADO_REGIONAL,TODAS,CENTRO-SUL,producao_mil_t,2025/26,298183.1,297443.6,0.24861856163655902,baseline_ingenuo
+uf,AGREGADO_REGIONAL,TODAS,NORTE/NORDESTE,producao_mil_t,2025/26,54075.82,55932.32,3.3191900496886237,baseline_ingenuo
+uf,REGIAO,TODAS,CENTRO-OESTE,producao_mil_t,2025/26,179288.7,175067.8,2.4110087634619406,baseline_ingenuo
+uf,REGIAO,TODAS,NORDESTE,producao_mil_t,2025/26,31411.52,32049.72,1.9912810470731124,baseline_ingenuo
+uf,REGIAO,TODAS,NORTE,producao_mil_t,2025/26,22664.3,23882.6,5.101203386565949,baseline_ingenuo
+uf,REGIAO,TODAS,SUDESTE,producao_mil_t,2025/26,30153.3,30715.3,1.8297070189775129,baseline_ingenuo
+uf,REGIAO,TODAS,SUL,producao_mil_t,2025/26,88741.1,91660.5,3.1850142645959756,baseline_ingenuo
+uf,TOTAL_BRASIL,TODAS,BRASIL,producao_mil_t,2025/26,352258.92,353375.92,0.3160939772013894,baseline_ingenuo
+uf,UF,TODAS,AC,producao_mil_t,2025/26,211.7,237.7,10.93815734118637,baseline_ingenuo
+uf,UF,TODAS,AL,producao_mil_t,2025/26,212.2,159.7,32.87413901064496,baseline_ingenuo
+uf,UF,TODAS,AM,producao_mil_t,2025/26,86.5,101.5,14.77832512315271,baseline_ingenuo
+uf,UF,TODAS,AP,producao_mil_t,2025/26,30.0,35.4,15.254237288135588,baseline_ingenuo
+uf,UF,TODAS,BA,producao_mil_t,2025/26,14012.0,14409.5,2.7585967590825495,baseline_ingenuo
+uf,UF,TODAS,CE,producao_mil_t,2025/26,356.12,579.82,38.58093891207617,baseline_ingenuo
+uf,UF,TODAS,DF,producao_mil_t,2025/26,931.5,912.1,2.126959763183859,baseline_ingenuo
+uf,UF,TODAS,ES,producao_mil_t,2025/26,71.3,68.1,4.698972099853162,baseline_ingenuo
+uf,UF,TODAS,GO,producao_mil_t,2025/26,37365.1,35883.1,4.130077947557485,baseline_ingenuo
+uf,UF,TODAS,MA,producao_mil_t,2025/26,8792.4,8803.3,0.12381720491179031,baseline_ingenuo
+uf,UF,TODAS,MG,producao_mil_t,2025/26,18408.6,18826.7,2.2207821870003888,baseline_ingenuo
+uf,UF,TODAS,MS,producao_mil_t,2025/26,28596.4,29183.9,2.0130962619800643,baseline_ingenuo
+uf,UF,TODAS,MT,producao_mil_t,2025/26,112395.7,109088.7,3.0314780540972626,baseline_ingenuo
+uf,UF,TODAS,PA,producao_mil_t,2025/26,7042.0,7470.2,5.732108912746645,baseline_ingenuo
+uf,UF,TODAS,PB,producao_mil_t,2025/26,87.0,120.0,27.500000000000004,baseline_ingenuo
+uf,UF,TODAS,PE,producao_mil_t,2025/26,351.1,342.8,2.421236872812139,baseline_ingenuo
+uf,UF,TODAS,PI,producao_mil_t,2025/26,6258.0,6432.2,2.7082491216069124,baseline_ingenuo
+uf,UF,TODAS,PR,producao_mil_t,2025/26,44710.3,44805.4,0.21225120186405777,baseline_ingenuo
+uf,UF,TODAS,RJ,producao_mil_t,2025/26,9.2,8.9,3.370786516853921,baseline_ingenuo
+uf,UF,TODAS,RN,producao_mil_t,2025/26,30.8,41.9,26.491646778042956,baseline_ingenuo
+uf,UF,TODAS,RO,producao_mil_t,2025/26,5429.7,5563.9,2.411977210230231,baseline_ingenuo
+uf,UF,TODAS,RR,producao_mil_t,2025/26,692.3,701.7,1.3396038192960082,baseline_ingenuo
+uf,UF,TODAS,RS,producao_mil_t,2025/26,35899.5,38918.8,7.7579473159501395,baseline_ingenuo
+uf,UF,TODAS,SC,producao_mil_t,2025/26,8131.3,7936.3,2.457064375086627,baseline_ingenuo
+uf,UF,TODAS,SE,producao_mil_t,2025/26,1311.9,1160.5,13.046100818612674,baseline_ingenuo
+uf,UF,TODAS,SP,producao_mil_t,2025/26,11664.2,11811.6,1.2479257678891904,baseline_ingenuo
+uf,UF,TODAS,TO,producao_mil_t,2025/26,9172.1,9772.2,6.1408894619430665,baseline_ingenuo
+produto,AGREGADO_PRODUTO,BRASIL (2),BRASIL,produtividade_kg_ha,2025/26,4310.0,4244.0,1.5551366635249764,baseline_ingenuo
+produto,AGREGADO_PRODUTO,SUBTOTAL,BRASIL,produtividade_kg_ha,2025/26,3027.0,2792.0,8.416905444126074,baseline_ingenuo
+produto,PRODUTO,ALGODÃO - CAROÇO (1),BRASIL,produtividade_kg_ha,2025/26,2772.6614827387803,2673.0141672860614,3.727900759833676,baseline_ingenuo
+produto,PRODUTO,ALGODÃO - PLUMA,BRASIL,produtividade_kg_ha,2025/26,1954.4456806674336,1884.4851637679003,3.712447210762436,baseline_ingenuo
+produto,PRODUTO,AMENDOIM 1ª SAFRA,BRASIL,produtividade_kg_ha,2025/26,4202.068473086781,4347.806569343065,3.3519912611545903,baseline_ingenuo
+produto,PRODUTO,AMENDOIM 2ª SAFRA,BRASIL,produtividade_kg_ha,2025/26,1662.2876712328766,1667.7397260273974,0.3269128095609821,baseline_ingenuo
+produto,PRODUTO,AMENDOIM TOTAL,BRASIL,produtividade_kg_ha,2025/26,4135.947218259628,4278.256309989335,3.326333941176646,baseline_ingenuo
+produto,PRODUTO,ARROZ,BRASIL,produtividade_kg_ha,2025/26,7232.554226430069,6996.99743573306,3.366541046507191,baseline_ingenuo
+produto,PRODUTO,ARROZ IRRIGADO,BRASIL,produtividade_kg_ha,2025/26,8471.10771927262,7987.767782261255,6.051001358411262,baseline_ingenuo
+produto,PRODUTO,ARROZ SEQUEIRO,BRASIL,produtividade_kg_ha,2025/26,2934.65433350228,2766.475,6.079192239303819,baseline_ingenuo
+produto,PRODUTO,AVEIA,BRASIL,produtividade_kg_ha,2025/26,2368.0,2253.0,5.104305370616955,baseline_ingenuo
+produto,PRODUTO,CANOLA,BRASIL,produtividade_kg_ha,2025/26,1627.0,1620.0,0.43209876543209874,baseline_ingenuo
+produto,PRODUTO,CAUPI,BRASIL,produtividade_kg_ha,2025/26,721.2260273972603,694.6872586872588,3.8202469353117876,baseline_ingenuo
+produto,PRODUTO,CENTEIO,BRASIL,produtividade_kg_ha,2025/26,2381.0,2238.0,6.389633601429848,baseline_ingenuo
+produto,PRODUTO,CEVADA,BRASIL,produtividade_kg_ha,2025/26,4358.0,3898.0,11.800923550538737,baseline_ingenuo
+produto,PRODUTO,CORES,BRASIL,produtividade_kg_ha,2025/26,1881.1016845329248,1801.9163434903048,4.39450706625138,baseline_ingenuo
+produto,PRODUTO,FEIJÃO 1ª SAFRA,BRASIL,produtividade_kg_ha,2025/26,1169.591084204733,1202.040785385858,2.699550761974231,baseline_ingenuo
+produto,PRODUTO,FEIJÃO 2ª SAFRA,BRASIL,produtividade_kg_ha,2025/26,952.5808156560246,946.8739956172388,0.6027011054481046,baseline_ingenuo
+produto,PRODUTO,FEIJÃO 3ª SAFRA,BRASIL,produtividade_kg_ha,2025/26,1726.4562955254944,1645.8824080580932,4.895482634295051,baseline_ingenuo
+produto,PRODUTO,FEIJÃO TOTAL,BRASIL,produtividade_kg_ha,2025/26,1136.2538804307464,1140.5752211028223,0.3788737991254574,baseline_ingenuo
+produto,PRODUTO,GERGELIM,BRASIL,produtividade_kg_ha,2025/26,656.7940789473683,656.7940789473683,0.0,baseline_ingenuo
+produto,PRODUTO,GIRASSOL,BRASIL,produtividade_kg_ha,2025/26,1622.1825525040383,1606.7570532915358,0.9600393028244336,baseline_ingenuo
+produto,PRODUTO,MAMONA,BRASIL,produtividade_kg_ha,2025/26,1437.1724137931035,1935.672798948752,25.75333937772851,baseline_ingenuo
+produto,PRODUTO,MILHO 1ª SAFRA,BRASIL,produtividade_kg_ha,2025/26,6609.654959444413,6602.901352721517,0.10228241135410857,baseline_ingenuo
+produto,PRODUTO,MILHO 2ª SAFRA,BRASIL,produtividade_kg_ha,2025/26,6496.067090067297,6106.075102966898,6.3869503817747715,baseline_ingenuo
+produto,PRODUTO,MILHO 3ª SAFRA,BRASIL,produtividade_kg_ha,2025/26,4713.612816879231,4228.086423953727,11.483360183339952,baseline_ingenuo
+produto,PRODUTO,MILHO TOTAL,BRASIL,produtividade_kg_ha,2025/26,6463.851909515524,6146.257586923323,5.167279732432782,baseline_ingenuo
+produto,PRODUTO,PRETO,BRASIL,produtividade_kg_ha,2025/26,1268.1134751773052,1145.4326241134752,10.71043800230334,baseline_ingenuo
+produto,PRODUTO,SOJA,BRASIL,produtividade_kg_ha,2025/26,3621.845888045688,3674.764064383992,1.440042827543399,baseline_ingenuo
+produto,PRODUTO,SORGO,BRASIL,produtividade_kg_ha,2025/26,3739.1359068627457,3670.833799418764,1.8606701140976887,baseline_ingenuo
+produto,PRODUTO,TRIGO,BRASIL,produtividade_kg_ha,2025/26,3219.0,2978.0,8.09267965077233,baseline_ingenuo
+produto,PRODUTO,TRITICALE,BRASIL,produtividade_kg_ha,2025/26,3211.0,2947.0,8.958262639972855,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),CENTRO-SUL,produtividade_kg_ha,2025/26,2775.858592066912,2659.6717172671783,4.368466756458052,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),NORTE/NORDESTE,produtividade_kg_ha,2025/26,2762.717300748916,2714.1344971682847,1.7899924867879133,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,CENTRO-SUL,produtividade_kg_ha,2025/26,1946.620434672412,1865.2606841241716,4.3618434270726505,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,NORTE/NORDESTE,produtividade_kg_ha,2025/26,1978.7850642491128,1943.7334235436888,1.8033152221830977,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,CENTRO-SUL,produtividade_kg_ha,2025/26,4180.842162554426,4325.781476121563,3.3505925892744752,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,NORTE/NORDESTE,produtividade_kg_ha,2025/26,1558.2291666666667,1597.4489795918366,2.455152773341839,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ARROZ,CENTRO-SUL,produtividade_kg_ha,2025/26,8156.57882335616,7820.634697217675,4.295612046142526,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ARROZ,NORTE/NORDESTE,produtividade_kg_ha,2025/26,4140.100295712175,4018.3506954720337,3.029840087808437,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AVEIA,CENTRO-SUL,produtividade_kg_ha,2025/26,2368.0,2253.0,5.104305370616955,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CANOLA,CENTRO-SUL,produtividade_kg_ha,2025/26,1627.0,1620.0,0.43209876543209874,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CENTEIO,CENTRO-SUL,produtividade_kg_ha,2025/26,2381.0,2238.0,6.389633601429848,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CEVADA,CENTRO-SUL,produtividade_kg_ha,2025/26,4358.0,3898.0,11.800923550538737,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,CENTRO-SUL,produtividade_kg_ha,2025/26,1837.2594454481189,1838.5428156748917,0.06980366276113793,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,NORTE/NORDESTE,produtividade_kg_ha,2025/26,507.7235720825411,568.5963198768628,10.705793489395871,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GERGELIM,CENTRO-SUL,produtividade_kg_ha,2025/26,717.8282329713721,717.8282329713721,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GERGELIM,NORTE/NORDESTE,produtividade_kg_ha,2025/26,534.8461538461538,534.8461538461538,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,CENTRO-SUL,produtividade_kg_ha,2025/26,1622.1825525040383,1606.7570532915358,0.9600393028244336,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,NORTE/NORDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MAMONA,CENTRO-SUL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MAMONA,NORTE/NORDESTE,produtividade_kg_ha,2025/26,1437.1724137931035,1935.672798948752,25.75333937772851,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,CENTRO-SUL,produtividade_kg_ha,2025/26,7126.539851596723,6740.179390057095,5.732198494739992,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,NORTE/NORDESTE,produtividade_kg_ha,2025/26,3934.564184569236,3814.7141763792606,3.1417821270093516,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SOJA,CENTRO-SUL,produtividade_kg_ha,2025/26,3614.88276472626,3679.3119081502455,1.7511193677618042,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SOJA,NORTE/NORDESTE,produtividade_kg_ha,2025/26,3654.23963183153,3654.87388916625,0.01735374062016731,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SORGO,CENTRO-SUL,produtividade_kg_ha,2025/26,3907.778526388529,3836.445313104729,1.859356968810067,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SORGO,NORTE/NORDESTE,produtividade_kg_ha,2025/26,3327.5028462998102,3268.514291086875,1.8047513322427593,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRIGO,CENTRO-SUL,produtividade_kg_ha,2025/26,3213.0,2972.0,8.109017496635262,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRIGO,NORTE/NORDESTE,produtividade_kg_ha,2025/26,6000.0,6000.0,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRITICALE,CENTRO-SUL,produtividade_kg_ha,2025/26,3211.0,2947.0,8.958262639972855,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),CENTRO-OESTE,produtividade_kg_ha,2025/26,2789.4679265091863,2661.8885867970657,4.792812905277574,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORDESTE,produtividade_kg_ha,2025/26,2766.8171688365364,2717.5752126754574,1.8119813549741757,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORTE,produtividade_kg_ha,2025/26,2678.294910638298,2647.2822479338847,1.1714906005439214,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUDESTE,produtividade_kg_ha,2025/26,2412.146577946768,2622.6366277665998,8.025894536487202,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUL,produtividade_kg_ha,2025/26,1770.0,1770.0,0.0,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,CENTRO-OESTE,produtividade_kg_ha,2025/26,1954.1812860892387,1864.733390926379,4.796819513079192,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORDESTE,produtividade_kg_ha,2025/26,1990.9294730316185,1955.589185452999,1.807142719007892,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORTE,produtividade_kg_ha,2025/26,1728.7136,1713.378909090909,0.8949970626886822,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUDESTE,produtividade_kg_ha,2025/26,1749.3553231939163,1901.3331911468813,7.993226471857473,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUL,produtividade_kg_ha,2025/26,1230.0,1230.0,0.0,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,CENTRO-OESTE,produtividade_kg_ha,2025/26,3992.0,3969.0,0.5794910556815319,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,NORDESTE,produtividade_kg_ha,2025/26,994.7435897435896,981.4102564102564,1.3585891574134474,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,NORTE,produtividade_kg_ha,2025/26,4000.0,4000.0,0.0,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,SUDESTE,produtividade_kg_ha,2025/26,4227.44,4405.941586748038,4.051383415634165,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,SUL,produtividade_kg_ha,2025/26,2989.0,2889.0,3.4614053305642094,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,CENTRO-OESTE,produtividade_kg_ha,2025/26,4157.660695468915,4230.666666666667,1.725637516492718,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,NORDESTE,produtividade_kg_ha,2025/26,2788.1046931407946,2820.965346534653,1.1648726360366357,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,NORTE,produtividade_kg_ha,2025/26,5077.920283806345,4879.980661577609,4.056155873469091,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,SUDESTE,produtividade_kg_ha,2025/26,4709.596721311475,4872.61943319838,3.345689400165127,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,SUL,produtividade_kg_ha,2025/26,8916.0511513447,8305.130406413125,7.355944037432917,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,CENTRO-OESTE,produtividade_kg_ha,2025/26,1589.0,1427.0,11.352487736510161,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,NORDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,NORTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,SUDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,SUL,produtividade_kg_ha,2025/26,2430.0,2320.0,4.741379310344827,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,CENTRO-OESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,NORDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,NORTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,SUDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,SUL,produtividade_kg_ha,2025/26,1627.0,1620.0,0.43209876543209874,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,CENTRO-OESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,NORDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,NORTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,SUDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,SUL,produtividade_kg_ha,2025/26,2381.0,2238.0,6.389633601429848,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,CENTRO-OESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,NORDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,NORTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,SUDESTE,produtividade_kg_ha,2025/26,3195.0,3195.0,0.0,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,SUL,produtividade_kg_ha,2025/26,4393.0,3918.0,12.123532414497193,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,CENTRO-OESTE,produtividade_kg_ha,2025/26,2111.106907894737,2089.5115268960903,1.0335133700231882,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,NORDESTE,produtividade_kg_ha,2025/26,460.2230265163061,527.8137399923751,12.805788927936094,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,NORTE,produtividade_kg_ha,2025/26,1087.6279069767445,1022.6400679117148,6.3549083498887615,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,SUDESTE,produtividade_kg_ha,2025/26,1737.6943850267376,1847.0583844308185,5.920982267043066,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,SUL,produtividade_kg_ha,2025/26,1759.9408502772644,1680.947474340914,4.699336364886903,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,CENTRO-OESTE,produtividade_kg_ha,2025/26,717.8282329713721,717.8282329713721,0.0,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,NORDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,NORTE,produtividade_kg_ha,2025/26,534.8461538461538,534.8461538461538,0.0,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,SUDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,SUL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,CENTRO-OESTE,produtividade_kg_ha,2025/26,1589.5430210325044,1553.5965583173993,2.313757875084147,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,NORDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,NORTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,SUDESTE,produtividade_kg_ha,2025/26,1800.0,1800.0,0.0,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,SUL,produtividade_kg_ha,2025/26,1800.0,1893.0,4.91283676703645,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,CENTRO-OESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,NORDESTE,produtividade_kg_ha,2025/26,1437.1724137931035,1935.672798948752,25.75333937772851,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,NORTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,SUDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,SUL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,CENTRO-OESTE,produtividade_kg_ha,2025/26,7329.969642716095,6869.889293001733,6.697056241983991,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,NORDESTE,produtividade_kg_ha,2025/26,3395.807339142092,3311.220815606516,2.554541912061585,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,NORTE,produtividade_kg_ha,2025/26,4971.8918570138085,4680.142033293698,6.233781403313284,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,SUDESTE,produtividade_kg_ha,2025/26,5989.276237409293,6016.680832341218,0.45547695973199054,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,SUL,produtividade_kg_ha,2025/26,7072.921098614426,6711.961951853657,5.377848524023321,baseline_ingenuo
+produto_uf,REGIAO,SOJA,CENTRO-OESTE,produtividade_kg_ha,2025/26,3929.090142136218,3794.234451284228,3.554226618925618,baseline_ingenuo
+produto_uf,REGIAO,SOJA,NORDESTE,produtividade_kg_ha,2025/26,3743.4852001453264,3704.423658570603,1.054456648994509,baseline_ingenuo
+produto_uf,REGIAO,SOJA,NORTE,produtividade_kg_ha,2025/26,3541.301446923597,3592.618509988484,1.4284027909507124,baseline_ingenuo
+produto_uf,REGIAO,SOJA,SUDESTE,produtividade_kg_ha,2025/26,3938.42322668482,3813.832508625993,3.266811475780125,baseline_ingenuo
+produto_uf,REGIAO,SOJA,SUL,produtividade_kg_ha,2025/26,3003.2143072584417,3441.990175524508,12.747737381301594,baseline_ingenuo
+produto_uf,REGIAO,SORGO,CENTRO-OESTE,produtividade_kg_ha,2025/26,4007.262442040185,3853.7674894313377,3.982984262278285,baseline_ingenuo
+produto_uf,REGIAO,SORGO,NORDESTE,produtividade_kg_ha,2025/26,3621.3777777777777,3537.7651736019084,2.3634300207308776,baseline_ingenuo
+produto_uf,REGIAO,SORGO,NORTE,produtividade_kg_ha,2025/26,2602.482456140351,2610.984466019417,0.3256246825561459,baseline_ingenuo
+produto_uf,REGIAO,SORGO,SUDESTE,produtividade_kg_ha,2025/26,3782.473838918284,3829.0695652173913,1.2168942220944459,baseline_ingenuo
+produto_uf,REGIAO,SORGO,SUL,produtividade_kg_ha,2025/26,2850.0,2528.7272727272725,12.704918032786894,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,CENTRO-OESTE,produtividade_kg_ha,2025/26,3421.0,3416.0,0.14637002341920377,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,NORDESTE,produtividade_kg_ha,2025/26,6000.0,6000.0,0.0,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,NORTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,SUDESTE,produtividade_kg_ha,2025/26,2926.0,2844.0,2.8832630098452885,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,SUL,produtividade_kg_ha,2025/26,3241.0,2969.0,9.161333782418323,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,CENTRO-OESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,NORDESTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,NORTE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,SUDESTE,produtividade_kg_ha,2025/26,2778.0,2722.0,2.0573108008817047,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,SUL,produtividade_kg_ha,2025/26,3292.0,2990.0,10.100334448160535,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,ALGODÃO - CAROÇO (1),BRASIL,produtividade_kg_ha,2025/26,2772.6614827387803,2673.0141672860614,3.727900759833676,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,ALGODÃO - PLUMA,BRASIL,produtividade_kg_ha,2025/26,1954.4456806674336,1884.4851637679003,3.712447210762436,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,AMENDOIM TOTAL,BRASIL,produtividade_kg_ha,2025/26,4135.947218259628,4278.256309989335,3.326333941176646,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,ARROZ,BRASIL,produtividade_kg_ha,2025/26,7232.554226430069,6996.99743573306,3.366541046507191,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,AVEIA,BRASIL,produtividade_kg_ha,2025/26,2368.0,2253.0,5.104305370616955,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,CANOLA,BRASIL,produtividade_kg_ha,2025/26,1627.0,1620.0,0.43209876543209874,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,CENTEIO,BRASIL,produtividade_kg_ha,2025/26,2381.0,2238.0,6.389633601429848,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,CEVADA,BRASIL,produtividade_kg_ha,2025/26,4358.0,3898.0,11.800923550538737,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,FEIJÃO TOTAL,BRASIL,produtividade_kg_ha,2025/26,1136.2538804307464,1140.5752211028223,0.3788737991254574,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,GERGELIM,BRASIL,produtividade_kg_ha,2025/26,656.7940789473683,656.7940789473683,0.0,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,GIRASSOL,BRASIL,produtividade_kg_ha,2025/26,1622.1825525040383,1606.7570532915358,0.9600393028244336,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,MAMONA,BRASIL,produtividade_kg_ha,2025/26,1437.1724137931035,1935.672798948752,25.75333937772851,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,MILHO TOTAL,BRASIL,produtividade_kg_ha,2025/26,6463.851909515524,6146.257586923323,5.167279732432782,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,SOJA,BRASIL,produtividade_kg_ha,2025/26,3621.845888045688,3674.764064383992,1.440042827543399,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,SORGO,BRASIL,produtividade_kg_ha,2025/26,3739.1359068627457,3670.833799418764,1.8606701140976887,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,TRIGO,BRASIL,produtividade_kg_ha,2025/26,3219.0,2978.0,8.09267965077233,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,TRITICALE,BRASIL,produtividade_kg_ha,2025/26,3211.0,2947.0,8.958262639972855,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),BA,produtividade_kg_ha,2025/26,2802.56,2756.74,1.6621081422259685,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),CE,produtividade_kg_ha,2025/26,1163.5,1683.5000000000002,30.888030888030897,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),DF,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),GO,produtividade_kg_ha,2025/26,2734.8,2748.6,0.5020737830167986,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MA,produtividade_kg_ha,2025/26,2597.445,2570.85,1.0344827586206995,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MG,produtividade_kg_ha,2025/26,2448.5999999999995,2698.707,9.267660401814663,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MS,produtividade_kg_ha,2025/26,3085.6000000000004,2946.4,4.724409448818907,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MT,produtividade_kg_ha,2025/26,2784.1800000000003,2653.644,4.9191225348992,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PA,produtividade_kg_ha,2025/26,2323.152,2323.152,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PB,produtividade_kg_ha,2025/26,364.16,655.36,44.43359375,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PI,produtividade_kg_ha,2025/26,2702.7900000000004,2525.2,7.032710280373856,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PR,produtividade_kg_ha,2025/26,1770.0,1770.0,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RN,produtividade_kg_ha,2025/26,1125.9199999999998,1126.5400000000002,0.055035773252644866,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RO,produtividade_kg_ha,2025/26,2790.0,2600.9,7.270560190703214,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),SP,produtividade_kg_ha,2025/26,2192.94,2194.614,0.07627765064835904,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),TO,produtividade_kg_ha,2025/26,2615.4,2678.4000000000005,2.3521505376344254,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,BA,produtividade_kg_ha,2025/26,2029.0,1996.26,1.640066925150031,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,CE,produtividade_kg_ha,2025/26,626.5,906.5,30.888030888030887,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,DF,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,GO,produtividade_kg_ha,2025/26,1823.2,1832.4000000000003,0.5020737830168234,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MA,produtividade_kg_ha,2025/26,1797.555,1779.15,1.0344827586206882,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MG,produtividade_kg_ha,2025/26,1751.4000000000003,1930.293,9.267660401814625,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MS,produtividade_kg_ha,2025/26,2234.4,2133.6,4.724409448818907,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MT,produtividade_kg_ha,2025/26,1950.82,1859.356,4.919122534899177,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PA,produtividade_kg_ha,2025/26,1472.8479999999995,1472.8479999999995,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PB,produtividade_kg_ha,2025/26,204.84,368.64,44.43359374999999,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PI,produtividade_kg_ha,2025/26,1878.21,1754.8,7.032710280373837,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PR,produtividade_kg_ha,2025/26,1230.0,1230.0,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RN,produtividade_kg_ha,2025/26,690.0799999999999,690.46,0.05503577325263,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RO,produtividade_kg_ha,2025/26,1709.9999999999998,1594.1,7.270560190703209,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,SP,produtividade_kg_ha,2025/26,1737.0600000000002,1738.386,0.07627765064834821,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,TO,produtividade_kg_ha,2025/26,1743.6,1785.6,2.3521505376344085,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,BA,produtividade_kg_ha,2025/26,1077.0,1057.0,1.8921475875118259,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,CE,produtividade_kg_ha,2025/26,911.0,911.0,0.0,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,DF,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,GO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MG,produtividade_kg_ha,2025/26,3588.0,3586.0,0.055772448410485224,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MS,produtividade_kg_ha,2025/26,3992.0,3969.0,0.5794910556815319,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MT,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PB,produtividade_kg_ha,2025/26,761.0,761.0,0.0,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PI,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PR,produtividade_kg_ha,2025/26,2989.0,2889.0,3.4614053305642094,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,SP,produtividade_kg_ha,2025/26,4270.464965197216,4467.417994376757,4.40865460602635,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,TO,produtividade_kg_ha,2025/26,4000.0,4000.0,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,AC,produtividade_kg_ha,2025/26,1227.0,1259.0,2.5416997617156474,baseline_ingenuo
+produto_uf,UF,ARROZ,AL,produtividade_kg_ha,2025/26,7200.0,8600.0,16.27906976744186,baseline_ingenuo
+produto_uf,UF,ARROZ,AM,produtividade_kg_ha,2025/26,3252.0,3356.0,3.098927294398093,baseline_ingenuo
+produto_uf,UF,ARROZ,AP,produtividade_kg_ha,2025/26,1030.0,1016.0,1.3779527559055118,baseline_ingenuo
+produto_uf,UF,ARROZ,BA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ARROZ,CE,produtividade_kg_ha,2025/26,2340.7499999999995,2877.794871794872,18.66168006130052,baseline_ingenuo
+produto_uf,UF,ARROZ,DF,produtividade_kg_ha,2025/26,6275.0,6397.999999999999,1.9224757736792608,baseline_ingenuo
+produto_uf,UF,ARROZ,ES,produtividade_kg_ha,2025/26,3656.0,3596.0,1.668520578420467,baseline_ingenuo
+produto_uf,UF,ARROZ,GO,produtividade_kg_ha,2025/26,5350.551724137931,5419.86974789916,1.2789610633742188,baseline_ingenuo
+produto_uf,UF,ARROZ,MA,produtividade_kg_ha,2025/26,2992.009635974304,2981.5134048257373,0.35204373495613966,baseline_ingenuo
+produto_uf,UF,ARROZ,MG,produtividade_kg_ha,2025/26,3933.981981981982,3952.829268292684,0.47680496756802176,baseline_ingenuo
+produto_uf,UF,ARROZ,MS,produtividade_kg_ha,2025/26,6888.999999999999,7041.0,2.158784263598933,baseline_ingenuo
+produto_uf,UF,ARROZ,MT,produtividade_kg_ha,2025/26,3661.0,3649.0,0.3288572211564812,baseline_ingenuo
+produto_uf,UF,ARROZ,PA,produtividade_kg_ha,2025/26,2814.126582278481,2849.4177215189875,1.2385386310327804,baseline_ingenuo
+produto_uf,UF,ARROZ,PB,produtividade_kg_ha,2025/26,1311.4814814814815,1745.1851851851854,24.85144312393889,baseline_ingenuo
+produto_uf,UF,ARROZ,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ARROZ,PI,produtividade_kg_ha,2025/26,1756.4106194690264,1738.706796116505,1.0182178727352869,baseline_ingenuo
+produto_uf,UF,ARROZ,PR,produtividade_kg_ha,2025/26,6926.543147208121,7365.55497382199,5.960336025922911,baseline_ingenuo
+produto_uf,UF,ARROZ,RJ,produtividade_kg_ha,2025/26,2809.0,2843.0,1.1959198030249736,baseline_ingenuo
+produto_uf,UF,ARROZ,RN,produtividade_kg_ha,2025/26,2811.0,3212.0000000000005,12.484433374844347,baseline_ingenuo
+produto_uf,UF,ARROZ,RO,produtividade_kg_ha,2025/26,3690.0,3597.0,2.585487906588824,baseline_ingenuo
+produto_uf,UF,ARROZ,RR,produtividade_kg_ha,2025/26,7530.0,7444.000000000001,1.1552928533046625,baseline_ingenuo
+produto_uf,UF,ARROZ,RS,produtividade_kg_ha,2025/26,9021.0,8334.0,8.24334053275738,baseline_ingenuo
+produto_uf,UF,ARROZ,SC,produtividade_kg_ha,2025/26,8500.0,8250.0,3.0303030303030303,baseline_ingenuo
+produto_uf,UF,ARROZ,SE,produtividade_kg_ha,2025/26,8227.0,8320.0,1.1177884615384615,baseline_ingenuo
+produto_uf,UF,ARROZ,SP,produtividade_kg_ha,2025/26,6974.683544303797,6875.291139240507,1.4456464904593118,baseline_ingenuo
+produto_uf,UF,ARROZ,TO,produtividade_kg_ha,2025/26,6160.703370786518,5838.853432282003,5.512211296914255,baseline_ingenuo
+produto_uf,UF,AVEIA,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,BA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,CE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,DF,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,GO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,MA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,MG,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,MS,produtividade_kg_ha,2025/26,1589.0,1427.0,11.352487736510161,baseline_ingenuo
+produto_uf,UF,AVEIA,MT,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PB,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PI,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PR,produtividade_kg_ha,2025/26,2345.0,2259.0,3.8069942452412575,baseline_ingenuo
+produto_uf,UF,AVEIA,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RS,produtividade_kg_ha,2025/26,2452.0,2336.0,4.965753424657534,baseline_ingenuo
+produto_uf,UF,AVEIA,SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,SP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,TO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,BA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,CE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,DF,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,GO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MG,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MT,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PB,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PI,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PR,produtividade_kg_ha,2025/26,2291.0,1724.41,32.85703515985177,baseline_ingenuo
+produto_uf,UF,CANOLA,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RS,produtividade_kg_ha,2025/26,1621.0,1619.0,0.12353304508956146,baseline_ingenuo
+produto_uf,UF,CANOLA,SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,SP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,TO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,BA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,CE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,DF,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,GO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MG,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MT,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PB,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PI,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PR,produtividade_kg_ha,2025/26,2401.0,2251.0,6.663705019991115,baseline_ingenuo
+produto_uf,UF,CENTEIO,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,SP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,TO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,BA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,CE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,DF,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,GO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MG,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MT,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PB,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PI,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PR,produtividade_kg_ha,2025/26,4661.0,4218.0,10.502607871028925,baseline_ingenuo
+produto_uf,UF,CEVADA,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RS,produtividade_kg_ha,2025/26,3509.0,2947.0,19.070240922972516,baseline_ingenuo
+produto_uf,UF,CEVADA,SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,SP,produtividade_kg_ha,2025/26,3200.0,3200.0,0.0,baseline_ingenuo
+produto_uf,UF,CEVADA,TO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AC,produtividade_kg_ha,2025/26,563.0,563.0,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AL,produtividade_kg_ha,2025/26,617.9708737864079,701.7011494252874,11.932469500364503,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AM,produtividade_kg_ha,2025/26,731.0,731.0,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AP,produtividade_kg_ha,2025/26,909.0,910.0,0.10989010989010989,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,BA,produtividade_kg_ha,2025/26,770.9141266896371,921.475141242938,16.339129273765934,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,CE,produtividade_kg_ha,2025/26,157.35463733650417,157.6710763680096,0.20069567532275842,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,DF,produtividade_kg_ha,2025/26,2617.51677852349,2599.551020408164,0.6911100407063818,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,ES,produtividade_kg_ha,2025/26,1056.4,1080.1333333333334,2.1972595975805467,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,GO,produtividade_kg_ha,2025/26,2432.3255033557048,2537.63668430335,4.149970781832238,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MA,produtividade_kg_ha,2025/26,670.4535864978902,673.3939393939394,0.4366467715310139,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MG,produtividade_kg_ha,2025/26,1614.2026508545514,1738.698677800974,7.16029916718402,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MS,produtividade_kg_ha,2025/26,1775.0,1649.0,7.640994542146756,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MT,produtividade_kg_ha,2025/26,1843.6345919610235,1753.271951219512,5.153943213353672,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PA,produtividade_kg_ha,2025/26,748.1144578313254,731.3686635944701,2.2896515902874977,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PB,produtividade_kg_ha,2025/26,292.72356935014545,370.5314285714285,20.998990428765683,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PE,produtividade_kg_ha,2025/26,707.8560736902707,670.2152336987882,5.616231637074255,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PI,produtividade_kg_ha,2025/26,261.8436736687836,365.4439461883408,28.349155486123223,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PR,produtividade_kg_ha,2025/26,1750.462273744153,1652.617321248741,5.920605529021013,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RJ,produtividade_kg_ha,2025/26,1354.4,1528.0000000000002,11.361256544502625,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RN,produtividade_kg_ha,2025/26,165.0,168.0,1.7857142857142856,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RO,produtividade_kg_ha,2025/26,1060.0,1007.0,5.263157894736842,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RR,produtividade_kg_ha,2025/26,1212.0,1208.0,0.33112582781456956,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RS,produtividade_kg_ha,2025/26,1733.4080188679245,1675.4715261958995,3.45792165167783,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,SC,produtividade_kg_ha,2025/26,1854.7868852459017,1886.9175627240145,1.7028129958008318,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,SE,produtividade_kg_ha,2025/26,513.0,737.0,30.39348710990502,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,SP,produtividade_kg_ha,2025/26,2272.133676092545,2339.758354755784,2.8902419998110074,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,TO,produtividade_kg_ha,2025/26,1205.1146907216496,1132.278450363196,6.432714526633461,baseline_ingenuo
+produto_uf,UF,GERGELIM,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,BA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,CE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,DF,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,GO,produtividade_kg_ha,2025/26,500.0,500.0,0.0,baseline_ingenuo
+produto_uf,UF,GERGELIM,MA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,MG,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,MS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,MT,produtividade_kg_ha,2025/26,720.0,720.0,0.0,baseline_ingenuo
+produto_uf,UF,GERGELIM,PA,produtividade_kg_ha,2025/26,506.0,506.0,0.0,baseline_ingenuo
+produto_uf,UF,GERGELIM,PB,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,PI,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,PR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,SP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,TO,produtividade_kg_ha,2025/26,571.0,571.0,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,BA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,CE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,DF,produtividade_kg_ha,2025/26,2112.0,2112.0,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,GO,produtividade_kg_ha,2025/26,1579.0,1539.0,2.599090318388564,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MG,produtividade_kg_ha,2025/26,1800.0,1800.0,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MS,produtividade_kg_ha,2025/26,1810.0,1810.0,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MT,produtividade_kg_ha,2025/26,1591.0,1591.0,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PB,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PI,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RS,produtividade_kg_ha,2025/26,1800.0,1893.0,4.91283676703645,baseline_ingenuo
+produto_uf,UF,GIRASSOL,SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,SP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,TO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,BA,produtividade_kg_ha,2025/26,1439.0,1938.0,25.748194014447883,baseline_ingenuo
+produto_uf,UF,MAMONA,CE,produtividade_kg_ha,2025/26,167.0,167.0,0.0,baseline_ingenuo
+produto_uf,UF,MAMONA,DF,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,GO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MG,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MT,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PB,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,SP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,TO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AC,produtividade_kg_ha,2025/26,3406.636585365854,3468.6084905660373,1.7866503345285358,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AL,produtividade_kg_ha,2025/26,5230.0,3120.0,67.62820512820514,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AM,produtividade_kg_ha,2025/26,3005.0,3041.0,1.183821111476488,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AP,produtividade_kg_ha,2025/26,969.0,977.0,0.8188331627430911,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,BA,produtividade_kg_ha,2025/26,3828.564267176616,3945.937871969807,2.9745426461719324,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,CE,produtividade_kg_ha,2025/26,466.0,842.0,44.655581947743464,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,DF,produtividade_kg_ha,2025/26,7394.581850533807,7184.536231884058,2.9235793636559704,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,ES,produtividade_kg_ha,2025/26,3730.734939759036,3512.5454545454545,6.211719906178883,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,GO,produtividade_kg_ha,2025/26,7245.031588035143,6949.627315171105,4.250649127891613,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MA,produtividade_kg_ha,2025/26,5714.883269134148,5088.745706186427,12.304359445325012,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MG,produtividade_kg_ha,2025/26,6082.211682199871,6258.752913344432,2.8207093903348373,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MS,produtividade_kg_ha,2025/26,6390.235780169101,5746.566371681416,11.20093925408454,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MT,produtividade_kg_ha,2025/26,7620.851208935972,7165.989116060093,6.347513030077908,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PA,produtividade_kg_ha,2025/26,4206.4482623975,3588.333566678333,17.22567549068038,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PB,produtividade_kg_ha,2025/26,449.0,645.0,30.387596899224807,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PE,produtividade_kg_ha,2025/26,1150.500509683996,1153.8014403292182,0.28609174246483743,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PI,produtividade_kg_ha,2025/26,4095.944337811901,4210.498924217069,2.720689126561621,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PR,produtividade_kg_ha,2025/26,6601.063927836062,6404.5622406639,3.0681517297861776,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RJ,produtividade_kg_ha,2025/26,4655.0,4740.0,1.7932489451476792,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RN,produtividade_kg_ha,2025/26,321.0,523.0,38.623326959847034,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RO,produtividade_kg_ha,2025/26,5273.448611392661,5270.311688311687,0.05952063685210716,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RR,produtividade_kg_ha,2025/26,6000.0,6000.0,0.0,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RS,produtividade_kg_ha,2025/26,7590.0,6641.000000000001,14.2900165637705,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,SC,produtividade_kg_ha,2025/26,10800.0,10060.0,7.3558648111332,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,SE,produtividade_kg_ha,2025/26,6769.0,5958.0,13.61195031889896,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,SP,produtividade_kg_ha,2025/26,5907.078410311494,5714.919114792287,3.3624149644013195,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,TO,produtividade_kg_ha,2025/26,5629.918393234673,5381.735562901031,4.6115760879165,baseline_ingenuo
+produto_uf,UF,SOJA,AC,produtividade_kg_ha,2025/26,3459.0,3780.0,8.492063492063492,baseline_ingenuo
+produto_uf,UF,SOJA,AL,produtividade_kg_ha,2025/26,3600.0,3420.0,5.263157894736842,baseline_ingenuo
+produto_uf,UF,SOJA,AM,produtividade_kg_ha,2025/26,3330.0,3060.0,8.823529411764707,baseline_ingenuo
+produto_uf,UF,SOJA,AP,produtividade_kg_ha,2025/26,2618.0,2650.0,1.2075471698113207,baseline_ingenuo
+produto_uf,UF,SOJA,BA,produtividade_kg_ha,2025/26,4142.0,3957.0,4.675259034622189,baseline_ingenuo
+produto_uf,UF,SOJA,CE,produtividade_kg_ha,2025/26,3749.0,3721.0,0.7524858908895459,baseline_ingenuo
+produto_uf,UF,SOJA,DF,produtividade_kg_ha,2025/26,3837.0,3960.0,3.106060606060606,baseline_ingenuo
+produto_uf,UF,SOJA,GO,produtividade_kg_ha,2025/26,4183.0,3858.0,8.42405391394505,baseline_ingenuo
+produto_uf,UF,SOJA,MA,produtividade_kg_ha,2025/26,3383.0,3432.0,1.4277389277389279,baseline_ingenuo
+produto_uf,UF,SOJA,MG,produtividade_kg_ha,2025/26,3965.0,3834.0,3.41679707876891,baseline_ingenuo
+produto_uf,UF,SOJA,MS,produtividade_kg_ha,2025/26,3339.0,3600.0,7.249999999999999,baseline_ingenuo
+produto_uf,UF,SOJA,MT,produtividade_kg_ha,2025/26,4028.0,3833.0,5.087398904252543,baseline_ingenuo
+produto_uf,UF,SOJA,PA,produtividade_kg_ha,2025/26,3568.0,3571.0,0.08401008120974517,baseline_ingenuo
+produto_uf,UF,SOJA,PE,produtividade_kg_ha,2025/26,3000.0,3000.0,0.0,baseline_ingenuo
+produto_uf,UF,SOJA,PI,produtividade_kg_ha,2025/26,3441.0,3554.0,3.1795160382667413,baseline_ingenuo
+produto_uf,UF,SOJA,PR,produtividade_kg_ha,2025/26,3739.0,3783.0,1.1630980703145652,baseline_ingenuo
+produto_uf,UF,SOJA,RO,produtividade_kg_ha,2025/26,3799.0,3748.0,1.360725720384205,baseline_ingenuo
+produto_uf,UF,SOJA,RR,produtividade_kg_ha,2025/26,3450.0,3295.0,4.704097116843703,baseline_ingenuo
+produto_uf,UF,SOJA,RS,produtividade_kg_ha,2025/26,2342.0,3129.0,25.151805688718444,baseline_ingenuo
+produto_uf,UF,SOJA,SC,produtividade_kg_ha,2025/26,3933.0,3800.0,3.5000000000000004,baseline_ingenuo
+produto_uf,UF,SOJA,SP,produtividade_kg_ha,2025/26,3893.0,3780.0,2.9894179894179893,baseline_ingenuo
+produto_uf,UF,SOJA,TO,produtividade_kg_ha,2025/26,3422.0,3580.0,4.41340782122905,baseline_ingenuo
+produto_uf,UF,SORGO,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,BA,produtividade_kg_ha,2025/26,3796.0,3796.0,0.0,baseline_ingenuo
+produto_uf,UF,SORGO,DF,produtividade_kg_ha,2025/26,5640.0,4686.0,20.358514724711906,baseline_ingenuo
+produto_uf,UF,SORGO,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,GO,produtividade_kg_ha,2025/26,4006.0,3874.0,3.4073309241094476,baseline_ingenuo
+produto_uf,UF,SORGO,MA,produtividade_kg_ha,2025/26,2465.0,2465.0,0.0,baseline_ingenuo
+produto_uf,UF,SORGO,MG,produtividade_kg_ha,2025/26,3988.0,3897.0,2.3351295868616884,baseline_ingenuo
+produto_uf,UF,SORGO,MS,produtividade_kg_ha,2025/26,4097.0,3894.0,5.213148433487417,baseline_ingenuo
+produto_uf,UF,SORGO,MT,produtividade_kg_ha,2025/26,3569.0,3569.0,0.0,baseline_ingenuo
+produto_uf,UF,SORGO,PA,produtividade_kg_ha,2025/26,2549.0,2561.0,0.4685669660288949,baseline_ingenuo
+produto_uf,UF,SORGO,PB,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,PI,produtividade_kg_ha,2025/26,3900.0,3900.0,0.0,baseline_ingenuo
+produto_uf,UF,SORGO,PR,produtividade_kg_ha,2025/26,2850.0,2850.0,0.0,baseline_ingenuo
+produto_uf,UF,SORGO,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,RS,produtividade_kg_ha,2025/26,0.0,2508.0,100.0,baseline_ingenuo
+produto_uf,UF,SORGO,SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,SP,produtividade_kg_ha,2025/26,3228.0,3645.0,11.440329218106996,baseline_ingenuo
+produto_uf,UF,SORGO,TO,produtividade_kg_ha,2025/26,2683.0,2683.0,0.0,baseline_ingenuo
+produto_uf,UF,TRIGO,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,BA,produtividade_kg_ha,2025/26,6000.0,6000.0,0.0,baseline_ingenuo
+produto_uf,UF,TRIGO,CE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,DF,produtividade_kg_ha,2025/26,4001.0,4001.0,0.0,baseline_ingenuo
+produto_uf,UF,TRIGO,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,GO,produtividade_kg_ha,2025/26,4178.0,4166.0,0.28804608737397985,baseline_ingenuo
+produto_uf,UF,TRIGO,MA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,MG,produtividade_kg_ha,2025/26,2804.0,2678.0,4.7050037341299475,baseline_ingenuo
+produto_uf,UF,TRIGO,MS,produtividade_kg_ha,2025/26,2367.0,2305.0,2.689804772234273,baseline_ingenuo
+produto_uf,UF,TRIGO,MT,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PB,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PI,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PR,produtividade_kg_ha,2025/26,3383.0,2967.0,14.020896528479945,baseline_ingenuo
+produto_uf,UF,TRIGO,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RS,produtividade_kg_ha,2025/26,3097.0,2924.0,5.916552667578659,baseline_ingenuo
+produto_uf,UF,TRIGO,SC,produtividade_kg_ha,2025/26,3700.0,3406.0,8.631826189078097,baseline_ingenuo
+produto_uf,UF,TRIGO,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,SP,produtividade_kg_ha,2025/26,3086.0,3053.0,1.0809040288241074,baseline_ingenuo
+produto_uf,UF,TRIGO,TO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AL,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AM,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AP,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,BA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,CE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,DF,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,ES,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,GO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MG,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MS,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MT,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PA,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PB,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PI,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PR,produtividade_kg_ha,2025/26,3415.0,3113.0,9.701252810793447,baseline_ingenuo
+produto_uf,UF,TRITICALE,RJ,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RN,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RR,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RS,produtividade_kg_ha,2025/26,3076.0,2764.0,11.287988422575976,baseline_ingenuo
+produto_uf,UF,TRITICALE,SC,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,SE,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,SP,produtividade_kg_ha,2025/26,2789.0,2745.0,1.6029143897996356,baseline_ingenuo
+produto_uf,UF,TRITICALE,TO,produtividade_kg_ha,2025/26,0.0,0.0,,baseline_ingenuo
+uf,AGREGADO_REGIONAL,TODAS,CENTRO-SUL,produtividade_kg_ha,2025/26,4536.153,4466.851,1.5514732862143956,baseline_ingenuo
+uf,AGREGADO_REGIONAL,TODAS,NORTE/NORDESTE,produtividade_kg_ha,2025/26,3379.739,3355.51,0.7220660942747843,baseline_ingenuo
+uf,REGIAO,TODAS,CENTRO-OESTE,produtividade_kg_ha,2025/26,4881.992,4658.065,4.80729659203984,baseline_ingenuo
+uf,REGIAO,TODAS,NORDESTE,produtividade_kg_ha,2025/26,3128.139,3113.014,0.48586353932234155,baseline_ingenuo
+uf,REGIAO,TODAS,NORTE,produtividade_kg_ha,2025/26,3803.756,3747.231,1.5084471707241862,baseline_ingenuo
+uf,REGIAO,TODAS,SUDESTE,produtividade_kg_ha,2025/26,4311.31,4282.669,0.6687652022605654,baseline_ingenuo
+uf,REGIAO,TODAS,SUL,produtividade_kg_ha,2025/26,4030.7,4198.197,3.989736546426961,baseline_ingenuo
+uf,TOTAL_BRASIL,TODAS,BRASIL,produtividade_kg_ha,2025/26,4309.779,4244.353,1.5414834722748174,baseline_ingenuo
+uf,UF,TODAS,AC,produtividade_kg_ha,2025/26,3081.514,3247.268,5.1044139257985455,baseline_ingenuo
+uf,UF,TODAS,AL,produtividade_kg_ha,2025/26,3578.415,2666.11,34.218580628706235,baseline_ingenuo
+uf,UF,TODAS,AM,produtividade_kg_ha,2025/26,3024.476,2959.184,2.2064190668778934,baseline_ingenuo
+uf,UF,TODAS,AP,produtividade_kg_ha,2025/26,2142.857,2254.777,4.9636837700579735,baseline_ingenuo
+uf,UF,TODAS,BA,produtividade_kg_ha,2025/26,3555.262,3505.194,1.428394548204756,baseline_ingenuo
+uf,UF,TODAS,CE,produtividade_kg_ha,2025/26,379.376,619.797,38.7902813340497,baseline_ingenuo
+uf,UF,TODAS,DF,produtividade_kg_ha,2025/26,4997.318,4877.54,2.455705130045069,baseline_ingenuo
+uf,UF,TODAS,ES,produtividade_kg_ha,2025/26,2829.365,2660.156,6.3608675581432,baseline_ingenuo
+uf,UF,TODAS,GO,produtividade_kg_ha,2025/26,4920.993,4598.57,7.011375275357355,baseline_ingenuo
+uf,UF,TODAS,MA,produtividade_kg_ha,2025/26,3894.578,3742.104,4.07455271152272,baseline_ingenuo
+uf,UF,TODAS,MG,produtividade_kg_ha,2025/26,4283.062,4280.255,0.06558020491769273,baseline_ingenuo
+uf,UF,TODAS,MS,produtividade_kg_ha,2025/26,4303.446,4263.286,0.9419963849481329,baseline_ingenuo
+uf,UF,TODAS,MT,produtividade_kg_ha,2025/26,5040.143,4795.466,5.102257006931123,baseline_ingenuo
+uf,UF,TODAS,PA,produtividade_kg_ha,2025/26,3479.593,3339.383,4.198679816001939,baseline_ingenuo
+uf,UF,TODAS,PB,produtividade_kg_ha,2025/26,388.046,530.739,26.885719722876978,baseline_ingenuo
+uf,UF,TODAS,PE,produtividade_kg_ha,2025/26,947.127,930.258,1.8133679043878057,baseline_ingenuo
+uf,UF,TODAS,PI,produtividade_kg_ha,2025/26,3221.456,3314.713,2.8134260794222623,baseline_ingenuo
+uf,UF,TODAS,PR,produtividade_kg_ha,2025/26,4491.286,4456.963,0.7700983831366857,baseline_ingenuo
+uf,UF,TODAS,RJ,produtividade_kg_ha,2025/26,3285.714,3423.077,4.012851595216826,baseline_ingenuo
+uf,UF,TODAS,RN,produtividade_kg_ha,2025/26,273.535,391.589,30.147424978740457,baseline_ingenuo
+uf,UF,TODAS,RO,produtividade_kg_ha,2025/26,4368.925,4356.326,0.2892115971118819,baseline_ingenuo
+uf,UF,TODAS,RR,produtividade_kg_ha,2025/26,4027.341,3866.116,4.170205963814844,baseline_ingenuo
+uf,UF,TODAS,RS,produtividade_kg_ha,2025/26,3376.425,3765.364,10.329386481625678,baseline_ingenuo
+uf,UF,TODAS,SC,produtividade_kg_ha,2025/26,5690.203,5494.531,3.5612138688452295,baseline_ingenuo
+uf,UF,TODAS,SE,produtividade_kg_ha,2025/26,6738.059,5966.581,12.929984525476149,baseline_ingenuo
+uf,UF,TODAS,SP,produtividade_kg_ha,2025/26,4371.889,4302.481,1.6132087509509132,baseline_ingenuo
+uf,UF,TODAS,TO,produtividade_kg_ha,2025/26,3808.063,3825.484,0.45539335676217235,baseline_ingenuo
+produto,AGREGADO_PRODUTO,BRASIL (2),BRASIL,area_mil_ha,2025/26,81734.8,83257.9,1.8293759511109353,baseline_ingenuo
+produto,AGREGADO_PRODUTO,SUBTOTAL,BRASIL,area_mil_ha,2025/26,3356.3,3266.4,2.7522654910604976,baseline_ingenuo
+produto,PRODUTO,ALGODÃO - CAROÇO (1),BRASIL,area_mil_ha,2025/26,2085.6,2018.1,3.344730191764531,baseline_ingenuo
+produto,PRODUTO,ALGODÃO - PLUMA,BRASIL,area_mil_ha,2025/26,2085.6,2018.1,3.344730191764531,baseline_ingenuo
+produto,PRODUTO,AMENDOIM 1ª SAFRA,BRASIL,area_mil_ha,2025/26,273.1,274.0,0.32846715328466325,baseline_ingenuo
+produto,PRODUTO,AMENDOIM 2ª SAFRA,BRASIL,area_mil_ha,2025/26,7.3,7.3,0.0,baseline_ingenuo
+produto,PRODUTO,AMENDOIM TOTAL,BRASIL,area_mil_ha,2025/26,280.40000000000003,281.3,0.3199431212228856,baseline_ingenuo
+produto,PRODUTO,ARROZ,BRASIL,area_mil_ha,2025/26,1763.9,1559.9,13.077761394961215,baseline_ingenuo
+produto,PRODUTO,ARROZ IRRIGADO,BRASIL,area_mil_ha,2025/26,1369.3000000000002,1263.9,8.339267347100252,baseline_ingenuo
+produto,PRODUTO,ARROZ SEQUEIRO,BRASIL,area_mil_ha,2025/26,394.6,296.0,33.31081081081082,baseline_ingenuo
+produto,PRODUTO,AVEIA,BRASIL,area_mil_ha,2025/26,545.8,509.0,7.229862475442034,baseline_ingenuo
+produto,PRODUTO,CANOLA,BRASIL,area_mil_ha,2025/26,211.9,275.7,23.1410953935437,baseline_ingenuo
+produto,PRODUTO,CAUPI,BRASIL,area_mil_ha,2025/26,43.8,51.8,15.444015444015443,baseline_ingenuo
+produto,PRODUTO,CENTEIO,BRASIL,area_mil_ha,2025/26,2.1,2.1,0.0,baseline_ingenuo
+produto,PRODUTO,CEVADA,BRASIL,area_mil_ha,2025/26,139.2,149.9,7.1380920613742616,baseline_ingenuo
+produto,PRODUTO,CORES,BRASIL,area_mil_ha,2025/26,326.5,361.0,9.556786703601109,baseline_ingenuo
+produto,PRODUTO,FEIJÃO 1ª SAFRA,BRASIL,area_mil_ha,2025/26,908.5,804.7,12.899217099540195,baseline_ingenuo
+produto,PRODUTO,FEIJÃO 2ª SAFRA,BRASIL,area_mil_ha,2025/26,1400.1,1369.0,2.271731190650103,baseline_ingenuo
+produto,PRODUTO,FEIJÃO 3ª SAFRA,BRASIL,area_mil_ha,2025/26,384.4,426.9,9.955493089716562,baseline_ingenuo
+produto,PRODUTO,FEIJÃO TOTAL,BRASIL,area_mil_ha,2025/26,2693.0,2600.6,3.5530262247173767,baseline_ingenuo
+produto,PRODUTO,GERGELIM,BRASIL,area_mil_ha,2025/26,608.0,608.0,0.0,baseline_ingenuo
+produto,PRODUTO,GIRASSOL,BRASIL,area_mil_ha,2025/26,61.900000000000006,63.8,2.9780564263322753,baseline_ingenuo
+produto,PRODUTO,MAMONA,BRASIL,area_mil_ha,2025/26,69.6,76.1,8.54139290407359,baseline_ingenuo
+produto,PRODUTO,MILHO 1ª SAFRA,BRASIL,area_mil_ha,2025/26,3772.6,4043.7,6.7042560031654155,baseline_ingenuo
+produto,PRODUTO,MILHO 2ª SAFRA,BRASIL,area_mil_ha,2025/26,17430.3,17894.100000000002,2.5919157711201057,baseline_ingenuo
+produto,PRODUTO,MILHO 3ª SAFRA,BRASIL,area_mil_ha,2025/26,635.1,587.8,8.046954746512432,baseline_ingenuo
+produto,PRODUTO,MILHO TOTAL,BRASIL,area_mil_ha,2025/26,21838.0,22525.6,3.0525269027240056,baseline_ingenuo
+produto,PRODUTO,PRETO,BRASIL,area_mil_ha,2025/26,14.1,14.1,0.0,baseline_ingenuo
+produto,PRODUTO,SOJA,BRASIL,area_mil_ha,2025/26,47346.1,48434.4,2.2469567084551536,baseline_ingenuo
+produto,PRODUTO,SORGO,BRASIL,area_mil_ha,2025/26,1632.0,1823.7,10.511597302187862,baseline_ingenuo
+produto,PRODUTO,TRIGO,BRASIL,area_mil_ha,2025/26,2445.9,2318.3,5.504033127722896,baseline_ingenuo
+produto,PRODUTO,TRITICALE,BRASIL,area_mil_ha,2025/26,11.4,11.4,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),CENTRO-SUL,area_mil_ha,2025/26,1578.1999999999998,1523.6999999999998,3.576819583907594,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - CAROÇO (1),NORTE/NORDESTE,area_mil_ha,2025/26,507.4,494.4,2.629449838187702,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,CENTRO-SUL,area_mil_ha,2025/26,1578.1999999999998,1523.6999999999998,3.576819583907594,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ALGODÃO - PLUMA,NORTE/NORDESTE,area_mil_ha,2025/26,507.4,494.4,2.629449838187702,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,CENTRO-SUL,area_mil_ha,2025/26,275.6,276.4,0.2894356005788548,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AMENDOIM TOTAL,NORTE/NORDESTE,area_mil_ha,2025/26,4.8,4.9,2.040816326530623,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ARROZ,CENTRO-SUL,area_mil_ha,2025/26,1358.1,1222.0,11.137479541734853,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,ARROZ,NORTE/NORDESTE,area_mil_ha,2025/26,405.8,337.9,20.094702574726263,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AVEIA,CENTRO-SUL,area_mil_ha,2025/26,545.8,509.0,7.229862475442034,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,AVEIA,NORTE/NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CANOLA,CENTRO-SUL,area_mil_ha,2025/26,211.9,275.7,23.1410953935437,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CANOLA,NORTE/NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CENTEIO,CENTRO-SUL,area_mil_ha,2025/26,2.1,2.1,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CENTEIO,NORTE/NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CEVADA,CENTRO-SUL,area_mil_ha,2025/26,139.2,149.9,7.1380920613742616,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,CEVADA,NORTE/NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,CENTRO-SUL,area_mil_ha,2025/26,1273.1,1171.3,8.69119781439426,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,FEIJÃO TOTAL,NORTE/NORDESTE,area_mil_ha,2025/26,1419.9,1429.3,0.6576645910585506,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GERGELIM,CENTRO-SUL,area_mil_ha,2025/26,405.2,405.2,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GERGELIM,NORTE/NORDESTE,area_mil_ha,2025/26,202.8,202.8,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,CENTRO-SUL,area_mil_ha,2025/26,61.900000000000006,63.8,2.9780564263322753,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,GIRASSOL,NORTE/NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MAMONA,CENTRO-SUL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MAMONA,NORTE/NORDESTE,area_mil_ha,2025/26,69.6,76.1,8.54139290407359,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,CENTRO-SUL,area_mil_ha,2025/26,17304.2,17952.5,3.6111962122267056,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,MILHO TOTAL,NORTE/NORDESTE,area_mil_ha,2025/26,4533.8,4573.1,0.859373291640248,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SOJA,CENTRO-SUL,area_mil_ha,2025/26,38969.5,39420.9,1.1450778647874642,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SOJA,NORTE/NORDESTE,area_mil_ha,2025/26,8376.6,9013.5,7.066067565318685,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SORGO,CENTRO-SUL,area_mil_ha,2025/26,1157.7,1291.9,10.38780091338339,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,SORGO,NORTE/NORDESTE,area_mil_ha,2025/26,474.3,531.8,10.812335464460315,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRIGO,CENTRO-SUL,area_mil_ha,2025/26,2440.9,2313.3,5.5159296243461675,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRIGO,NORTE/NORDESTE,area_mil_ha,2025/26,5.0,5.0,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRITICALE,CENTRO-SUL,area_mil_ha,2025/26,11.4,11.4,0.0,baseline_ingenuo
+produto_uf,AGREGADO_REGIONAL,TRITICALE,NORTE/NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),CENTRO-OESTE,area_mil_ha,2025/26,1524.0,1472.4,3.5044824775876062,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORDESTE,area_mil_ha,2025/26,483.9,470.2,2.913653764355591,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),NORTE,area_mil_ha,2025/26,23.5,24.2,2.892561983471072,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUDESTE,area_mil_ha,2025/26,52.6,49.7,5.83501006036217,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - CAROÇO (1),SUL,area_mil_ha,2025/26,1.6,1.6,0.0,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,CENTRO-OESTE,area_mil_ha,2025/26,1524.0,1472.4,3.5044824775876062,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORDESTE,area_mil_ha,2025/26,483.9,470.2,2.913653764355591,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,NORTE,area_mil_ha,2025/26,23.5,24.2,2.892561983471072,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUDESTE,area_mil_ha,2025/26,52.6,49.7,5.83501006036217,baseline_ingenuo
+produto_uf,REGIAO,ALGODÃO - PLUMA,SUL,area_mil_ha,2025/26,1.6,1.6,0.0,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,CENTRO-OESTE,area_mil_ha,2025/26,43.5,45.5,4.395604395604396,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,NORDESTE,area_mil_ha,2025/26,3.9,3.9,0.0,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,NORTE,area_mil_ha,2025/26,0.9,1.0,9.999999999999998,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,SUDESTE,area_mil_ha,2025/26,230.0,229.4,0.26155187445509775,baseline_ingenuo
+produto_uf,REGIAO,AMENDOIM TOTAL,SUL,area_mil_ha,2025/26,2.1,1.5,40.00000000000001,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,CENTRO-OESTE,area_mil_ha,2025/26,189.8,124.5,52.44979919678716,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,NORDESTE,area_mil_ha,2025/26,166.2,141.4,17.538896746817525,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,NORTE,area_mil_ha,2025/26,239.6,196.5,21.933842239185747,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,SUDESTE,area_mil_ha,2025/26,30.5,24.700000000000003,23.481781376518203,baseline_ingenuo
+produto_uf,REGIAO,ARROZ,SUL,area_mil_ha,2025/26,1137.8,1072.8,6.058911260253542,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,CENTRO-OESTE,area_mil_ha,2025/26,40.4,38.2,5.75916230366491,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,NORTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,SUDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,AVEIA,SUL,area_mil_ha,2025/26,505.4,470.8,7.349192863211547,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,CENTRO-OESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,NORTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,SUDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CANOLA,SUL,area_mil_ha,2025/26,211.9,275.7,23.1410953935437,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,CENTRO-OESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,NORTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,SUDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CENTEIO,SUL,area_mil_ha,2025/26,2.1,2.1,0.0,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,CENTRO-OESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,NORTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,SUDESTE,area_mil_ha,2025/26,4.1,4.1,0.0,baseline_ingenuo
+produto_uf,REGIAO,CEVADA,SUL,area_mil_ha,2025/26,135.1,145.8,7.338820301783276,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,CENTRO-OESTE,area_mil_ha,2025/26,303.99999999999994,299.3,1.5703307718008457,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,NORDESTE,area_mil_ha,2025/26,1312.4,1311.5,0.06862371330538246,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,NORTE,area_mil_ha,2025/26,107.5,117.8,8.743633276740235,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,SUDESTE,area_mil_ha,2025/26,374.00000000000006,375.1,0.2932551319648003,baseline_ingenuo
+produto_uf,REGIAO,FEIJÃO TOTAL,SUL,area_mil_ha,2025/26,595.1,496.9,19.762527671563703,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,CENTRO-OESTE,area_mil_ha,2025/26,405.2,405.2,0.0,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,NORTE,area_mil_ha,2025/26,202.8,202.8,0.0,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,SUDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GERGELIM,SUL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,CENTRO-OESTE,area_mil_ha,2025/26,52.3,52.3,0.0,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,NORTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,SUDESTE,area_mil_ha,2025/26,5.5,5.5,0.0,baseline_ingenuo
+produto_uf,REGIAO,GIRASSOL,SUL,area_mil_ha,2025/26,4.1,6.0,31.66666666666667,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,CENTRO-OESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,NORDESTE,area_mil_ha,2025/26,69.6,76.1,8.54139290407359,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,NORTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,SUDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MAMONA,SUL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,CENTRO-OESTE,area_mil_ha,2025/26,11394.3,11712.9,2.7200778628691475,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,NORDESTE,area_mil_ha,2025/26,2984.0,2891.1000000000004,3.2133098128739794,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,NORTE,area_mil_ha,2025/26,1549.8,1682.0,7.859690844233058,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,SUDESTE,area_mil_ha,2025/26,1846.6,1931.9,4.415342409027391,baseline_ingenuo
+produto_uf,REGIAO,MILHO TOTAL,SUL,area_mil_ha,2025/26,4063.3,4307.700000000001,5.6735612972119815,baseline_ingenuo
+produto_uf,REGIAO,SOJA,CENTRO-OESTE,area_mil_ha,2025/26,22035.2,22612.8,2.5543055260737217,baseline_ingenuo
+produto_uf,REGIAO,SOJA,NORDESTE,area_mil_ha,2025/26,4679.1,5018.9,6.770407858295628,baseline_ingenuo
+produto_uf,REGIAO,SOJA,NORTE,area_mil_ha,2025/26,3697.5,3994.6,7.437540679917887,baseline_ingenuo
+produto_uf,REGIAO,SOJA,SUDESTE,area_mil_ha,2025/26,3672.5,3738.7,1.7706689490999499,baseline_ingenuo
+produto_uf,REGIAO,SOJA,SUL,area_mil_ha,2025/26,13261.8,13069.4,1.472141031722953,baseline_ingenuo
+produto_uf,REGIAO,SORGO,CENTRO-OESTE,area_mil_ha,2025/26,647.0,733.3000000000001,11.76871675985273,baseline_ingenuo
+produto_uf,REGIAO,SORGO,NORDESTE,area_mil_ha,2025/26,337.5,377.3,10.548635038430959,baseline_ingenuo
+produto_uf,REGIAO,SORGO,NORTE,area_mil_ha,2025/26,136.8,154.5,11.456310679611644,baseline_ingenuo
+produto_uf,REGIAO,SORGO,SUDESTE,area_mil_ha,2025/26,510.3,552.0,7.554347826086954,baseline_ingenuo
+produto_uf,REGIAO,SORGO,SUL,area_mil_ha,2025/26,0.4,6.6000000000000005,93.93939393939394,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,CENTRO-OESTE,area_mil_ha,2025/26,88.80000000000001,87.4,1.601830663615567,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,NORDESTE,area_mil_ha,2025/26,5.0,5.0,0.0,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,NORTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,SUDESTE,area_mil_ha,2025/26,266.1,259.1,2.7016595908915475,baseline_ingenuo
+produto_uf,REGIAO,TRIGO,SUL,area_mil_ha,2025/26,2086.0,1966.8,6.060606060606063,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,CENTRO-OESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,NORDESTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,NORTE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,SUDESTE,area_mil_ha,2025/26,1.8,1.8,0.0,baseline_ingenuo
+produto_uf,REGIAO,TRITICALE,SUL,area_mil_ha,2025/26,9.6,9.6,0.0,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,ALGODÃO - CAROÇO (1),BRASIL,area_mil_ha,2025/26,2085.6,2018.1,3.344730191764531,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,ALGODÃO - PLUMA,BRASIL,area_mil_ha,2025/26,2085.6,2018.1,3.344730191764531,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,AMENDOIM TOTAL,BRASIL,area_mil_ha,2025/26,280.40000000000003,281.3,0.3199431212228856,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,ARROZ,BRASIL,area_mil_ha,2025/26,1763.9,1559.9,13.077761394961215,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,AVEIA,BRASIL,area_mil_ha,2025/26,545.8,509.0,7.229862475442034,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,CANOLA,BRASIL,area_mil_ha,2025/26,211.9,275.7,23.1410953935437,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,CENTEIO,BRASIL,area_mil_ha,2025/26,2.1,2.1,0.0,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,CEVADA,BRASIL,area_mil_ha,2025/26,139.2,149.9,7.1380920613742616,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,FEIJÃO TOTAL,BRASIL,area_mil_ha,2025/26,2693.0,2600.6,3.5530262247173767,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,GERGELIM,BRASIL,area_mil_ha,2025/26,608.0,608.0,0.0,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,GIRASSOL,BRASIL,area_mil_ha,2025/26,61.900000000000006,63.8,2.9780564263322753,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,MAMONA,BRASIL,area_mil_ha,2025/26,69.6,76.1,8.54139290407359,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,MILHO TOTAL,BRASIL,area_mil_ha,2025/26,21838.0,22525.6,3.0525269027240056,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,SOJA,BRASIL,area_mil_ha,2025/26,47346.1,48434.4,2.2469567084551536,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,SORGO,BRASIL,area_mil_ha,2025/26,1632.0,1823.7,10.511597302187862,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,TRIGO,BRASIL,area_mil_ha,2025/26,2445.9,2318.3,5.504033127722896,baseline_ingenuo
+produto_uf,TOTAL_BRASIL,TRITICALE,BRASIL,area_mil_ha,2025/26,11.4,11.4,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),BA,area_mil_ha,2025/26,413.1,402.4,2.6590457256461346,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),CE,area_mil_ha,2025/26,2.4,1.9,26.31578947368421,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),DF,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),GO,area_mil_ha,2025/26,30.3,29.8,1.6778523489932886,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MA,area_mil_ha,2025/26,33.0,29.7,11.111111111111112,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MG,area_mil_ha,2025/26,45.1,42.2,6.872037914691939,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MS,area_mil_ha,2025/26,31.7,31.8,0.3144654088050359,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),MT,area_mil_ha,2025/26,1462.0,1410.8,3.6291465834987275,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PA,area_mil_ha,2025/26,0.2,0.2,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PB,area_mil_ha,2025/26,0.5,0.5,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PI,area_mil_ha,2025/26,33.7,34.6,2.6011560693641576,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),PR,area_mil_ha,2025/26,1.6,1.6,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RN,area_mil_ha,2025/26,1.2,1.1,9.09090909090908,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RO,area_mil_ha,2025/26,8.8,8.8,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),RS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),SP,area_mil_ha,2025/26,7.5,7.5,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - CAROÇO (1),TO,area_mil_ha,2025/26,14.5,15.2,4.605263157894733,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,BA,area_mil_ha,2025/26,413.1,402.4,2.6590457256461346,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,CE,area_mil_ha,2025/26,2.4,1.9,26.31578947368421,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,DF,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,GO,area_mil_ha,2025/26,30.3,29.8,1.6778523489932886,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MA,area_mil_ha,2025/26,33.0,29.7,11.111111111111112,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MG,area_mil_ha,2025/26,45.1,42.2,6.872037914691939,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MS,area_mil_ha,2025/26,31.7,31.8,0.3144654088050359,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,MT,area_mil_ha,2025/26,1462.0,1410.8,3.6291465834987275,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PA,area_mil_ha,2025/26,0.2,0.2,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PB,area_mil_ha,2025/26,0.5,0.5,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PI,area_mil_ha,2025/26,33.7,34.6,2.6011560693641576,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,PR,area_mil_ha,2025/26,1.6,1.6,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RN,area_mil_ha,2025/26,1.2,1.1,9.09090909090908,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RO,area_mil_ha,2025/26,8.8,8.8,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,RS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,SP,area_mil_ha,2025/26,7.5,7.5,0.0,baseline_ingenuo
+produto_uf,UF,ALGODÃO - PLUMA,TO,area_mil_ha,2025/26,14.5,15.2,4.605263157894733,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,BA,area_mil_ha,2025/26,2.6,2.6,0.0,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,CE,area_mil_ha,2025/26,0.6,0.6,0.0,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,DF,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,GO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MG,area_mil_ha,2025/26,14.5,16.0,9.375,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MS,area_mil_ha,2025/26,43.5,45.5,4.395604395604396,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,MT,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PB,area_mil_ha,2025/26,0.7,0.7,0.0,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PI,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,PR,area_mil_ha,2025/26,2.1,1.5,40.00000000000001,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,RS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,SP,area_mil_ha,2025/26,215.5,213.4,0.9840674789128371,baseline_ingenuo
+produto_uf,UF,AMENDOIM TOTAL,TO,area_mil_ha,2025/26,0.9,1.0,9.999999999999998,baseline_ingenuo
+produto_uf,UF,ARROZ,AC,area_mil_ha,2025/26,3.8,3.5,8.571428571428566,baseline_ingenuo
+produto_uf,UF,ARROZ,AL,area_mil_ha,2025/26,2.6,2.3,13.043478260869579,baseline_ingenuo
+produto_uf,UF,ARROZ,AM,area_mil_ha,2025/26,4.6,6.1,24.590163934426233,baseline_ingenuo
+produto_uf,UF,ARROZ,AP,area_mil_ha,2025/26,0.9,0.6,50.000000000000014,baseline_ingenuo
+produto_uf,UF,ARROZ,BA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ARROZ,CE,area_mil_ha,2025/26,4.4,3.9,12.820512820512834,baseline_ingenuo
+produto_uf,UF,ARROZ,DF,area_mil_ha,2025/26,0.4,0.4,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,ES,area_mil_ha,2025/26,0.1,0.1,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,GO,area_mil_ha,2025/26,29.0,23.8,21.848739495798316,baseline_ingenuo
+produto_uf,UF,ARROZ,MA,area_mil_ha,2025/26,93.4,74.6,25.201072386058996,baseline_ingenuo
+produto_uf,UF,ARROZ,MG,area_mil_ha,2025/26,22.2,16.4,35.365853658536594,baseline_ingenuo
+produto_uf,UF,ARROZ,MS,area_mil_ha,2025/26,13.7,8.6,59.302325581395344,baseline_ingenuo
+produto_uf,UF,ARROZ,MT,area_mil_ha,2025/26,146.7,91.7,59.9781897491821,baseline_ingenuo
+produto_uf,UF,ARROZ,PA,area_mil_ha,2025/26,39.5,39.5,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,PB,area_mil_ha,2025/26,2.7,2.7,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,ARROZ,PI,area_mil_ha,2025/26,56.5,51.5,9.70873786407767,baseline_ingenuo
+produto_uf,UF,ARROZ,PR,area_mil_ha,2025/26,19.700000000000003,19.1,3.14136125654451,baseline_ingenuo
+produto_uf,UF,ARROZ,RJ,area_mil_ha,2025/26,0.3,0.3,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,RN,area_mil_ha,2025/26,0.4,0.4,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,RO,area_mil_ha,2025/26,44.0,25.7,71.20622568093385,baseline_ingenuo
+produto_uf,UF,ARROZ,RR,area_mil_ha,2025/26,13.3,13.3,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,RS,area_mil_ha,2025/26,968.1,905.2,6.948740609809984,baseline_ingenuo
+produto_uf,UF,ARROZ,SC,area_mil_ha,2025/26,150.0,148.5,1.0101010101010102,baseline_ingenuo
+produto_uf,UF,ARROZ,SE,area_mil_ha,2025/26,6.2,6.0,3.333333333333336,baseline_ingenuo
+produto_uf,UF,ARROZ,SP,area_mil_ha,2025/26,7.9,7.9,0.0,baseline_ingenuo
+produto_uf,UF,ARROZ,TO,area_mil_ha,2025/26,133.5,107.8,23.8404452690167,baseline_ingenuo
+produto_uf,UF,AVEIA,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,BA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,CE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,DF,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,GO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,MA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,MG,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,MS,area_mil_ha,2025/26,40.4,38.2,5.75916230366491,baseline_ingenuo
+produto_uf,UF,AVEIA,MT,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PI,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,PR,area_mil_ha,2025/26,103.6,98.7,4.96453900709219,baseline_ingenuo
+produto_uf,UF,AVEIA,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,RS,area_mil_ha,2025/26,401.8,372.1,7.981725342649821,baseline_ingenuo
+produto_uf,UF,AVEIA,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,SP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,AVEIA,TO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,BA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,CE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,DF,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,GO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MG,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,MT,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PI,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,PR,area_mil_ha,2025/26,2.0,2.0,0.0,baseline_ingenuo
+produto_uf,UF,CANOLA,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,RS,area_mil_ha,2025/26,209.9,273.7,23.310193642674456,baseline_ingenuo
+produto_uf,UF,CANOLA,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,SP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CANOLA,TO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,BA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,CE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,DF,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,GO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MG,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,MT,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PI,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,PR,area_mil_ha,2025/26,2.1,2.1,0.0,baseline_ingenuo
+produto_uf,UF,CENTEIO,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,RS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,SP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CENTEIO,TO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,BA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,CE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,DF,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,GO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MG,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,MT,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PI,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,PR,area_mil_ha,2025/26,103.7,111.3,6.828391734052107,baseline_ingenuo
+produto_uf,UF,CEVADA,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,RS,area_mil_ha,2025/26,31.4,34.5,8.985507246376816,baseline_ingenuo
+produto_uf,UF,CEVADA,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,CEVADA,SP,area_mil_ha,2025/26,4.1,4.1,0.0,baseline_ingenuo
+produto_uf,UF,CEVADA,TO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AC,area_mil_ha,2025/26,5.3,5.3,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AL,area_mil_ha,2025/26,20.6,17.4,18.39080459770117,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AM,area_mil_ha,2025/26,2.2,2.2,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,AP,area_mil_ha,2025/26,1.1,1.1,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,BA,area_mil_ha,2025/26,377.3,389.4,3.107344632768353,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,CE,area_mil_ha,2025/26,336.40000000000003,332.6,1.1425135297654874,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,DF,area_mil_ha,2025/26,14.9,14.7,1.3605442176870821,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,ES,area_mil_ha,2025/26,8.5,9.0,5.555555555555555,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,GO,area_mil_ha,2025/26,119.2,113.4,5.114638447971778,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MA,area_mil_ha,2025/26,47.400000000000006,46.2,2.5974025974026036,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MG,area_mil_ha,2025/26,286.70000000000005,287.4,0.24356297842725536,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MS,area_mil_ha,2025/26,5.7,7.2,20.833333333333332,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,MT,area_mil_ha,2025/26,164.2,164.0,0.12195121951218818,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PA,area_mil_ha,2025/26,16.599999999999998,21.7,23.502304147465445,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PB,area_mil_ha,2025/26,103.1,105.0,1.809523809523815,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PE,area_mil_ha,2025/26,173.7,173.3,0.23081361800344904,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PI,area_mil_ha,2025/26,204.7,200.7,1.9930244145490783,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,PR,area_mil_ha,2025/26,491.7,397.2,23.79154078549849,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RJ,area_mil_ha,2025/26,1.0,0.8999999999999999,11.111111111111121,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RN,area_mil_ha,2025/26,46.8,44.5,5.16853932584269,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RO,area_mil_ha,2025/26,2.0,2.2,9.090909090909099,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RR,area_mil_ha,2025/26,2.7,2.7,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,RS,area_mil_ha,2025/26,42.4,43.900000000000006,3.416856492027351,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,SC,area_mil_ha,2025/26,61.0,55.8,9.318996415770615,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,SE,area_mil_ha,2025/26,2.4,2.4,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,SP,area_mil_ha,2025/26,77.8,77.8,0.0,baseline_ingenuo
+produto_uf,UF,FEIJÃO TOTAL,TO,area_mil_ha,2025/26,77.6,82.60000000000001,6.053268765133189,baseline_ingenuo
+produto_uf,UF,GERGELIM,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,BA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,CE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,DF,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,GO,area_mil_ha,2025/26,4.0,4.0,0.0,baseline_ingenuo
+produto_uf,UF,GERGELIM,MA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,MG,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,MS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,MT,area_mil_ha,2025/26,401.2,401.2,0.0,baseline_ingenuo
+produto_uf,UF,GERGELIM,PA,area_mil_ha,2025/26,112.8,112.8,0.0,baseline_ingenuo
+produto_uf,UF,GERGELIM,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,PI,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,PR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,RS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,SP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GERGELIM,TO,area_mil_ha,2025/26,90.0,90.0,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,BA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,CE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,DF,area_mil_ha,2025/26,0.6,0.6,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,GO,area_mil_ha,2025/26,47.0,47.0,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MG,area_mil_ha,2025/26,5.5,5.5,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MS,area_mil_ha,2025/26,0.8,0.8,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,MT,area_mil_ha,2025/26,3.9,3.9,0.0,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PI,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,PR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,RS,area_mil_ha,2025/26,4.1,6.0,31.66666666666667,baseline_ingenuo
+produto_uf,UF,GIRASSOL,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,SP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,GIRASSOL,TO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,BA,area_mil_ha,2025/26,69.5,76.0,8.552631578947368,baseline_ingenuo
+produto_uf,UF,MAMONA,CE,area_mil_ha,2025/26,0.1,0.1,0.0,baseline_ingenuo
+produto_uf,UF,MAMONA,DF,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,GO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MG,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,MT,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PI,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,PR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,RS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,SP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MAMONA,TO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AC,area_mil_ha,2025/26,41.0,42.400000000000006,3.3018867924528434,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AL,area_mil_ha,2025/26,31.2,32.7,4.587155963302763,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AM,area_mil_ha,2025/26,8.3,8.3,0.0,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,AP,area_mil_ha,2025/26,2.0,2.0,0.0,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,BA,area_mil_ha,2025/26,732.1,688.9,6.270866598925831,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,CE,area_mil_ha,2025/26,591.0,592.8,0.30364372469634865,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,DF,area_mil_ha,2025/26,56.2,55.2,1.8115942028985508,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,ES,area_mil_ha,2025/26,16.6,16.5,0.6060606060606146,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,GO,area_mil_ha,2025/26,1969.1,1949.1,1.0261146170027193,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MA,area_mil_ha,2025/26,597.1,599.7,0.4335501083875309,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MG,area_mil_ha,2025/26,1083.7,1141.3,5.046876369052827,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MS,area_mil_ha,2025/26,2081.6,2147.0,3.046110852352123,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,MT,area_mil_ha,2025/26,7287.4,7561.599999999999,3.6262166737198456,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PA,area_mil_ha,2025/26,512.2,571.4000000000001,10.360518025901301,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PB,area_mil_ha,2025/26,117.2,117.2,0.0,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PE,area_mil_ha,2025/26,196.2,194.4,0.9259259259259172,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PI,area_mil_ha,2025/26,468.9,418.3,12.09658140090843,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,PR,area_mil_ha,2025/26,3059.7000000000003,3181.2000000000003,3.819313466616371,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RJ,area_mil_ha,2025/26,1.5,1.4,7.1428571428571495,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RN,area_mil_ha,2025/26,64.2,61.0,5.245901639344267,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RO,area_mil_ha,2025/26,493.3,523.6,5.786860198624907,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RR,area_mil_ha,2025/26,20.0,20.0,0.0,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,RS,area_mil_ha,2025/26,715.5,817.1,12.434218577897445,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,SC,area_mil_ha,2025/26,288.1,309.4,6.884292178409811,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,SE,area_mil_ha,2025/26,186.1,186.1,0.0,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,SP,area_mil_ha,2025/26,744.8,772.7,3.610715672317858,baseline_ingenuo
+produto_uf,UF,MILHO TOTAL,TO,area_mil_ha,2025/26,473.0,514.3,8.030332490764138,baseline_ingenuo
+produto_uf,UF,SOJA,AC,area_mil_ha,2025/26,18.6,22.0,15.454545454545448,baseline_ingenuo
+produto_uf,UF,SOJA,AL,area_mil_ha,2025/26,4.9,7.5,34.666666666666664,baseline_ingenuo
+produto_uf,UF,SOJA,AM,area_mil_ha,2025/26,13.5,17.7,23.72881355932203,baseline_ingenuo
+produto_uf,UF,SOJA,AP,area_mil_ha,2025/26,10.0,12.0,16.666666666666664,baseline_ingenuo
+produto_uf,UF,SOJA,BA,area_mil_ha,2025/26,2135.6,2336.3,8.590506356204266,baseline_ingenuo
+produto_uf,UF,SOJA,CE,area_mil_ha,2025/26,3.8,3.6,5.555555555555548,baseline_ingenuo
+produto_uf,UF,SOJA,DF,area_mil_ha,2025/26,88.4,89.7,1.4492753623188372,baseline_ingenuo
+produto_uf,UF,SOJA,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SOJA,GO,area_mil_ha,2025/26,4954.7,5152.9,3.8463777678588724,baseline_ingenuo
+produto_uf,UF,SOJA,MA,area_mil_ha,2025/26,1436.1,1522.3,5.662484398607374,baseline_ingenuo
+produto_uf,UF,SOJA,MG,area_mil_ha,2025/26,2316.9,2342.4,1.0886270491803278,baseline_ingenuo
+produto_uf,UF,SOJA,MS,area_mil_ha,2025/26,4253.4,4364.0,2.5343721356553703,baseline_ingenuo
+produto_uf,UF,SOJA,MT,area_mil_ha,2025/26,12738.7,13006.2,2.0567114145561347,baseline_ingenuo
+produto_uf,UF,SOJA,PA,area_mil_ha,2025/26,1260.3,1400.2,9.991429795743471,baseline_ingenuo
+produto_uf,UF,SOJA,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SOJA,PE,area_mil_ha,2025/26,0.8,0.8,0.0,baseline_ingenuo
+produto_uf,UF,SOJA,PI,area_mil_ha,2025/26,1097.9,1148.4,4.397422500870777,baseline_ingenuo
+produto_uf,UF,SOJA,PR,area_mil_ha,2025/26,5343.3,5412.8,1.2839934968962459,baseline_ingenuo
+produto_uf,UF,SOJA,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SOJA,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SOJA,RO,area_mil_ha,2025/26,694.7,716.9,3.0966662017017623,baseline_ingenuo
+produto_uf,UF,SOJA,RR,area_mil_ha,2025/26,135.9,145.5,6.597938144329893,baseline_ingenuo
+produto_uf,UF,SOJA,RS,area_mil_ha,2025/26,7098.7,6836.0,3.84289057928613,baseline_ingenuo
+produto_uf,UF,SOJA,SC,area_mil_ha,2025/26,819.8,820.6,0.09748964172557496,baseline_ingenuo
+produto_uf,UF,SOJA,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SOJA,SP,area_mil_ha,2025/26,1355.6,1396.3,2.914846379717829,baseline_ingenuo
+produto_uf,UF,SOJA,TO,area_mil_ha,2025/26,1564.5,1680.3,6.891626495268699,baseline_ingenuo
+produto_uf,UF,SORGO,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,BA,area_mil_ha,2025/26,206.0,210.3,2.04469805040419,baseline_ingenuo
+produto_uf,UF,SORGO,CE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,DF,area_mil_ha,2025/26,18.5,18.5,0.0,baseline_ingenuo
+produto_uf,UF,SORGO,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,GO,area_mil_ha,2025/26,394.7,438.1,9.906414060716738,baseline_ingenuo
+produto_uf,UF,SORGO,MA,area_mil_ha,2025/26,50.6,80.0,36.75,baseline_ingenuo
+produto_uf,UF,SORGO,MG,area_mil_ha,2025/26,372.3,403.2,7.663690476190471,baseline_ingenuo
+produto_uf,UF,SORGO,MS,area_mil_ha,2025/26,137.8,167.8,17.878426698450536,baseline_ingenuo
+produto_uf,UF,SORGO,MT,area_mil_ha,2025/26,96.0,108.9,11.845730027548214,baseline_ingenuo
+produto_uf,UF,SORGO,PA,area_mil_ha,2025/26,82.2,91.2,9.868421052631579,baseline_ingenuo
+produto_uf,UF,SORGO,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,PI,area_mil_ha,2025/26,80.9,87.0,7.011494252873557,baseline_ingenuo
+produto_uf,UF,SORGO,PR,area_mil_ha,2025/26,0.4,0.4,0.0,baseline_ingenuo
+produto_uf,UF,SORGO,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,RS,area_mil_ha,2025/26,0.0,6.2,100.0,baseline_ingenuo
+produto_uf,UF,SORGO,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,SORGO,SP,area_mil_ha,2025/26,138.0,148.8,7.25806451612904,baseline_ingenuo
+produto_uf,UF,SORGO,TO,area_mil_ha,2025/26,54.6,63.3,13.744075829383881,baseline_ingenuo
+produto_uf,UF,TRIGO,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,BA,area_mil_ha,2025/26,5.0,5.0,0.0,baseline_ingenuo
+produto_uf,UF,TRIGO,CE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,DF,area_mil_ha,2025/26,7.4,7.9,6.329113924050632,baseline_ingenuo
+produto_uf,UF,TRIGO,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,GO,area_mil_ha,2025/26,45.0,45.0,0.0,baseline_ingenuo
+produto_uf,UF,TRIGO,MA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,MG,area_mil_ha,2025/26,151.1,144.1,4.857737682165164,baseline_ingenuo
+produto_uf,UF,TRIGO,MS,area_mil_ha,2025/26,36.4,34.5,5.50724637681159,baseline_ingenuo
+produto_uf,UF,TRIGO,MT,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PI,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,PR,area_mil_ha,2025/26,819.0,819.0,0.0,baseline_ingenuo
+produto_uf,UF,TRIGO,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,RS,area_mil_ha,2025/26,1156.9,1037.7,11.486942276187726,baseline_ingenuo
+produto_uf,UF,TRIGO,SC,area_mil_ha,2025/26,110.1,110.1,0.0,baseline_ingenuo
+produto_uf,UF,TRIGO,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRIGO,SP,area_mil_ha,2025/26,115.0,115.0,0.0,baseline_ingenuo
+produto_uf,UF,TRIGO,TO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AL,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AM,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,AP,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,BA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,CE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,DF,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,ES,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,GO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MG,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MS,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,MT,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PA,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PB,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PI,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,PR,area_mil_ha,2025/26,6.0,6.0,0.0,baseline_ingenuo
+produto_uf,UF,TRITICALE,RJ,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RN,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RR,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,RS,area_mil_ha,2025/26,3.6,3.6,0.0,baseline_ingenuo
+produto_uf,UF,TRITICALE,SC,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,SE,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+produto_uf,UF,TRITICALE,SP,area_mil_ha,2025/26,1.8,1.8,0.0,baseline_ingenuo
+produto_uf,UF,TRITICALE,TO,area_mil_ha,2025/26,0.0,0.0,,baseline_ingenuo
+uf,AGREGADO_REGIONAL,TODAS,CENTRO-SUL,area_mil_ha,2025/26,65734.8,66589.1,1.2829427038359174,baseline_ingenuo
+uf,AGREGADO_REGIONAL,TODAS,NORTE/NORDESTE,area_mil_ha,2025/26,16000.0,16668.8,4.012286427337297,baseline_ingenuo
+uf,REGIAO,TODAS,CENTRO-OESTE,area_mil_ha,2025/26,36724.5,37583.8,2.2863574199522207,baseline_ingenuo
+uf,REGIAO,TODAS,NORDESTE,area_mil_ha,2025/26,10041.6,10295.4,2.465178623462899,baseline_ingenuo
+uf,REGIAO,TODAS,NORTE,area_mil_ha,2025/26,5958.4,6373.4,6.511438164872753,baseline_ingenuo
+uf,REGIAO,TODAS,SUDESTE,area_mil_ha,2025/26,6994.0,7172.0,2.481873954266592,baseline_ingenuo
+uf,REGIAO,TODAS,SUL,area_mil_ha,2025/26,22016.3,21833.3,0.8381692185789597,baseline_ingenuo
+uf,TOTAL_BRASIL,TODAS,BRASIL,area_mil_ha,2025/26,81734.8,83257.9,1.8293759511109353,baseline_ingenuo
+uf,UF,TODAS,AC,area_mil_ha,2025/26,68.7,73.2,6.147540983606557,baseline_ingenuo
+uf,UF,TODAS,AL,area_mil_ha,2025/26,59.3,59.9,1.0016694490818054,baseline_ingenuo
+uf,UF,TODAS,AM,area_mil_ha,2025/26,28.6,34.3,16.61807580174926,baseline_ingenuo
+uf,UF,TODAS,AP,area_mil_ha,2025/26,14.0,15.7,10.828025477707003,baseline_ingenuo
+uf,UF,TODAS,BA,area_mil_ha,2025/26,3941.2,4110.9,4.128049818774474,baseline_ingenuo
+uf,UF,TODAS,CE,area_mil_ha,2025/26,938.7,935.5,0.3420630678781449,baseline_ingenuo
+uf,UF,TODAS,DF,area_mil_ha,2025/26,186.4,187.0,0.320855614973259,baseline_ingenuo
+uf,UF,TODAS,ES,area_mil_ha,2025/26,25.2,25.6,1.5625000000000084,baseline_ingenuo
+uf,UF,TODAS,GO,area_mil_ha,2025/26,7593.0,7803.1,2.6925196396304076,baseline_ingenuo
+uf,UF,TODAS,MA,area_mil_ha,2025/26,2257.6,2352.5,4.03400637619554,baseline_ingenuo
+uf,UF,TODAS,MG,area_mil_ha,2025/26,4298.0,4398.5,2.284869841991588,baseline_ingenuo
+uf,UF,TODAS,MS,area_mil_ha,2025/26,6645.0,6845.4,2.9275133666403663,baseline_ingenuo
+uf,UF,TODAS,MT,area_mil_ha,2025/26,22300.1,22748.3,1.9702571181143238,baseline_ingenuo
+uf,UF,TODAS,PA,area_mil_ha,2025/26,2023.8,2237.0,9.530621367903445,baseline_ingenuo
+uf,UF,TODAS,PB,area_mil_ha,2025/26,224.2,226.1,0.8403361344537841,baseline_ingenuo
+uf,UF,TODAS,PE,area_mil_ha,2025/26,370.7,368.5,0.5970149253731312,baseline_ingenuo
+uf,UF,TODAS,PI,area_mil_ha,2025/26,1942.6,1940.5,0.10821953104869411,baseline_ingenuo
+uf,UF,TODAS,PR,area_mil_ha,2025/26,9954.9,10052.9,0.974843080106238,baseline_ingenuo
+uf,UF,TODAS,RJ,area_mil_ha,2025/26,2.8,2.6,7.692307692307682,baseline_ingenuo
+uf,UF,TODAS,RN,area_mil_ha,2025/26,112.6,107.0,5.2336448598130785,baseline_ingenuo
+uf,UF,TODAS,RO,area_mil_ha,2025/26,1242.8,1277.2,2.6933917945505863,baseline_ingenuo
+uf,UF,TODAS,RR,area_mil_ha,2025/26,171.9,181.5,5.289256198347105,baseline_ingenuo
+uf,UF,TODAS,RS,area_mil_ha,2025/26,10632.4,10336.0,2.867647058823526,baseline_ingenuo
+uf,UF,TODAS,SC,area_mil_ha,2025/26,1429.0,1444.4,1.0661866518969876,baseline_ingenuo
+uf,UF,TODAS,SE,area_mil_ha,2025/26,194.7,194.5,0.10282776349613812,baseline_ingenuo
+uf,UF,TODAS,SP,area_mil_ha,2025/26,2668.0,2745.3,2.8157214147816334,baseline_ingenuo
+uf,UF,TODAS,TO,area_mil_ha,2025/26,2408.6,2554.5,5.711489528283424,baseline_ingenuo

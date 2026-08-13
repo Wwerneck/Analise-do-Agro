@@ -1,0 +1,39 @@
+{
+  "executed_at": "2026-08-13T12:25:39Z",
+  "modelos": [
+    "baseline_ingenuo",
+    "regressao_linear",
+    "random_forest",
+    "xgboost",
+    "exponential_smoothing"
+  ],
+  "modelo_efetivamente_usado": "baseline_ingenuo",
+  "motivo": "Historico oficial disponivel possui somente duas safras; modelos complexos foram bloqueados por insuficiencia de dados.",
+  "features": [
+    "area_mil_ha_lag_1",
+    "area_mil_ha_lag_2",
+    "area_mil_ha_lag_3",
+    "area_mil_ha_media_movel_3",
+    "area_mil_ha_media_movel_5",
+    "area_mil_ha_crescimento_pct",
+    "area_mil_ha_volatilidade",
+    "produtividade_kg_ha_lag_1",
+    "produtividade_kg_ha_lag_2",
+    "produtividade_kg_ha_lag_3",
+    "produtividade_kg_ha_media_movel_3",
+    "produtividade_kg_ha_media_movel_5",
+    "produtividade_kg_ha_crescimento_pct",
+    "produtividade_kg_ha_volatilidade",
+    "producao_mil_t_lag_1",
+    "producao_mil_t_lag_2",
+    "producao_mil_t_lag_3",
+    "producao_mil_t_media_movel_3",
+    "producao_mil_t_media_movel_5",
+    "producao_mil_t_crescimento_pct",
+    "producao_mil_t_volatilidade"
+  ],
+  "warnings": [
+    "Historico insuficiente para Machine Learning temporal: 2 safras encontradas (2024/25, 2025/26); minimo recomendado: 5.",
+    "Nenhuma serie possui observacoes suficientes para treinamento preditivo robusto."
+  ]
+}
