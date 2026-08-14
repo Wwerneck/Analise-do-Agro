@@ -13,7 +13,7 @@ jobs:
   tests:
     runs-on: ubuntu-latest
     env:
-      MPLCONFIGDIR: ${{ runner.temp }}/matplotlib
+      MPLCONFIGDIR: .matplotlib
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
