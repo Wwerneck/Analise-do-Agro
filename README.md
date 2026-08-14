@@ -1,6 +1,23 @@
 # Agroscope
 
+<p align="center">
+  <a href="https://wwerneck.github.io/Analise-do-Agro/"><img alt="Dashboard ao vivo" src="https://img.shields.io/badge/Dashboard-GitHub%20Pages-2ea44f?logo=githubpages&logoColor=white"></a>
+  <a href="https://github.com/Wwerneck/Analise-do-Agro/actions/workflows/tests.yml"><img alt="Testes" src="https://github.com/Wwerneck/Analise-do-Agro/actions/workflows/tests.yml/badge.svg?branch=main"></a>
+  <a href="./CHANGELOG.md"><img alt="Release" src="https://img.shields.io/badge/release-v1.0.0-2ea44f"></a>
+</p>
+
 Projeto de analytics com dados oficiais da CONAB para a estimativa da safra 2025/26, comparada a 2024/25. O objetivo e transformar arquivos brutos em bases auditaveis, metricas, visualizacoes, consultas SQL e um dashboard executivo estatico sobre a producao agricola brasileira.
+
+<p align="center">
+  <img src="reports/figures/top_10_produtos_producao.png" alt="Top 10 produtos por produção" width="49%"> 
+  <img src="reports/figures/pareto_ufs_producao.png" alt="Pareto da produção por UF" width="49%">
+</p>
+
+## Avaliação rápida
+
+- [**Abrir dashboard executivo no GitHub Pages**](https://wwerneck.github.io/Analise-do-Agro/)
+- Pipeline auditável com extração, tratamento, validação, métricas, visualizações, SQL e análises complementares em R.
+- Testes automatizados de qualidade dos dados e da camada preditiva, executados também por CI.
 
 ## Destaques
 
@@ -183,17 +200,11 @@ A pasta `sql` contem:
 - `load.sql`: exemplo de carga.
 - `analytics_queries.sql`: consultas para rankings, variacoes e concentracao.
 
-## Preparacao para GitHub
+## Publicação
 
-Repositorio Git local preparado na branch `main`. Para publicar no GitHub:
+O dashboard executivo está disponível em [GitHub Pages](https://wwerneck.github.io/Analise-do-Agro/). A publicação é gerada a partir do conteúdo estático em `docs/`.
 
-```powershell
-git push -u origin main
-```
-
-Depois, no GitHub, ative o Pages em `Settings > Pages > Build and deployment > Deploy from a branch`, escolhendo `main` e a pasta `/docs`.
-
-Antes do push, rode:
+Antes de atualizar os artefatos publicados, valide o projeto localmente:
 
 ```powershell
 python -m pytest -q
@@ -211,4 +222,4 @@ python -m pytest -q
 - Incorporar series historicas oficiais.
 - Criar carga real em PostgreSQL.
 - Expandir notebooks com narrativa visual.
-- Publicar o dashboard em GitHub Pages ou outra hospedagem estatica.
+- Evoluir a publicação para atualizações automatizadas quando houver novas séries oficiais.
